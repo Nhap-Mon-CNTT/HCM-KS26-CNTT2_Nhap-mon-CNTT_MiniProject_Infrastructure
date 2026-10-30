@@ -1,0 +1,3000 @@
+2026-10-30 00:00:39 [WARN] web-01 Disk usage at 82 percent on /data
+2026-10-30 00:01:09 [INFO] web-02 GET /api/sensors/TRAM018 200 OK 91ms
+2026-10-30 00:01:15 [INFO] api-01 Sensor TRAM021 heartbeat received
+2026-10-30 00:01:54 [ERROR] api-01 ERROR 404 resource not found /static/chart-5073.js
+2026-10-30 00:02:26 [INFO] db-01 User login success uid=2830
+2026-10-30 00:02:50 [INFO] web-01 User login success uid=5129
+2026-10-30 00:03:03 [INFO] api-01 Sensor TRAM041 heartbeat received
+2026-10-30 00:03:19 [INFO] db-01 User login success uid=6427
+2026-10-30 00:03:45 [INFO] db-01 Sensor TRAM009 heartbeat received
+2026-10-30 00:04:06 [ERROR] web-02 GET /api/reports/5187 404 Not Found
+2026-10-30 00:04:22 [INFO] db-01 POST /api/readings 201 Created 689ms
+2026-10-30 00:04:50 [ERROR] db-01 ERROR 404 resource not found /static/chart-5906.js
+2026-10-30 00:05:19 [INFO] api-01 GET /dashboard 200 OK 859ms
+2026-10-30 00:05:57 [INFO] web-01 GET /dashboard 200 OK 311ms
+2026-10-30 00:06:14 [INFO] api-01 User login success uid=1535
+2026-10-30 00:06:44 [INFO] db-01 Backup job started
+2026-10-30 00:06:49 [INFO] db-01 GET /dashboard 200 OK 516ms
+2026-10-30 00:07:27 [INFO] api-01 Backup job started
+2026-10-30 00:07:33 [INFO] db-01 POST /api/readings 201 Created 495ms
+2026-10-30 00:07:42 [INFO] web-01 Cache refreshed
+2026-10-30 00:08:07 [INFO] web-01 Backup job started
+2026-10-30 00:08:34 [INFO] web-02 GET /api/sensors/TRAM098 200 OK 496ms
+2026-10-30 00:09:00 [INFO] web-01 Sensor TRAM014 heartbeat received
+2026-10-30 00:09:11 [INFO] web-01 GET /dashboard 200 OK 170ms
+2026-10-30 00:09:26 [INFO] api-01 User login success uid=7107
+2026-10-30 00:09:43 [INFO] web-02 POST /api/readings 201 Created 598ms
+2026-10-30 00:09:57 [INFO] web-02 Backup job started
+2026-10-30 00:10:14 [INFO] db-01 GET /api/sensors/TRAM054 200 OK 214ms
+2026-10-30 00:10:37 [INFO] web-01 Cache refreshed
+2026-10-30 00:11:12 [INFO] web-01 User login success uid=8598
+2026-10-30 00:11:47 [ERROR] db-01 ERROR 404 resource not found /static/chart-1735.js
+2026-10-30 00:12:05 [INFO] api-01 User login success uid=8881
+2026-10-30 00:12:11 [INFO] db-01 User login success uid=4002
+2026-10-30 00:12:36 [INFO] web-01 Sensor TRAM099 heartbeat received
+2026-10-30 00:12:53 [INFO] web-01 GET /api/sensors/TRAM023 200 OK 32ms
+2026-10-30 00:13:18 [INFO] api-01 Backup job started
+2026-10-30 00:13:57 [ERROR] web-01 ERROR 404 resource not found /static/chart-9948.js
+2026-10-30 00:14:09 [ERROR] db-01 GET /api/sensors/TRAM056 404 Not Found
+2026-10-30 00:14:25 [INFO] web-02 Sensor TRAM015 heartbeat received
+2026-10-30 00:15:03 [INFO] web-02 GET /api/sensors/TRAM046 200 OK 428ms
+2026-10-30 00:15:38 [INFO] db-01 Cache refreshed
+2026-10-30 00:15:54 [INFO] api-01 User login success uid=3921
+2026-10-30 00:16:13 [INFO] web-01 POST /api/readings 201 Created 29ms
+2026-10-30 00:16:50 [INFO] web-02 Backup job started
+2026-10-30 00:17:03 [WARN] web-01 Slow response from TRAM079 163ms
+2026-10-30 00:17:28 [INFO] web-01 GET /api/sensors/TRAM098 200 OK 866ms
+2026-10-30 00:17:54 [INFO] web-02 GET /dashboard 200 OK 527ms
+2026-10-30 00:18:16 [WARN] api-01 Slow response from TRAM043 194ms
+2026-10-30 00:18:52 [INFO] web-02 User login success uid=4693
+2026-10-30 00:19:10 [INFO] api-01 Backup job started
+2026-10-30 00:19:47 [INFO] api-01 POST /api/readings 201 Created 261ms
+2026-10-30 00:20:17 [INFO] db-01 GET /api/sensors/TRAM042 200 OK 673ms
+2026-10-30 00:20:24 [INFO] web-02 User login success uid=8974
+2026-10-30 00:20:48 [INFO] web-02 POST /api/readings 201 Created 758ms
+2026-10-30 00:21:04 [INFO] web-02 Sensor TRAM088 heartbeat received
+2026-10-30 00:21:43 [INFO] web-01 User login success uid=3307
+2026-10-30 00:21:55 [INFO] api-01 User login success uid=1298
+2026-10-30 00:22:16 [INFO] db-01 POST /api/readings 201 Created 441ms
+2026-10-30 00:22:37 [INFO] web-02 GET /dashboard 200 OK 468ms
+2026-10-30 00:22:47 [INFO] web-01 Backup job started
+2026-10-30 00:22:59 [INFO] web-02 GET /dashboard 200 OK 666ms
+2026-10-30 00:23:32 [INFO] db-01 Sensor TRAM072 heartbeat received
+2026-10-30 00:24:08 [INFO] db-01 GET /dashboard 200 OK 799ms
+2026-10-30 00:24:35 [WARN] web-01 Disk usage at 82 percent on /data
+2026-10-30 00:24:46 [INFO] web-01 Cache refreshed
+2026-10-30 00:24:51 [INFO] web-01 POST /api/readings 201 Created 531ms
+2026-10-30 00:25:21 [INFO] web-02 Backup job started
+2026-10-30 00:25:57 [INFO] web-01 Sensor TRAM077 heartbeat received
+2026-10-30 00:26:26 [INFO] web-02 GET /api/sensors/TRAM089 200 OK 494ms
+2026-10-30 00:26:40 [INFO] web-01 Backup job started
+2026-10-30 00:26:59 [INFO] db-01 GET /api/sensors/TRAM075 200 OK 757ms
+2026-10-30 00:27:35 [INFO] web-01 Cache refreshed
+2026-10-30 00:28:01 [INFO] api-01 Cache refreshed
+2026-10-30 00:28:30 [INFO] db-01 POST /api/readings 201 Created 208ms
+2026-10-30 00:28:57 [INFO] db-01 GET /api/sensors/TRAM034 200 OK 104ms
+2026-10-30 00:29:08 [INFO] db-01 GET /dashboard 200 OK 726ms
+2026-10-30 00:29:16 [INFO] web-01 Cache refreshed
+2026-10-30 00:29:25 [INFO] api-01 User login success uid=9835
+2026-10-30 00:29:31 [ERROR] web-01 Connection TIMEOUT to TRAM011 after 30s
+2026-10-30 00:29:37 [ERROR] web-01 Database query TIMEOUT after 30s
+2026-10-30 00:29:47 [INFO] api-01 Cache refreshed
+2026-10-30 00:30:15 [INFO] db-01 Backup job started
+2026-10-30 00:30:49 [ERROR] api-01 Database query TIMEOUT after 30s
+2026-10-30 00:30:59 [ERROR] db-01 Connection TIMEOUT to TRAM071 after 30s
+2026-10-30 00:31:19 [INFO] api-01 POST /api/readings 201 Created 347ms
+2026-10-30 00:31:26 [INFO] web-01 Sensor TRAM048 heartbeat received
+2026-10-30 00:31:47 [INFO] web-02 Backup job started
+2026-10-30 00:32:15 [WARN] db-01 Retry connecting to TRAM092 attempt 2
+2026-10-30 00:32:40 [INFO] web-01 GET /api/sensors/TRAM038 200 OK 365ms
+2026-10-30 00:32:58 [INFO] api-01 Cache refreshed
+2026-10-30 00:33:04 [WARN] api-01 Disk usage at 82 percent on /data
+2026-10-30 00:33:10 [INFO] web-02 Cache refreshed
+2026-10-30 00:33:25 [INFO] web-02 GET /dashboard 200 OK 560ms
+2026-10-30 00:33:56 [INFO] api-01 GET /api/sensors/TRAM046 200 OK 55ms
+2026-10-30 00:34:04 [INFO] web-01 Sensor TRAM035 heartbeat received
+2026-10-30 00:34:35 [INFO] api-01 GET /api/sensors/TRAM002 200 OK 357ms
+2026-10-30 00:34:48 [WARN] web-01 Slow response from TRAM012 111ms
+2026-10-30 00:35:05 [INFO] web-01 GET /api/sensors/TRAM035 200 OK 37ms
+2026-10-30 00:35:24 [INFO] db-01 Backup job started
+2026-10-30 00:35:51 [INFO] db-01 GET /api/sensors/TRAM098 200 OK 248ms
+2026-10-30 00:36:04 [ERROR] web-02 GET /api/sensors/TRAM094 404 Not Found
+2026-10-30 00:36:28 [INFO] db-01 POST /api/readings 201 Created 788ms
+2026-10-30 00:36:41 [INFO] web-01 Sensor TRAM054 heartbeat received
+2026-10-30 00:37:19 [INFO] api-01 Cache refreshed
+2026-10-30 00:37:29 [INFO] db-01 Cache refreshed
+2026-10-30 00:37:41 [WARN] web-01 Slow response from TRAM075 714ms
+2026-10-30 00:38:18 [INFO] web-02 User login success uid=3443
+2026-10-30 00:38:42 [INFO] api-01 GET /api/sensors/TRAM097 200 OK 289ms
+2026-10-30 00:38:48 [INFO] api-01 GET /api/sensors/TRAM018 200 OK 355ms
+2026-10-30 00:39:07 [INFO] web-02 User login success uid=9761
+2026-10-30 00:39:36 [WARN] api-01 Retry connecting to TRAM061 attempt 2
+2026-10-30 00:39:42 [ERROR] api-01 GET /api/sensors/TRAM090 404 Not Found
+2026-10-30 00:40:06 [INFO] api-01 GET /api/sensors/TRAM031 200 OK 689ms
+2026-10-30 00:40:44 [INFO] db-01 Backup job started
+2026-10-30 00:41:11 [INFO] web-01 POST /api/readings 201 Created 104ms
+2026-10-30 00:41:21 [INFO] db-01 GET /api/sensors/TRAM033 200 OK 193ms
+2026-10-30 00:41:51 [INFO] db-01 GET /api/sensors/TRAM041 200 OK 623ms
+2026-10-30 00:41:57 [INFO] db-01 Backup job started
+2026-10-30 00:42:34 [ERROR] api-01 Connection TIMEOUT to TRAM071 after 30s
+2026-10-30 00:42:49 [WARN] db-01 Retry connecting to TRAM064 attempt 2
+2026-10-30 00:43:16 [INFO] web-01 GET /dashboard 200 OK 245ms
+2026-10-30 00:43:21 [INFO] api-01 Cache refreshed
+2026-10-30 00:43:42 [INFO] web-02 Backup job started
+2026-10-30 00:44:09 [INFO] web-02 POST /api/readings 201 Created 116ms
+2026-10-30 00:44:15 [INFO] web-01 GET /dashboard 200 OK 531ms
+2026-10-30 00:44:27 [INFO] web-01 User login success uid=7066
+2026-10-30 00:44:53 [INFO] api-01 Cache refreshed
+2026-10-30 00:45:31 [INFO] web-02 User login success uid=1602
+2026-10-30 00:45:37 [INFO] web-02 POST /api/readings 201 Created 518ms
+2026-10-30 00:45:42 [INFO] web-02 User login success uid=2002
+2026-10-30 00:45:51 [INFO] db-01 Cache refreshed
+2026-10-30 00:46:12 [INFO] db-01 GET /api/sensors/TRAM037 200 OK 296ms
+2026-10-30 00:46:41 [INFO] web-02 GET /api/sensors/TRAM057 200 OK 83ms
+2026-10-30 00:47:17 [INFO] api-01 GET /api/sensors/TRAM076 200 OK 146ms
+2026-10-30 00:47:42 [INFO] web-02 Sensor TRAM030 heartbeat received
+2026-10-30 00:47:56 [ERROR] db-01 ERROR 404 resource not found /static/chart-7549.js
+2026-10-30 00:48:10 [CRITICAL] web-02 Database connection pool exhausted
+2026-10-30 00:48:30 [INFO] db-01 Backup job started
+2026-10-30 00:48:50 [INFO] web-02 GET /dashboard 200 OK 258ms
+2026-10-30 00:49:07 [INFO] api-01 POST /api/readings 201 Created 218ms
+2026-10-30 00:49:40 [INFO] db-01 GET /dashboard 200 OK 377ms
+2026-10-30 00:50:18 [INFO] db-01 Cache refreshed
+2026-10-30 00:50:52 [CRITICAL] db-01 Sensor gateway unreachable, 12 stations offline
+2026-10-30 00:51:19 [INFO] db-01 Sensor TRAM024 heartbeat received
+2026-10-30 00:51:42 [INFO] web-01 Cache refreshed
+2026-10-30 00:51:52 [INFO] db-01 GET /dashboard 200 OK 61ms
+2026-10-30 00:52:30 [WARN] api-01 Retry connecting to TRAM077 attempt 2
+2026-10-30 00:52:48 [INFO] db-01 Cache refreshed
+2026-10-30 00:53:04 [INFO] web-02 GET /api/sensors/TRAM076 200 OK 743ms
+2026-10-30 00:53:10 [ERROR] web-02 GET /api/sensors/TRAM029 404 Not Found
+2026-10-30 00:53:20 [CRITICAL] web-02 Out of memory, service restarting
+2026-10-30 00:53:35 [INFO] api-01 GET /api/sensors/TRAM088 200 OK 850ms
+2026-10-30 00:54:13 [WARN] web-02 Disk usage at 82 percent on /data
+2026-10-30 00:54:36 [ERROR] api-01 ERROR 404 resource not found /static/chart-6757.js
+2026-10-30 00:54:53 [INFO] db-01 Cache refreshed
+2026-10-30 00:55:12 [INFO] web-02 POST /api/readings 201 Created 33ms
+2026-10-30 00:55:42 [INFO] web-01 POST /api/readings 201 Created 442ms
+2026-10-30 00:56:17 [INFO] db-01 GET /dashboard 200 OK 529ms
+2026-10-30 00:56:32 [INFO] web-02 POST /api/readings 201 Created 252ms
+2026-10-30 00:56:37 [INFO] web-01 User login success uid=8752
+2026-10-30 00:57:16 [INFO] web-01 Cache refreshed
+2026-10-30 00:57:31 [INFO] db-01 User login success uid=9385
+2026-10-30 00:57:55 [INFO] web-02 POST /api/readings 201 Created 508ms
+2026-10-30 00:58:07 [INFO] api-01 Sensor TRAM083 heartbeat received
+2026-10-30 00:58:33 [WARN] db-01 Disk usage at 82 percent on /data
+2026-10-30 00:59:01 [CRITICAL] api-01 Disk full on /data, write failed
+2026-10-30 00:59:22 [INFO] api-01 User login success uid=7488
+2026-10-30 00:59:29 [INFO] web-02 GET /api/sensors/TRAM044 200 OK 808ms
+2026-10-30 00:59:42 [INFO] web-02 GET /api/sensors/TRAM094 200 OK 49ms
+2026-10-30 00:59:50 [WARN] api-01 Slow response from TRAM018 123ms
+2026-10-30 01:00:30 [INFO] api-01 GET /api/sensors/TRAM008 200 OK 613ms
+2026-10-30 01:00:58 [INFO] db-01 GET /api/sensors/TRAM081 200 OK 601ms
+2026-10-30 01:01:22 [INFO] api-01 Cache refreshed
+2026-10-30 01:01:36 [INFO] api-01 GET /dashboard 200 OK 312ms
+2026-10-30 01:02:05 [INFO] db-01 Sensor TRAM019 heartbeat received
+2026-10-30 01:02:14 [INFO] web-02 GET /dashboard 200 OK 107ms
+2026-10-30 01:02:43 [INFO] web-01 Cache refreshed
+2026-10-30 01:02:49 [INFO] web-02 User login success uid=7780
+2026-10-30 01:03:21 [INFO] web-02 Sensor TRAM084 heartbeat received
+2026-10-30 01:03:44 [INFO] api-01 Backup job started
+2026-10-30 01:04:23 [ERROR] web-01 Database query TIMEOUT after 30s
+2026-10-30 01:04:31 [INFO] api-01 GET /dashboard 200 OK 102ms
+2026-10-30 01:05:02 [INFO] web-02 GET /api/sensors/TRAM025 200 OK 66ms
+2026-10-30 01:05:21 [INFO] api-01 GET /api/sensors/TRAM090 200 OK 742ms
+2026-10-30 01:05:31 [INFO] web-01 Cache refreshed
+2026-10-30 01:06:05 [INFO] db-01 GET /api/sensors/TRAM043 200 OK 721ms
+2026-10-30 01:06:44 [INFO] api-01 Sensor TRAM063 heartbeat received
+2026-10-30 01:07:15 [INFO] api-01 GET /api/sensors/TRAM063 200 OK 879ms
+2026-10-30 01:07:38 [INFO] web-02 GET /dashboard 200 OK 637ms
+2026-10-30 01:07:55 [INFO] web-01 Backup job started
+2026-10-30 01:08:23 [INFO] db-01 Cache refreshed
+2026-10-30 01:08:41 [ERROR] api-01 GET /api/reports/8672 404 Not Found
+2026-10-30 01:09:09 [INFO] api-01 GET /dashboard 200 OK 21ms
+2026-10-30 01:09:37 [WARN] web-01 Retry connecting to TRAM064 attempt 2
+2026-10-30 01:09:47 [WARN] api-01 Slow response from TRAM003 264ms
+2026-10-30 01:10:15 [INFO] web-01 User login success uid=6186
+2026-10-30 01:10:36 [INFO] api-01 GET /dashboard 200 OK 506ms
+2026-10-30 01:11:13 [INFO] api-01 User login success uid=1812
+2026-10-30 01:11:40 [INFO] api-01 GET /dashboard 200 OK 604ms
+2026-10-30 01:12:05 [INFO] api-01 Backup job started
+2026-10-30 01:12:22 [INFO] api-01 Sensor TRAM015 heartbeat received
+2026-10-30 01:12:52 [INFO] web-02 GET /api/sensors/TRAM063 200 OK 659ms
+2026-10-30 01:13:02 [INFO] db-01 Sensor TRAM059 heartbeat received
+2026-10-30 01:13:35 [INFO] api-01 GET /dashboard 200 OK 458ms
+2026-10-30 01:13:54 [ERROR] db-01 Database query TIMEOUT after 30s
+2026-10-30 01:14:17 [INFO] web-01 Backup job started
+2026-10-30 01:14:25 [INFO] api-01 User login success uid=9112
+2026-10-30 01:14:30 [ERROR] web-01 Connection TIMEOUT to TRAM087 after 30s
+2026-10-30 01:14:58 [INFO] api-01 POST /api/readings 201 Created 452ms
+2026-10-30 01:15:33 [INFO] api-01 Cache refreshed
+2026-10-30 01:15:59 [WARN] api-01 Disk usage at 82 percent on /data
+2026-10-30 01:16:04 [INFO] db-01 GET /api/sensors/TRAM030 200 OK 771ms
+2026-10-30 01:16:30 [WARN] web-01 Retry connecting to TRAM091 attempt 2
+2026-10-30 01:16:50 [INFO] api-01 GET /dashboard 200 OK 180ms
+2026-10-30 01:17:22 [INFO] web-02 GET /api/sensors/TRAM027 200 OK 265ms
+2026-10-30 01:17:56 [INFO] web-02 Backup job started
+2026-10-30 01:18:12 [WARN] db-01 Slow response from TRAM078 891ms
+2026-10-30 01:18:30 [ERROR] web-02 Connection TIMEOUT to TRAM097 after 30s
+2026-10-30 01:18:50 [INFO] web-02 Backup job started
+2026-10-30 01:19:29 [INFO] db-01 POST /api/readings 201 Created 516ms
+2026-10-30 01:19:53 [WARN] api-01 Retry connecting to TRAM091 attempt 2
+2026-10-30 01:20:29 [INFO] web-01 Backup job started
+2026-10-30 01:20:53 [INFO] web-02 Sensor TRAM010 heartbeat received
+2026-10-30 01:21:11 [INFO] web-02 GET /dashboard 200 OK 878ms
+2026-10-30 01:21:25 [INFO] api-01 Sensor TRAM035 heartbeat received
+2026-10-30 01:22:01 [INFO] web-01 Cache refreshed
+2026-10-30 01:22:29 [ERROR] db-01 GET /api/reports/2061 404 Not Found
+2026-10-30 01:23:08 [INFO] api-01 Sensor TRAM039 heartbeat received
+2026-10-30 01:23:35 [INFO] web-01 Backup job started
+2026-10-30 01:24:00 [INFO] db-01 User login success uid=4210
+2026-10-30 01:24:29 [INFO] db-01 Backup job started
+2026-10-30 01:25:01 [INFO] web-02 POST /api/readings 201 Created 98ms
+2026-10-30 01:25:41 [INFO] db-01 Cache refreshed
+2026-10-30 01:26:10 [INFO] db-01 GET /dashboard 200 OK 734ms
+2026-10-30 01:26:32 [CRITICAL] api-01 Sensor gateway unreachable, 12 stations offline
+2026-10-30 01:27:02 [INFO] db-01 GET /api/sensors/TRAM030 200 OK 766ms
+2026-10-30 01:27:31 [INFO] api-01 POST /api/readings 201 Created 801ms
+2026-10-30 01:27:37 [ERROR] api-01 Connection TIMEOUT to TRAM100 after 30s
+2026-10-30 01:28:16 [INFO] api-01 Cache refreshed
+2026-10-30 01:28:35 [WARN] web-01 Slow response from TRAM017 461ms
+2026-10-30 01:28:47 [INFO] db-01 User login success uid=5773
+2026-10-30 01:29:10 [ERROR] web-01 GET /api/reports/3264 404 Not Found
+2026-10-30 01:29:28 [WARN] db-01 Retry connecting to TRAM046 attempt 2
+2026-10-30 01:29:40 [WARN] web-01 Disk usage at 82 percent on /data
+2026-10-30 01:29:48 [INFO] db-01 Backup job started
+2026-10-30 01:30:21 [INFO] db-01 Cache refreshed
+2026-10-30 01:30:40 [INFO] web-01 Sensor TRAM083 heartbeat received
+2026-10-30 01:30:58 [INFO] web-01 GET /dashboard 200 OK 357ms
+2026-10-30 01:31:11 [ERROR] web-01 ERROR 404 resource not found /static/chart-3058.js
+2026-10-30 01:31:36 [INFO] api-01 POST /api/readings 201 Created 865ms
+2026-10-30 01:31:51 [INFO] web-02 Sensor TRAM064 heartbeat received
+2026-10-30 01:32:01 [INFO] web-01 POST /api/readings 201 Created 283ms
+2026-10-30 01:32:22 [INFO] web-01 Backup job started
+2026-10-30 01:32:30 [INFO] db-01 POST /api/readings 201 Created 94ms
+2026-10-30 01:32:56 [INFO] db-01 GET /api/sensors/TRAM078 200 OK 205ms
+2026-10-30 01:33:18 [WARN] db-01 Slow response from TRAM075 759ms
+2026-10-30 01:33:51 [INFO] db-01 Cache refreshed
+2026-10-30 01:34:08 [WARN] db-01 Slow response from TRAM070 207ms
+2026-10-30 01:34:44 [INFO] db-01 GET /dashboard 200 OK 475ms
+2026-10-30 01:35:15 [ERROR] db-01 GET /api/reports/1952 404 Not Found
+2026-10-30 01:35:22 [WARN] api-01 Disk usage at 82 percent on /data
+2026-10-30 01:35:36 [WARN] web-02 Retry connecting to TRAM040 attempt 2
+2026-10-30 01:36:00 [ERROR] web-01 ERROR 404 resource not found /static/chart-1249.js
+2026-10-30 01:36:32 [INFO] web-02 Cache refreshed
+2026-10-30 01:36:50 [INFO] web-02 POST /api/readings 201 Created 416ms
+2026-10-30 01:37:10 [INFO] db-01 Backup job started
+2026-10-30 01:37:47 [INFO] api-01 Sensor TRAM007 heartbeat received
+2026-10-30 01:37:56 [INFO] web-01 GET /api/sensors/TRAM098 200 OK 872ms
+2026-10-30 01:38:25 [ERROR] web-02 GET /api/reports/2515 404 Not Found
+2026-10-30 01:38:42 [INFO] web-02 GET /dashboard 200 OK 650ms
+2026-10-30 01:39:16 [INFO] db-01 Cache refreshed
+2026-10-30 01:39:50 [ERROR] web-01 Database query TIMEOUT after 30s
+2026-10-30 01:40:08 [INFO] web-02 GET /api/sensors/TRAM067 200 OK 225ms
+2026-10-30 01:40:48 [WARN] api-01 Retry connecting to TRAM084 attempt 2
+2026-10-30 01:41:27 [INFO] web-01 Cache refreshed
+2026-10-30 01:41:41 [INFO] web-02 Sensor TRAM012 heartbeat received
+2026-10-30 01:42:09 [INFO] api-01 Cache refreshed
+2026-10-30 01:42:20 [WARN] web-01 Retry connecting to TRAM036 attempt 2
+2026-10-30 01:42:28 [INFO] web-01 GET /dashboard 200 OK 369ms
+2026-10-30 01:42:39 [INFO] db-01 GET /api/sensors/TRAM085 200 OK 761ms
+2026-10-30 01:43:05 [INFO] db-01 POST /api/readings 201 Created 720ms
+2026-10-30 01:43:18 [INFO] web-02 User login success uid=4974
+2026-10-30 01:43:36 [INFO] web-02 GET /api/sensors/TRAM054 200 OK 773ms
+2026-10-30 01:43:58 [WARN] db-01 Disk usage at 82 percent on /data
+2026-10-30 01:44:12 [INFO] web-02 Backup job started
+2026-10-30 01:44:43 [INFO] db-01 GET /dashboard 200 OK 53ms
+2026-10-30 01:45:00 [INFO] web-01 Backup job started
+2026-10-30 01:45:25 [INFO] web-01 GET /dashboard 200 OK 660ms
+2026-10-30 01:45:35 [INFO] web-02 GET /dashboard 200 OK 699ms
+2026-10-30 01:45:59 [ERROR] db-01 Database query TIMEOUT after 30s
+2026-10-30 01:46:29 [WARN] web-01 Slow response from TRAM015 200ms
+2026-10-30 01:47:07 [INFO] web-02 User login success uid=3086
+2026-10-30 01:47:42 [INFO] web-02 Sensor TRAM036 heartbeat received
+2026-10-30 01:47:52 [WARN] web-01 Disk usage at 82 percent on /data
+2026-10-30 01:48:28 [INFO] web-01 GET /dashboard 200 OK 867ms
+2026-10-30 01:48:50 [CRITICAL] web-01 Database connection pool exhausted
+2026-10-30 01:49:03 [INFO] db-01 GET /api/sensors/TRAM064 200 OK 78ms
+2026-10-30 01:49:29 [INFO] web-01 User login success uid=6585
+2026-10-30 01:49:52 [WARN] web-01 Retry connecting to TRAM033 attempt 2
+2026-10-30 01:50:03 [INFO] web-02 Backup job started
+2026-10-30 01:50:09 [INFO] api-01 POST /api/readings 201 Created 369ms
+2026-10-30 01:50:29 [WARN] api-01 Disk usage at 82 percent on /data
+2026-10-30 01:50:54 [INFO] web-02 GET /api/sensors/TRAM023 200 OK 443ms
+2026-10-30 01:51:07 [INFO] api-01 Sensor TRAM031 heartbeat received
+2026-10-30 01:51:45 [INFO] db-01 Sensor TRAM089 heartbeat received
+2026-10-30 01:51:57 [ERROR] db-01 GET /api/reports/5537 404 Not Found
+2026-10-30 01:52:19 [INFO] db-01 User login success uid=3658
+2026-10-30 01:52:38 [INFO] web-01 Sensor TRAM087 heartbeat received
+2026-10-30 01:53:15 [INFO] web-02 Sensor TRAM035 heartbeat received
+2026-10-30 01:53:53 [INFO] api-01 Cache refreshed
+2026-10-30 01:54:17 [INFO] db-01 GET /api/sensors/TRAM090 200 OK 148ms
+2026-10-30 01:54:34 [INFO] api-01 User login success uid=4046
+2026-10-30 01:54:49 [ERROR] db-01 GET /api/reports/2742 404 Not Found
+2026-10-30 01:54:59 [INFO] api-01 POST /api/readings 201 Created 187ms
+2026-10-30 01:55:17 [INFO] web-02 Cache refreshed
+2026-10-30 01:55:55 [INFO] web-02 Sensor TRAM006 heartbeat received
+2026-10-30 01:56:04 [INFO] web-01 Sensor TRAM011 heartbeat received
+2026-10-30 01:56:39 [INFO] db-01 Backup job started
+2026-10-30 01:57:10 [INFO] web-01 POST /api/readings 201 Created 177ms
+2026-10-30 01:57:29 [INFO] web-02 GET /dashboard 200 OK 775ms
+2026-10-30 01:58:04 [CRITICAL] api-01 Out of memory, service restarting
+2026-10-30 01:58:28 [WARN] db-01 Slow response from TRAM062 292ms
+2026-10-30 01:58:53 [INFO] db-01 POST /api/readings 201 Created 485ms
+2026-10-30 01:59:01 [INFO] db-01 Backup job started
+2026-10-30 01:59:39 [INFO] web-02 User login success uid=7886
+2026-10-30 02:00:01 [INFO] web-01 GET /dashboard 200 OK 705ms
+2026-10-30 02:00:35 [INFO] web-01 GET /api/sensors/TRAM085 200 OK 766ms
+2026-10-30 02:01:04 [INFO] api-01 POST /api/readings 201 Created 471ms
+2026-10-30 02:01:23 [INFO] db-01 Backup job started
+2026-10-30 02:01:50 [INFO] db-01 Cache refreshed
+2026-10-30 02:02:10 [ERROR] web-02 ERROR 404 resource not found /static/chart-7740.js
+2026-10-30 02:02:33 [INFO] api-01 GET /api/sensors/TRAM017 200 OK 517ms
+2026-10-30 02:02:53 [INFO] web-01 GET /dashboard 200 OK 523ms
+2026-10-30 02:03:02 [INFO] api-01 GET /dashboard 200 OK 259ms
+2026-10-30 02:03:33 [INFO] web-01 Sensor TRAM008 heartbeat received
+2026-10-30 02:03:54 [INFO] api-01 GET /api/sensors/TRAM060 200 OK 53ms
+2026-10-30 02:04:31 [INFO] web-02 POST /api/readings 201 Created 635ms
+2026-10-30 02:04:49 [INFO] api-01 Sensor TRAM007 heartbeat received
+2026-10-30 02:04:58 [ERROR] web-01 GET /api/sensors/TRAM053 404 Not Found
+2026-10-30 02:05:06 [WARN] web-02 Disk usage at 82 percent on /data
+2026-10-30 02:05:20 [INFO] web-01 GET /dashboard 200 OK 138ms
+2026-10-30 02:05:26 [INFO] db-01 Backup job started
+2026-10-30 02:05:54 [INFO] db-01 POST /api/readings 201 Created 119ms
+2026-10-30 02:06:13 [INFO] db-01 GET /api/sensors/TRAM041 200 OK 539ms
+2026-10-30 02:06:23 [INFO] web-01 Sensor TRAM018 heartbeat received
+2026-10-30 02:06:45 [INFO] api-01 Backup job started
+2026-10-30 02:07:25 [INFO] web-01 User login success uid=1222
+2026-10-30 02:07:49 [INFO] db-01 GET /api/sensors/TRAM035 200 OK 877ms
+2026-10-30 02:07:56 [ERROR] db-01 GET /api/sensors/TRAM039 404 Not Found
+2026-10-30 02:08:18 [ERROR] web-01 Connection TIMEOUT to TRAM100 after 30s
+2026-10-30 02:08:30 [INFO] web-01 GET /dashboard 200 OK 786ms
+2026-10-30 02:08:43 [WARN] db-01 Disk usage at 82 percent on /data
+2026-10-30 02:08:49 [ERROR] db-01 ERROR 404 resource not found /static/chart-5133.js
+2026-10-30 02:09:26 [INFO] web-01 Cache refreshed
+2026-10-30 02:09:42 [INFO] web-01 Backup job started
+2026-10-30 02:10:13 [INFO] web-02 User login success uid=3838
+2026-10-30 02:10:38 [INFO] db-01 Sensor TRAM034 heartbeat received
+2026-10-30 02:11:08 [INFO] api-01 GET /api/sensors/TRAM088 200 OK 660ms
+2026-10-30 02:11:36 [INFO] db-01 User login success uid=5348
+2026-10-30 02:12:11 [INFO] web-02 Cache refreshed
+2026-10-30 02:12:46 [INFO] db-01 GET /dashboard 200 OK 296ms
+2026-10-30 02:13:05 [INFO] api-01 Backup job started
+2026-10-30 02:13:22 [INFO] web-02 GET /api/sensors/TRAM096 200 OK 497ms
+2026-10-30 02:13:51 [INFO] api-01 User login success uid=3313
+2026-10-30 02:14:09 [INFO] web-01 User login success uid=4487
+2026-10-30 02:14:26 [INFO] web-02 GET /dashboard 200 OK 317ms
+2026-10-30 02:14:48 [INFO] web-01 GET /api/sensors/TRAM010 200 OK 671ms
+2026-10-30 02:14:57 [INFO] web-02 User login success uid=7318
+2026-10-30 02:15:27 [WARN] web-01 Slow response from TRAM019 794ms
+2026-10-30 02:15:50 [INFO] db-01 POST /api/readings 201 Created 464ms
+2026-10-30 02:16:13 [INFO] web-02 Backup job started
+2026-10-30 02:16:46 [INFO] db-01 User login success uid=8328
+2026-10-30 02:16:51 [INFO] api-01 Cache refreshed
+2026-10-30 02:17:14 [INFO] db-01 Backup job started
+2026-10-30 02:17:21 [INFO] db-01 GET /api/sensors/TRAM018 200 OK 8ms
+2026-10-30 02:17:52 [INFO] api-01 GET /api/sensors/TRAM024 200 OK 351ms
+2026-10-30 02:18:10 [ERROR] web-01 ERROR 404 resource not found /static/chart-1172.js
+2026-10-30 02:18:44 [INFO] api-01 Sensor TRAM065 heartbeat received
+2026-10-30 02:19:24 [ERROR] api-01 Connection TIMEOUT to TRAM052 after 30s
+2026-10-30 02:19:34 [ERROR] db-01 Connection TIMEOUT to TRAM006 after 30s
+2026-10-30 02:19:44 [INFO] db-01 GET /api/sensors/TRAM022 200 OK 615ms
+2026-10-30 02:20:22 [INFO] api-01 POST /api/readings 201 Created 890ms
+2026-10-30 02:20:38 [ERROR] db-01 Connection TIMEOUT to TRAM065 after 30s
+2026-10-30 02:21:15 [INFO] web-01 POST /api/readings 201 Created 311ms
+2026-10-30 02:21:33 [WARN] db-01 Disk usage at 82 percent on /data
+2026-10-30 02:22:05 [WARN] api-01 Slow response from TRAM078 249ms
+2026-10-30 02:22:14 [INFO] api-01 Sensor TRAM049 heartbeat received
+2026-10-30 02:22:29 [INFO] web-01 Backup job started
+2026-10-30 02:23:00 [INFO] web-02 Cache refreshed
+2026-10-30 02:23:14 [INFO] api-01 Sensor TRAM030 heartbeat received
+2026-10-30 02:23:34 [INFO] api-01 GET /dashboard 200 OK 224ms
+2026-10-30 02:23:48 [INFO] db-01 Sensor TRAM046 heartbeat received
+2026-10-30 02:24:09 [INFO] web-01 GET /dashboard 200 OK 192ms
+2026-10-30 02:24:21 [ERROR] api-01 GET /api/sensors/TRAM066 404 Not Found
+2026-10-30 02:24:32 [INFO] db-01 POST /api/readings 201 Created 654ms
+2026-10-30 02:25:08 [INFO] api-01 Sensor TRAM094 heartbeat received
+2026-10-30 02:25:42 [INFO] db-01 Sensor TRAM099 heartbeat received
+2026-10-30 02:25:58 [INFO] web-01 Backup job started
+2026-10-30 02:26:23 [INFO] db-01 GET /api/sensors/TRAM075 200 OK 205ms
+2026-10-30 02:26:38 [INFO] api-01 User login success uid=6428
+2026-10-30 02:27:14 [WARN] web-02 Disk usage at 82 percent on /data
+2026-10-30 02:27:52 [CRITICAL] web-01 Sensor gateway unreachable, 12 stations offline
+2026-10-30 02:28:25 [INFO] web-01 GET /dashboard 200 OK 762ms
+2026-10-30 02:28:38 [INFO] db-01 GET /api/sensors/TRAM088 200 OK 562ms
+2026-10-30 02:29:04 [WARN] db-01 Disk usage at 82 percent on /data
+2026-10-30 02:29:37 [INFO] web-01 GET /dashboard 200 OK 729ms
+2026-10-30 02:29:44 [INFO] api-01 Sensor TRAM074 heartbeat received
+2026-10-30 02:30:22 [INFO] api-01 Cache refreshed
+2026-10-30 02:30:59 [WARN] db-01 Slow response from TRAM067 388ms
+2026-10-30 02:31:11 [INFO] db-01 Backup job started
+2026-10-30 02:31:45 [INFO] web-02 GET /dashboard 200 OK 288ms
+2026-10-30 02:32:24 [INFO] db-01 Cache refreshed
+2026-10-30 02:32:51 [ERROR] db-01 Connection TIMEOUT to TRAM013 after 30s
+2026-10-30 02:33:30 [ERROR] db-01 ERROR 404 resource not found /static/chart-7932.js
+2026-10-30 02:33:38 [INFO] api-01 Backup job started
+2026-10-30 02:34:18 [INFO] api-01 POST /api/readings 201 Created 667ms
+2026-10-30 02:34:40 [INFO] web-02 Backup job started
+2026-10-30 02:34:47 [INFO] web-02 User login success uid=6956
+2026-10-30 02:35:04 [INFO] web-02 POST /api/readings 201 Created 266ms
+2026-10-30 02:35:30 [INFO] web-02 GET /api/sensors/TRAM057 200 OK 61ms
+2026-10-30 02:35:35 [INFO] db-01 User login success uid=3594
+2026-10-30 02:35:46 [INFO] api-01 Cache refreshed
+2026-10-30 02:35:57 [INFO] api-01 User login success uid=2488
+2026-10-30 02:36:30 [WARN] api-01 Slow response from TRAM001 757ms
+2026-10-30 02:36:41 [INFO] web-01 Sensor TRAM042 heartbeat received
+2026-10-30 02:37:01 [INFO] db-01 User login success uid=5706
+2026-10-30 02:37:06 [INFO] web-01 Sensor TRAM060 heartbeat received
+2026-10-30 02:37:35 [INFO] web-02 Cache refreshed
+2026-10-30 02:37:49 [INFO] db-01 Backup job started
+2026-10-30 02:38:21 [INFO] api-01 POST /api/readings 201 Created 638ms
+2026-10-30 02:38:51 [WARN] api-01 Disk usage at 82 percent on /data
+2026-10-30 02:39:16 [INFO] api-01 Backup job started
+2026-10-30 02:39:45 [INFO] api-01 GET /dashboard 200 OK 270ms
+2026-10-30 02:40:22 [INFO] web-01 GET /api/sensors/TRAM077 200 OK 260ms
+2026-10-30 02:40:32 [ERROR] web-02 GET /api/sensors/TRAM073 404 Not Found
+2026-10-30 02:40:53 [INFO] db-01 Backup job started
+2026-10-30 02:41:02 [WARN] api-01 Retry connecting to TRAM061 attempt 2
+2026-10-30 02:41:16 [INFO] api-01 User login success uid=9834
+2026-10-30 02:41:33 [INFO] web-02 GET /dashboard 200 OK 74ms
+2026-10-30 02:42:02 [INFO] db-01 User login success uid=3853
+2026-10-30 02:42:23 [CRITICAL] web-01 Database connection pool exhausted
+2026-10-30 02:42:51 [WARN] web-02 Retry connecting to TRAM072 attempt 2
+2026-10-30 02:43:20 [INFO] db-01 Sensor TRAM018 heartbeat received
+2026-10-30 02:43:52 [ERROR] web-01 Connection TIMEOUT to TRAM071 after 30s
+2026-10-30 02:44:07 [INFO] db-01 GET /dashboard 200 OK 440ms
+2026-10-30 02:44:25 [INFO] web-01 GET /dashboard 200 OK 77ms
+2026-10-30 02:44:49 [INFO] web-02 User login success uid=8602
+2026-10-30 02:45:18 [INFO] api-01 GET /dashboard 200 OK 795ms
+2026-10-30 02:45:37 [INFO] web-01 POST /api/readings 201 Created 344ms
+2026-10-30 02:45:56 [WARN] web-01 Disk usage at 82 percent on /data
+2026-10-30 02:46:29 [WARN] api-01 Disk usage at 82 percent on /data
+2026-10-30 02:47:07 [INFO] web-02 Sensor TRAM046 heartbeat received
+2026-10-30 02:47:18 [INFO] web-01 User login success uid=8822
+2026-10-30 02:47:40 [INFO] db-01 User login success uid=3296
+2026-10-30 02:48:06 [INFO] api-01 GET /api/sensors/TRAM036 200 OK 727ms
+2026-10-30 02:48:40 [INFO] web-01 GET /dashboard 200 OK 473ms
+2026-10-30 02:49:00 [INFO] web-01 POST /api/readings 201 Created 500ms
+2026-10-30 02:49:32 [INFO] web-01 Cache refreshed
+2026-10-30 02:50:06 [INFO] db-01 GET /api/sensors/TRAM063 200 OK 529ms
+2026-10-30 02:50:17 [INFO] api-01 Sensor TRAM087 heartbeat received
+2026-10-30 02:50:32 [CRITICAL] web-01 Sensor gateway unreachable, 12 stations offline
+2026-10-30 02:50:39 [INFO] api-01 Sensor TRAM093 heartbeat received
+2026-10-30 02:50:58 [INFO] web-01 User login success uid=1038
+2026-10-30 02:51:30 [INFO] web-01 User login success uid=2276
+2026-10-30 02:51:59 [WARN] api-01 Retry connecting to TRAM091 attempt 2
+2026-10-30 02:52:17 [INFO] api-01 GET /api/sensors/TRAM011 200 OK 112ms
+2026-10-30 02:52:37 [ERROR] api-01 GET /api/sensors/TRAM038 404 Not Found
+2026-10-30 02:53:12 [WARN] web-01 Retry connecting to TRAM007 attempt 2
+2026-10-30 02:53:17 [INFO] db-01 Sensor TRAM018 heartbeat received
+2026-10-30 02:53:40 [INFO] web-02 POST /api/readings 201 Created 892ms
+2026-10-30 02:54:09 [INFO] web-02 GET /dashboard 200 OK 449ms
+2026-10-30 02:54:33 [INFO] web-01 Sensor TRAM041 heartbeat received
+2026-10-30 02:54:50 [INFO] api-01 GET /dashboard 200 OK 295ms
+2026-10-30 02:55:15 [INFO] api-01 Cache refreshed
+2026-10-30 02:55:39 [ERROR] web-01 ERROR 404 resource not found /static/chart-1324.js
+2026-10-30 02:56:18 [INFO] web-02 GET /api/sensors/TRAM028 200 OK 654ms
+2026-10-30 02:56:54 [INFO] api-01 GET /dashboard 200 OK 287ms
+2026-10-30 02:57:22 [INFO] web-02 Cache refreshed
+2026-10-30 02:57:40 [ERROR] api-01 GET /api/sensors/TRAM088 404 Not Found
+2026-10-30 02:58:00 [INFO] api-01 Sensor TRAM089 heartbeat received
+2026-10-30 02:58:28 [WARN] web-01 Retry connecting to TRAM019 attempt 2
+2026-10-30 02:59:01 [INFO] db-01 GET /dashboard 200 OK 76ms
+2026-10-30 02:59:32 [INFO] web-01 GET /dashboard 200 OK 600ms
+2026-10-30 02:59:45 [INFO] db-01 GET /api/sensors/TRAM015 200 OK 560ms
+2026-10-30 03:00:09 [INFO] web-02 Backup job started
+2026-10-30 03:00:17 [WARN] web-02 Retry connecting to TRAM056 attempt 2
+2026-10-30 03:00:40 [INFO] web-01 POST /api/readings 201 Created 26ms
+2026-10-30 03:00:57 [INFO] web-02 User login success uid=6519
+2026-10-30 03:01:29 [INFO] api-01 Sensor TRAM062 heartbeat received
+2026-10-30 03:01:36 [INFO] web-02 User login success uid=9480
+2026-10-30 03:02:01 [INFO] db-01 POST /api/readings 201 Created 820ms
+2026-10-30 03:02:26 [INFO] db-01 GET /api/sensors/TRAM036 200 OK 584ms
+2026-10-30 03:02:39 [INFO] web-01 POST /api/readings 201 Created 255ms
+2026-10-30 03:02:57 [INFO] db-01 Cache refreshed
+2026-10-30 03:03:23 [INFO] web-01 GET /api/sensors/TRAM047 200 OK 843ms
+2026-10-30 03:03:48 [INFO] web-01 Cache refreshed
+2026-10-30 03:04:16 [ERROR] db-01 Connection TIMEOUT to TRAM020 after 30s
+2026-10-30 03:04:21 [WARN] db-01 Disk usage at 82 percent on /data
+2026-10-30 03:04:44 [INFO] api-01 User login success uid=2588
+2026-10-30 03:05:08 [INFO] api-01 Cache refreshed
+2026-10-30 03:05:24 [WARN] db-01 Slow response from TRAM011 732ms
+2026-10-30 03:06:00 [INFO] db-01 Backup job started
+2026-10-30 03:06:06 [INFO] web-01 GET /api/sensors/TRAM004 200 OK 189ms
+2026-10-30 03:06:17 [INFO] web-01 POST /api/readings 201 Created 799ms
+2026-10-30 03:06:37 [INFO] db-01 Backup job started
+2026-10-30 03:06:48 [INFO] web-02 User login success uid=5391
+2026-10-30 03:07:08 [INFO] db-01 Sensor TRAM073 heartbeat received
+2026-10-30 03:07:16 [INFO] db-01 Sensor TRAM039 heartbeat received
+2026-10-30 03:07:24 [INFO] web-01 User login success uid=1682
+2026-10-30 03:07:33 [INFO] web-02 GET /api/sensors/TRAM086 200 OK 744ms
+2026-10-30 03:08:08 [INFO] api-01 Backup job started
+2026-10-30 03:08:31 [CRITICAL] api-01 Sensor gateway unreachable, 12 stations offline
+2026-10-30 03:08:44 [INFO] web-01 GET /dashboard 200 OK 635ms
+2026-10-30 03:08:49 [INFO] db-01 POST /api/readings 201 Created 291ms
+2026-10-30 03:09:02 [INFO] api-01 POST /api/readings 201 Created 737ms
+2026-10-30 03:09:34 [INFO] web-02 GET /api/sensors/TRAM031 200 OK 194ms
+2026-10-30 03:09:56 [INFO] db-01 GET /dashboard 200 OK 574ms
+2026-10-30 03:10:35 [INFO] web-01 Cache refreshed
+2026-10-30 03:11:05 [INFO] web-01 Backup job started
+2026-10-30 03:11:15 [INFO] db-01 Sensor TRAM057 heartbeat received
+2026-10-30 03:11:21 [INFO] web-02 POST /api/readings 201 Created 43ms
+2026-10-30 03:11:38 [INFO] db-01 GET /dashboard 200 OK 130ms
+2026-10-30 03:12:16 [INFO] web-01 Cache refreshed
+2026-10-30 03:12:32 [INFO] db-01 Sensor TRAM096 heartbeat received
+2026-10-30 03:12:55 [INFO] web-01 POST /api/readings 201 Created 264ms
+2026-10-30 03:13:16 [INFO] db-01 POST /api/readings 201 Created 395ms
+2026-10-30 03:13:23 [INFO] db-01 Sensor TRAM059 heartbeat received
+2026-10-30 03:13:32 [INFO] db-01 Sensor TRAM061 heartbeat received
+2026-10-30 03:13:39 [ERROR] db-01 Connection TIMEOUT to TRAM066 after 30s
+2026-10-30 03:14:12 [INFO] web-02 Sensor TRAM002 heartbeat received
+2026-10-30 03:14:32 [WARN] web-02 Retry connecting to TRAM044 attempt 2
+2026-10-30 03:14:46 [INFO] web-01 Cache refreshed
+2026-10-30 03:15:05 [INFO] web-02 Cache refreshed
+2026-10-30 03:15:15 [INFO] web-01 Backup job started
+2026-10-30 03:15:38 [INFO] web-01 Sensor TRAM028 heartbeat received
+2026-10-30 03:16:18 [INFO] web-01 Backup job started
+2026-10-30 03:16:44 [WARN] api-01 Slow response from TRAM045 38ms
+2026-10-30 03:16:59 [INFO] db-01 POST /api/readings 201 Created 271ms
+2026-10-30 03:17:32 [INFO] api-01 User login success uid=4486
+2026-10-30 03:18:01 [INFO] web-02 GET /dashboard 200 OK 447ms
+2026-10-30 03:18:40 [INFO] db-01 Cache refreshed
+2026-10-30 03:18:58 [INFO] db-01 GET /dashboard 200 OK 404ms
+2026-10-30 03:19:34 [INFO] db-01 GET /api/sensors/TRAM040 200 OK 153ms
+2026-10-30 03:19:57 [INFO] web-01 Backup job started
+2026-10-30 03:20:27 [INFO] web-02 User login success uid=6510
+2026-10-30 03:20:46 [INFO] api-01 User login success uid=6937
+2026-10-30 03:21:14 [INFO] api-01 GET /api/sensors/TRAM042 200 OK 327ms
+2026-10-30 03:21:44 [INFO] api-01 Sensor TRAM097 heartbeat received
+2026-10-30 03:22:02 [WARN] web-02 Disk usage at 82 percent on /data
+2026-10-30 03:22:24 [WARN] api-01 Disk usage at 82 percent on /data
+2026-10-30 03:22:46 [INFO] db-01 GET /api/sensors/TRAM040 200 OK 866ms
+2026-10-30 03:23:06 [INFO] web-01 Cache refreshed
+2026-10-30 03:23:18 [WARN] db-01 Disk usage at 82 percent on /data
+2026-10-30 03:23:33 [INFO] web-02 Backup job started
+2026-10-30 03:23:53 [INFO] web-02 Cache refreshed
+2026-10-30 03:24:08 [WARN] web-02 Disk usage at 82 percent on /data
+2026-10-30 03:24:20 [WARN] api-01 Retry connecting to TRAM086 attempt 2
+2026-10-30 03:24:58 [INFO] api-01 GET /dashboard 200 OK 279ms
+2026-10-30 03:25:11 [WARN] web-02 Retry connecting to TRAM095 attempt 2
+2026-10-30 03:25:28 [INFO] web-01 GET /dashboard 200 OK 190ms
+2026-10-30 03:25:52 [INFO] db-01 Sensor TRAM058 heartbeat received
+2026-10-30 03:26:17 [INFO] web-02 GET /api/sensors/TRAM057 200 OK 218ms
+2026-10-30 03:26:57 [INFO] db-01 Backup job started
+2026-10-30 03:27:12 [INFO] web-02 Cache refreshed
+2026-10-30 03:27:25 [INFO] web-02 GET /api/sensors/TRAM031 200 OK 92ms
+2026-10-30 03:27:41 [INFO] web-01 GET /dashboard 200 OK 310ms
+2026-10-30 03:28:13 [WARN] web-02 Disk usage at 82 percent on /data
+2026-10-30 03:28:32 [INFO] web-02 Cache refreshed
+2026-10-30 03:29:11 [WARN] api-01 Disk usage at 82 percent on /data
+2026-10-30 03:29:46 [INFO] db-01 Sensor TRAM070 heartbeat received
+2026-10-30 03:30:19 [INFO] web-02 GET /api/sensors/TRAM025 200 OK 847ms
+2026-10-30 03:30:32 [INFO] db-01 User login success uid=9085
+2026-10-30 03:30:42 [INFO] db-01 GET /dashboard 200 OK 259ms
+2026-10-30 03:30:50 [INFO] db-01 User login success uid=2138
+2026-10-30 03:31:22 [WARN] web-02 Disk usage at 82 percent on /data
+2026-10-30 03:31:47 [INFO] web-01 POST /api/readings 201 Created 619ms
+2026-10-30 03:32:15 [INFO] api-01 Backup job started
+2026-10-30 03:32:36 [ERROR] db-01 GET /api/reports/6889 404 Not Found
+2026-10-30 03:33:06 [INFO] web-01 Cache refreshed
+2026-10-30 03:33:43 [INFO] api-01 GET /api/sensors/TRAM008 200 OK 110ms
+2026-10-30 03:34:01 [INFO] web-01 GET /api/sensors/TRAM053 200 OK 355ms
+2026-10-30 03:34:35 [INFO] api-01 Sensor TRAM051 heartbeat received
+2026-10-30 03:35:14 [INFO] db-01 POST /api/readings 201 Created 80ms
+2026-10-30 03:35:49 [INFO] db-01 Sensor TRAM004 heartbeat received
+2026-10-30 03:36:07 [INFO] api-01 GET /dashboard 200 OK 205ms
+2026-10-30 03:36:26 [INFO] api-01 POST /api/readings 201 Created 428ms
+2026-10-30 03:36:33 [INFO] web-01 Backup job started
+2026-10-30 03:36:53 [INFO] api-01 Sensor TRAM035 heartbeat received
+2026-10-30 03:37:02 [INFO] web-02 Sensor TRAM051 heartbeat received
+2026-10-30 03:37:09 [WARN] api-01 Disk usage at 82 percent on /data
+2026-10-30 03:37:18 [INFO] api-01 Sensor TRAM013 heartbeat received
+2026-10-30 03:37:55 [INFO] web-01 GET /dashboard 200 OK 541ms
+2026-10-30 03:38:22 [ERROR] db-01 Connection TIMEOUT to TRAM100 after 30s
+2026-10-30 03:39:02 [INFO] api-01 GET /dashboard 200 OK 438ms
+2026-10-30 03:39:30 [WARN] db-01 Disk usage at 82 percent on /data
+2026-10-30 03:39:39 [INFO] db-01 POST /api/readings 201 Created 747ms
+2026-10-30 03:40:18 [WARN] api-01 Disk usage at 82 percent on /data
+2026-10-30 03:40:55 [INFO] web-02 Cache refreshed
+2026-10-30 03:41:30 [INFO] db-01 POST /api/readings 201 Created 406ms
+2026-10-30 03:41:57 [INFO] db-01 GET /dashboard 200 OK 233ms
+2026-10-30 03:42:34 [INFO] web-02 GET /api/sensors/TRAM084 200 OK 301ms
+2026-10-30 03:42:50 [INFO] db-01 Backup job started
+2026-10-30 03:42:55 [ERROR] api-01 GET /api/sensors/TRAM057 404 Not Found
+2026-10-30 03:43:01 [INFO] web-01 GET /api/sensors/TRAM016 200 OK 154ms
+2026-10-30 03:43:33 [INFO] web-01 GET /dashboard 200 OK 732ms
+2026-10-30 03:43:40 [INFO] db-01 User login success uid=8946
+2026-10-30 03:43:52 [INFO] web-01 POST /api/readings 201 Created 307ms
+2026-10-30 03:44:08 [WARN] db-01 Disk usage at 82 percent on /data
+2026-10-30 03:44:38 [INFO] web-02 POST /api/readings 201 Created 589ms
+2026-10-30 03:44:59 [WARN] api-01 Retry connecting to TRAM053 attempt 2
+2026-10-30 03:45:17 [INFO] db-01 Backup job started
+2026-10-30 03:45:43 [INFO] db-01 GET /api/sensors/TRAM068 200 OK 667ms
+2026-10-30 03:46:01 [INFO] web-01 Cache refreshed
+2026-10-30 03:46:36 [INFO] api-01 User login success uid=4397
+2026-10-30 03:47:14 [INFO] db-01 Sensor TRAM099 heartbeat received
+2026-10-30 03:47:52 [INFO] api-01 GET /dashboard 200 OK 854ms
+2026-10-30 03:48:13 [INFO] db-01 Sensor TRAM067 heartbeat received
+2026-10-30 03:48:21 [INFO] web-01 Backup job started
+2026-10-30 03:48:57 [INFO] db-01 GET /api/sensors/TRAM086 200 OK 309ms
+2026-10-30 03:49:03 [INFO] db-01 Sensor TRAM089 heartbeat received
+2026-10-30 03:49:20 [INFO] web-01 User login success uid=4744
+2026-10-30 03:49:52 [INFO] web-02 POST /api/readings 201 Created 687ms
+2026-10-30 03:50:08 [INFO] db-01 POST /api/readings 201 Created 41ms
+2026-10-30 03:50:44 [INFO] web-02 User login success uid=8768
+2026-10-30 03:51:02 [WARN] web-02 Retry connecting to TRAM055 attempt 2
+2026-10-30 03:51:19 [INFO] api-01 Cache refreshed
+2026-10-30 03:51:45 [INFO] db-01 Cache refreshed
+2026-10-30 03:52:16 [WARN] web-01 Slow response from TRAM065 701ms
+2026-10-30 03:52:30 [INFO] web-02 Sensor TRAM065 heartbeat received
+2026-10-30 03:52:56 [INFO] db-01 Sensor TRAM051 heartbeat received
+2026-10-30 03:53:12 [INFO] db-01 Cache refreshed
+2026-10-30 03:53:38 [ERROR] db-01 GET /api/sensors/TRAM074 404 Not Found
+2026-10-30 03:53:49 [INFO] web-02 Backup job started
+2026-10-30 03:53:56 [INFO] web-01 User login success uid=6099
+2026-10-30 03:54:32 [INFO] db-01 User login success uid=2822
+2026-10-30 03:54:55 [INFO] db-01 POST /api/readings 201 Created 778ms
+2026-10-30 03:55:34 [INFO] web-01 POST /api/readings 201 Created 599ms
+2026-10-30 03:55:56 [ERROR] web-01 Database query TIMEOUT after 30s
+2026-10-30 03:56:16 [INFO] web-01 GET /api/sensors/TRAM008 200 OK 167ms
+2026-10-30 03:56:46 [WARN] web-01 Slow response from TRAM015 616ms
+2026-10-30 03:57:01 [INFO] web-02 Sensor TRAM060 heartbeat received
+2026-10-30 03:57:28 [INFO] api-01 POST /api/readings 201 Created 568ms
+2026-10-30 03:57:35 [INFO] api-01 Sensor TRAM003 heartbeat received
+2026-10-30 03:58:15 [ERROR] web-01 GET /api/reports/9970 404 Not Found
+2026-10-30 03:58:39 [INFO] web-01 User login success uid=1272
+2026-10-30 03:58:58 [INFO] web-02 Backup job started
+2026-10-30 03:59:07 [INFO] db-01 User login success uid=9087
+2026-10-30 03:59:12 [WARN] web-01 Slow response from TRAM048 672ms
+2026-10-30 03:59:28 [INFO] db-01 GET /dashboard 200 OK 865ms
+2026-10-30 04:00:04 [WARN] api-01 Retry connecting to TRAM038 attempt 2
+2026-10-30 04:00:38 [INFO] db-01 POST /api/readings 201 Created 377ms
+2026-10-30 04:00:57 [WARN] web-01 Disk usage at 82 percent on /data
+2026-10-30 04:01:05 [INFO] web-01 GET /api/sensors/TRAM056 200 OK 326ms
+2026-10-30 04:01:36 [INFO] db-01 Cache refreshed
+2026-10-30 04:02:06 [WARN] db-01 Retry connecting to TRAM052 attempt 2
+2026-10-30 04:02:38 [INFO] web-01 Cache refreshed
+2026-10-30 04:02:46 [INFO] api-01 GET /api/sensors/TRAM094 200 OK 438ms
+2026-10-30 04:03:01 [INFO] web-01 POST /api/readings 201 Created 701ms
+2026-10-30 04:03:13 [INFO] web-01 User login success uid=2458
+2026-10-30 04:03:38 [INFO] web-02 Cache refreshed
+2026-10-30 04:03:52 [INFO] web-01 Backup job started
+2026-10-30 04:03:57 [ERROR] db-01 GET /api/reports/7579 404 Not Found
+2026-10-30 04:04:16 [ERROR] web-01 Database query TIMEOUT after 30s
+2026-10-30 04:04:33 [INFO] api-01 GET /api/sensors/TRAM079 200 OK 661ms
+2026-10-30 04:05:06 [INFO] web-01 GET /api/sensors/TRAM043 200 OK 13ms
+2026-10-30 04:05:12 [INFO] api-01 User login success uid=7567
+2026-10-30 04:05:50 [INFO] web-02 Backup job started
+2026-10-30 04:06:27 [WARN] db-01 Slow response from TRAM027 770ms
+2026-10-30 04:06:32 [INFO] api-01 GET /api/sensors/TRAM002 200 OK 553ms
+2026-10-30 04:06:57 [INFO] web-02 GET /api/sensors/TRAM025 200 OK 36ms
+2026-10-30 04:07:09 [INFO] db-01 User login success uid=2483
+2026-10-30 04:07:30 [WARN] web-01 Retry connecting to TRAM090 attempt 2
+2026-10-30 04:07:56 [INFO] db-01 Sensor TRAM091 heartbeat received
+2026-10-30 04:08:35 [INFO] db-01 Backup job started
+2026-10-30 04:09:07 [INFO] db-01 Backup job started
+2026-10-30 04:09:31 [INFO] api-01 Cache refreshed
+2026-10-30 04:09:38 [INFO] web-01 Backup job started
+2026-10-30 04:09:57 [WARN] db-01 Retry connecting to TRAM009 attempt 2
+2026-10-30 04:10:17 [INFO] api-01 GET /dashboard 200 OK 139ms
+2026-10-30 04:10:49 [ERROR] web-02 Connection TIMEOUT to TRAM027 after 30s
+2026-10-30 04:11:04 [INFO] db-01 GET /dashboard 200 OK 834ms
+2026-10-30 04:11:20 [INFO] api-01 GET /dashboard 200 OK 562ms
+2026-10-30 04:11:33 [INFO] db-01 GET /api/sensors/TRAM032 200 OK 72ms
+2026-10-30 04:11:58 [INFO] web-02 Backup job started
+2026-10-30 04:12:22 [INFO] db-01 POST /api/readings 201 Created 511ms
+2026-10-30 04:12:52 [WARN] db-01 Retry connecting to TRAM008 attempt 2
+2026-10-30 04:13:19 [INFO] web-02 Cache refreshed
+2026-10-30 04:13:56 [INFO] web-02 Backup job started
+2026-10-30 04:14:36 [INFO] web-01 User login success uid=3899
+2026-10-30 04:15:11 [ERROR] db-01 ERROR 404 resource not found /static/chart-2534.js
+2026-10-30 04:15:44 [ERROR] web-02 Connection TIMEOUT to TRAM053 after 30s
+2026-10-30 04:16:01 [ERROR] db-01 GET /api/sensors/TRAM069 404 Not Found
+2026-10-30 04:16:13 [INFO] web-01 Cache refreshed
+2026-10-30 04:16:35 [WARN] web-02 Disk usage at 82 percent on /data
+2026-10-30 04:17:02 [WARN] db-01 Retry connecting to TRAM042 attempt 2
+2026-10-30 04:17:40 [ERROR] db-01 GET /api/reports/8856 404 Not Found
+2026-10-30 04:18:07 [INFO] web-02 POST /api/readings 201 Created 146ms
+2026-10-30 04:18:18 [INFO] web-01 GET /api/sensors/TRAM009 200 OK 845ms
+2026-10-30 04:18:23 [INFO] api-01 User login success uid=8839
+2026-10-30 04:18:35 [ERROR] web-01 Database query TIMEOUT after 30s
+2026-10-30 04:19:00 [INFO] web-02 Cache refreshed
+2026-10-30 04:19:36 [INFO] db-01 Backup job started
+2026-10-30 04:19:47 [INFO] web-01 GET /dashboard 200 OK 274ms
+2026-10-30 04:19:56 [INFO] web-01 GET /dashboard 200 OK 825ms
+2026-10-30 04:20:16 [INFO] db-01 GET /dashboard 200 OK 853ms
+2026-10-30 04:20:32 [INFO] web-02 GET /api/sensors/TRAM068 200 OK 327ms
+2026-10-30 04:20:57 [WARN] web-02 Disk usage at 82 percent on /data
+2026-10-30 04:21:28 [WARN] api-01 Retry connecting to TRAM083 attempt 2
+2026-10-30 04:22:03 [INFO] db-01 GET /api/sensors/TRAM028 200 OK 24ms
+2026-10-30 04:22:25 [INFO] web-02 GET /api/sensors/TRAM061 200 OK 620ms
+2026-10-30 04:22:59 [INFO] db-01 GET /dashboard 200 OK 648ms
+2026-10-30 04:23:04 [INFO] db-01 GET /api/sensors/TRAM029 200 OK 316ms
+2026-10-30 04:23:25 [INFO] db-01 POST /api/readings 201 Created 450ms
+2026-10-30 04:23:39 [WARN] web-02 Disk usage at 82 percent on /data
+2026-10-30 04:23:59 [INFO] web-01 GET /api/sensors/TRAM014 200 OK 870ms
+2026-10-30 04:24:06 [INFO] api-01 POST /api/readings 201 Created 592ms
+2026-10-30 04:24:32 [WARN] web-01 Slow response from TRAM055 275ms
+2026-10-30 04:25:03 [INFO] web-01 User login success uid=8324
+2026-10-30 04:25:08 [INFO] web-02 POST /api/readings 201 Created 281ms
+2026-10-30 04:25:16 [INFO] web-02 User login success uid=2379
+2026-10-30 04:25:31 [WARN] web-01 Disk usage at 82 percent on /data
+2026-10-30 04:25:50 [INFO] web-02 GET /dashboard 200 OK 464ms
+2026-10-30 04:25:58 [INFO] web-01 Cache refreshed
+2026-10-30 04:26:18 [INFO] db-01 POST /api/readings 201 Created 593ms
+2026-10-30 04:26:27 [INFO] web-02 Sensor TRAM034 heartbeat received
+2026-10-30 04:26:35 [INFO] api-01 Backup job started
+2026-10-30 04:26:48 [INFO] db-01 Sensor TRAM069 heartbeat received
+2026-10-30 04:27:26 [CRITICAL] web-01 Database connection pool exhausted
+2026-10-30 04:27:45 [WARN] api-01 Slow response from TRAM010 530ms
+2026-10-30 04:27:58 [INFO] web-02 Sensor TRAM076 heartbeat received
+2026-10-30 04:28:11 [INFO] web-01 Cache refreshed
+2026-10-30 04:28:32 [WARN] web-02 Retry connecting to TRAM017 attempt 2
+2026-10-30 04:29:11 [INFO] web-02 User login success uid=7007
+2026-10-30 04:29:17 [INFO] web-02 POST /api/readings 201 Created 511ms
+2026-10-30 04:29:30 [INFO] web-02 GET /dashboard 200 OK 859ms
+2026-10-30 04:30:05 [INFO] api-01 Cache refreshed
+2026-10-30 04:30:14 [ERROR] web-01 GET /api/reports/1929 404 Not Found
+2026-10-30 04:30:32 [INFO] api-01 Sensor TRAM062 heartbeat received
+2026-10-30 04:30:39 [INFO] db-01 GET /api/sensors/TRAM003 200 OK 233ms
+2026-10-30 04:31:06 [INFO] web-01 Backup job started
+2026-10-30 04:31:44 [INFO] api-01 GET /dashboard 200 OK 436ms
+2026-10-30 04:32:14 [INFO] db-01 GET /api/sensors/TRAM022 200 OK 85ms
+2026-10-30 04:32:29 [INFO] web-01 Backup job started
+2026-10-30 04:32:45 [WARN] db-01 Slow response from TRAM005 213ms
+2026-10-30 04:33:21 [INFO] web-02 POST /api/readings 201 Created 69ms
+2026-10-30 04:33:50 [INFO] web-02 Cache refreshed
+2026-10-30 04:34:29 [INFO] api-01 Sensor TRAM076 heartbeat received
+2026-10-30 04:34:44 [ERROR] api-01 ERROR 404 resource not found /static/chart-4246.js
+2026-10-30 04:34:57 [INFO] db-01 Sensor TRAM063 heartbeat received
+2026-10-30 04:35:02 [INFO] web-01 POST /api/readings 201 Created 605ms
+2026-10-30 04:35:23 [INFO] db-01 Cache refreshed
+2026-10-30 04:35:28 [INFO] db-01 Cache refreshed
+2026-10-30 04:35:43 [ERROR] web-02 GET /api/reports/9746 404 Not Found
+2026-10-30 04:36:15 [INFO] web-02 GET /dashboard 200 OK 234ms
+2026-10-30 04:36:27 [INFO] api-01 POST /api/readings 201 Created 148ms
+2026-10-30 04:36:58 [INFO] api-01 GET /dashboard 200 OK 312ms
+2026-10-30 04:37:37 [ERROR] web-01 Database query TIMEOUT after 30s
+2026-10-30 04:37:42 [WARN] web-01 Disk usage at 82 percent on /data
+2026-10-30 04:38:08 [INFO] web-02 POST /api/readings 201 Created 856ms
+2026-10-30 04:38:32 [WARN] db-01 Slow response from TRAM022 74ms
+2026-10-30 04:38:40 [INFO] web-01 GET /dashboard 200 OK 481ms
+2026-10-30 04:39:06 [ERROR] web-02 Database query TIMEOUT after 30s
+2026-10-30 04:39:39 [INFO] web-02 GET /api/sensors/TRAM036 200 OK 153ms
+2026-10-30 04:40:10 [INFO] api-01 POST /api/readings 201 Created 582ms
+2026-10-30 04:40:36 [CRITICAL] api-01 Disk full on /data, write failed
+2026-10-30 04:40:48 [INFO] api-01 Cache refreshed
+2026-10-30 04:41:03 [INFO] db-01 Sensor TRAM021 heartbeat received
+2026-10-30 04:41:14 [ERROR] web-01 Connection TIMEOUT to TRAM058 after 30s
+2026-10-30 04:41:36 [WARN] api-01 Retry connecting to TRAM053 attempt 2
+2026-10-30 04:41:53 [INFO] web-02 POST /api/readings 201 Created 341ms
+2026-10-30 04:42:21 [INFO] web-01 POST /api/readings 201 Created 355ms
+2026-10-30 04:42:45 [INFO] web-01 Sensor TRAM085 heartbeat received
+2026-10-30 04:42:57 [INFO] api-01 User login success uid=4026
+2026-10-30 04:43:23 [INFO] db-01 Cache refreshed
+2026-10-30 04:43:47 [WARN] db-01 Slow response from TRAM032 205ms
+2026-10-30 04:44:27 [INFO] web-02 Backup job started
+2026-10-30 04:44:51 [INFO] web-01 Cache refreshed
+2026-10-30 04:45:03 [INFO] web-02 Sensor TRAM063 heartbeat received
+2026-10-30 04:45:30 [INFO] web-01 User login success uid=3601
+2026-10-30 04:45:35 [INFO] web-02 GET /api/sensors/TRAM070 200 OK 358ms
+2026-10-30 04:46:02 [INFO] db-01 GET /api/sensors/TRAM029 200 OK 320ms
+2026-10-30 04:46:23 [INFO] db-01 GET /dashboard 200 OK 369ms
+2026-10-30 04:46:54 [INFO] db-01 Backup job started
+2026-10-30 04:47:02 [INFO] db-01 Cache refreshed
+2026-10-30 04:47:08 [WARN] api-01 Retry connecting to TRAM004 attempt 2
+2026-10-30 04:47:41 [INFO] web-02 User login success uid=2420
+2026-10-30 04:47:48 [INFO] db-01 GET /dashboard 200 OK 505ms
+2026-10-30 04:48:15 [INFO] api-01 GET /dashboard 200 OK 15ms
+2026-10-30 04:48:25 [INFO] db-01 User login success uid=4024
+2026-10-30 04:48:35 [WARN] web-02 Retry connecting to TRAM066 attempt 2
+2026-10-30 04:48:55 [INFO] web-02 GET /api/sensors/TRAM059 200 OK 323ms
+2026-10-30 04:49:22 [WARN] api-01 Disk usage at 82 percent on /data
+2026-10-30 04:49:35 [INFO] db-01 Backup job started
+2026-10-30 04:49:46 [ERROR] web-02 Connection TIMEOUT to TRAM059 after 30s
+2026-10-30 04:50:14 [WARN] web-01 Slow response from TRAM051 791ms
+2026-10-30 04:50:25 [WARN] db-01 Retry connecting to TRAM037 attempt 2
+2026-10-30 04:50:39 [INFO] web-01 Cache refreshed
+2026-10-30 04:51:11 [INFO] db-01 Backup job started
+2026-10-30 04:51:38 [CRITICAL] api-01 Database connection pool exhausted
+2026-10-30 04:51:52 [INFO] web-02 User login success uid=7102
+2026-10-30 04:52:31 [INFO] api-01 Sensor TRAM043 heartbeat received
+2026-10-30 04:53:05 [INFO] web-02 Sensor TRAM031 heartbeat received
+2026-10-30 04:53:44 [INFO] web-02 POST /api/readings 201 Created 575ms
+2026-10-30 04:54:00 [INFO] web-02 Cache refreshed
+2026-10-30 04:54:33 [INFO] web-01 GET /api/sensors/TRAM063 200 OK 270ms
+2026-10-30 04:54:49 [INFO] db-01 Cache refreshed
+2026-10-30 04:55:12 [INFO] web-02 Cache refreshed
+2026-10-30 04:55:17 [INFO] web-02 Sensor TRAM063 heartbeat received
+2026-10-30 04:55:51 [INFO] api-01 GET /dashboard 200 OK 644ms
+2026-10-30 04:56:10 [INFO] web-02 Sensor TRAM087 heartbeat received
+2026-10-30 04:56:16 [INFO] api-01 Cache refreshed
+2026-10-30 04:56:24 [INFO] api-01 Sensor TRAM059 heartbeat received
+2026-10-30 04:56:35 [INFO] web-01 POST /api/readings 201 Created 264ms
+2026-10-30 04:56:58 [INFO] web-02 Backup job started
+2026-10-30 04:57:34 [INFO] web-02 User login success uid=2828
+2026-10-30 04:57:45 [INFO] api-01 Sensor TRAM083 heartbeat received
+2026-10-30 04:58:23 [WARN] web-02 Disk usage at 82 percent on /data
+2026-10-30 04:58:38 [INFO] db-01 User login success uid=2753
+2026-10-30 04:59:01 [INFO] web-01 Backup job started
+2026-10-30 04:59:20 [CRITICAL] db-01 Out of memory, service restarting
+2026-10-30 04:59:42 [INFO] web-01 User login success uid=9723
+2026-10-30 05:00:10 [INFO] web-01 Backup job started
+2026-10-30 05:00:41 [ERROR] db-01 Database query TIMEOUT after 30s
+2026-10-30 05:01:09 [INFO] api-01 GET /dashboard 200 OK 816ms
+2026-10-30 05:01:46 [INFO] api-01 GET /dashboard 200 OK 160ms
+2026-10-30 05:02:22 [WARN] api-01 Retry connecting to TRAM085 attempt 2
+2026-10-30 05:02:45 [ERROR] web-01 Connection TIMEOUT to TRAM012 after 30s
+2026-10-30 05:03:05 [INFO] db-01 Backup job started
+2026-10-30 05:03:24 [INFO] db-01 POST /api/readings 201 Created 79ms
+2026-10-30 05:03:59 [INFO] api-01 Cache refreshed
+2026-10-30 05:04:06 [INFO] db-01 Sensor TRAM052 heartbeat received
+2026-10-30 05:04:18 [INFO] web-02 Cache refreshed
+2026-10-30 05:04:35 [INFO] web-02 GET /api/sensors/TRAM010 200 OK 207ms
+2026-10-30 05:04:50 [INFO] web-02 GET /dashboard 200 OK 300ms
+2026-10-30 05:05:14 [INFO] web-01 GET /api/sensors/TRAM017 200 OK 267ms
+2026-10-30 05:05:23 [WARN] db-01 Disk usage at 82 percent on /data
+2026-10-30 05:05:55 [INFO] web-02 Sensor TRAM025 heartbeat received
+2026-10-30 05:06:00 [WARN] db-01 Slow response from TRAM098 414ms
+2026-10-30 05:06:09 [INFO] web-01 Backup job started
+2026-10-30 05:06:28 [ERROR] web-02 GET /api/sensors/TRAM093 404 Not Found
+2026-10-30 05:06:51 [INFO] web-01 GET /dashboard 200 OK 898ms
+2026-10-30 05:07:22 [WARN] web-01 Retry connecting to TRAM044 attempt 2
+2026-10-30 05:07:39 [INFO] api-01 GET /dashboard 200 OK 436ms
+2026-10-30 05:07:58 [INFO] api-01 Backup job started
+2026-10-30 05:08:11 [INFO] web-02 GET /dashboard 200 OK 21ms
+2026-10-30 05:08:37 [INFO] db-01 POST /api/readings 201 Created 893ms
+2026-10-30 05:09:07 [INFO] db-01 Sensor TRAM045 heartbeat received
+2026-10-30 05:09:30 [ERROR] web-01 Database query TIMEOUT after 30s
+2026-10-30 05:09:56 [INFO] web-01 POST /api/readings 201 Created 495ms
+2026-10-30 05:10:24 [INFO] db-01 Cache refreshed
+2026-10-30 05:10:54 [ERROR] db-01 Database query TIMEOUT after 30s
+2026-10-30 05:11:02 [INFO] db-01 GET /dashboard 200 OK 41ms
+2026-10-30 05:11:37 [INFO] db-01 GET /dashboard 200 OK 29ms
+2026-10-30 05:12:14 [WARN] web-02 Disk usage at 82 percent on /data
+2026-10-30 05:12:50 [INFO] web-01 POST /api/readings 201 Created 857ms
+2026-10-30 05:13:05 [INFO] web-02 Sensor TRAM075 heartbeat received
+2026-10-30 05:13:42 [INFO] api-01 Backup job started
+2026-10-30 05:14:04 [INFO] api-01 GET /dashboard 200 OK 606ms
+2026-10-30 05:14:19 [INFO] web-01 Backup job started
+2026-10-30 05:14:40 [INFO] web-02 Cache refreshed
+2026-10-30 05:15:03 [INFO] db-01 GET /api/sensors/TRAM073 200 OK 556ms
+2026-10-30 05:15:18 [INFO] db-01 GET /api/sensors/TRAM001 200 OK 103ms
+2026-10-30 05:15:48 [INFO] web-01 Backup job started
+2026-10-30 05:16:05 [INFO] api-01 Backup job started
+2026-10-30 05:16:20 [INFO] db-01 GET /dashboard 200 OK 714ms
+2026-10-30 05:16:44 [ERROR] web-02 Connection TIMEOUT to TRAM049 after 30s
+2026-10-30 05:16:50 [INFO] web-01 GET /dashboard 200 OK 231ms
+2026-10-30 05:17:13 [INFO] db-01 Backup job started
+2026-10-30 05:17:30 [INFO] web-02 POST /api/readings 201 Created 397ms
+2026-10-30 05:18:07 [INFO] api-01 POST /api/readings 201 Created 240ms
+2026-10-30 05:18:37 [INFO] web-02 POST /api/readings 201 Created 723ms
+2026-10-30 05:18:50 [INFO] api-01 User login success uid=2888
+2026-10-30 05:19:04 [INFO] web-02 GET /api/sensors/TRAM053 200 OK 243ms
+2026-10-30 05:19:33 [INFO] db-01 User login success uid=8275
+2026-10-30 05:20:08 [ERROR] web-02 GET /api/reports/5339 404 Not Found
+2026-10-30 05:20:19 [INFO] web-01 GET /dashboard 200 OK 529ms
+2026-10-30 05:20:56 [INFO] api-01 Backup job started
+2026-10-30 05:21:07 [INFO] web-02 Sensor TRAM063 heartbeat received
+2026-10-30 05:21:42 [INFO] web-01 POST /api/readings 201 Created 147ms
+2026-10-30 05:22:17 [WARN] db-01 Slow response from TRAM092 461ms
+2026-10-30 05:22:53 [INFO] web-01 GET /dashboard 200 OK 445ms
+2026-10-30 05:23:00 [INFO] api-01 User login success uid=5463
+2026-10-30 05:23:08 [INFO] api-01 GET /api/sensors/TRAM015 200 OK 790ms
+2026-10-30 05:23:36 [INFO] db-01 GET /api/sensors/TRAM037 200 OK 52ms
+2026-10-30 05:24:14 [WARN] web-02 Retry connecting to TRAM055 attempt 2
+2026-10-30 05:24:47 [INFO] web-02 Backup job started
+2026-10-30 05:25:00 [INFO] web-01 Cache refreshed
+2026-10-30 05:25:24 [INFO] web-02 POST /api/readings 201 Created 336ms
+2026-10-30 05:25:36 [INFO] db-01 User login success uid=5263
+2026-10-30 05:26:07 [INFO] db-01 GET /dashboard 200 OK 340ms
+2026-10-30 05:26:13 [INFO] db-01 Backup job started
+2026-10-30 05:26:27 [INFO] db-01 Backup job started
+2026-10-30 05:27:01 [INFO] web-01 GET /api/sensors/TRAM091 200 OK 59ms
+2026-10-30 05:27:15 [INFO] web-01 User login success uid=4812
+2026-10-30 05:27:38 [INFO] db-01 POST /api/readings 201 Created 91ms
+2026-10-30 05:27:51 [INFO] web-01 GET /api/sensors/TRAM044 200 OK 499ms
+2026-10-30 05:28:17 [ERROR] db-01 GET /api/reports/9317 404 Not Found
+2026-10-30 05:28:27 [INFO] api-01 GET /dashboard 200 OK 20ms
+2026-10-30 05:28:36 [INFO] web-01 Sensor TRAM053 heartbeat received
+2026-10-30 05:28:52 [INFO] web-01 User login success uid=5713
+2026-10-30 05:29:04 [ERROR] web-01 GET /api/sensors/TRAM010 404 Not Found
+2026-10-30 05:29:16 [INFO] db-01 User login success uid=4569
+2026-10-30 05:29:46 [INFO] web-01 POST /api/readings 201 Created 388ms
+2026-10-30 05:30:14 [INFO] web-02 Cache refreshed
+2026-10-30 05:30:33 [INFO] db-01 POST /api/readings 201 Created 149ms
+2026-10-30 05:31:10 [INFO] api-01 Cache refreshed
+2026-10-30 05:31:28 [WARN] web-01 Slow response from TRAM087 558ms
+2026-10-30 05:31:33 [INFO] db-01 Cache refreshed
+2026-10-30 05:32:01 [WARN] api-01 Retry connecting to TRAM054 attempt 2
+2026-10-30 05:32:36 [ERROR] web-01 Database query TIMEOUT after 30s
+2026-10-30 05:33:03 [INFO] api-01 GET /dashboard 200 OK 17ms
+2026-10-30 05:33:24 [INFO] db-01 Sensor TRAM025 heartbeat received
+2026-10-30 05:33:33 [INFO] web-01 Backup job started
+2026-10-30 05:34:13 [ERROR] api-01 GET /api/reports/4680 404 Not Found
+2026-10-30 05:34:43 [WARN] web-01 Retry connecting to TRAM034 attempt 2
+2026-10-30 05:35:04 [INFO] db-01 GET /dashboard 200 OK 587ms
+2026-10-30 05:35:41 [CRITICAL] web-01 Sensor gateway unreachable, 12 stations offline
+2026-10-30 05:35:51 [INFO] api-01 Sensor TRAM070 heartbeat received
+2026-10-30 05:36:05 [INFO] api-01 POST /api/readings 201 Created 716ms
+2026-10-30 05:36:38 [INFO] api-01 GET /dashboard 200 OK 344ms
+2026-10-30 05:36:55 [INFO] web-01 GET /dashboard 200 OK 271ms
+2026-10-30 05:37:07 [ERROR] api-01 GET /api/sensors/TRAM079 404 Not Found
+2026-10-30 05:37:16 [WARN] api-01 Slow response from TRAM071 625ms
+2026-10-30 05:37:48 [INFO] web-02 User login success uid=6652
+2026-10-30 05:38:18 [INFO] web-01 Cache refreshed
+2026-10-30 05:38:49 [INFO] api-01 Sensor TRAM055 heartbeat received
+2026-10-30 05:39:17 [WARN] web-01 Slow response from TRAM077 403ms
+2026-10-30 05:39:50 [INFO] api-01 GET /api/sensors/TRAM018 200 OK 309ms
+2026-10-30 05:40:03 [INFO] api-01 POST /api/readings 201 Created 592ms
+2026-10-30 05:40:28 [INFO] web-01 Backup job started
+2026-10-30 05:40:58 [INFO] web-01 POST /api/readings 201 Created 375ms
+2026-10-30 05:41:15 [INFO] db-01 Sensor TRAM086 heartbeat received
+2026-10-30 05:41:37 [WARN] web-01 Retry connecting to TRAM082 attempt 2
+2026-10-30 05:42:06 [INFO] db-01 Cache refreshed
+2026-10-30 05:42:19 [INFO] db-01 Sensor TRAM047 heartbeat received
+2026-10-30 05:42:53 [INFO] web-01 POST /api/readings 201 Created 440ms
+2026-10-30 05:43:28 [WARN] web-01 Retry connecting to TRAM065 attempt 2
+2026-10-30 05:43:58 [INFO] db-01 Sensor TRAM062 heartbeat received
+2026-10-30 05:44:25 [ERROR] web-01 Connection TIMEOUT to TRAM027 after 30s
+2026-10-30 05:45:00 [INFO] web-02 Sensor TRAM092 heartbeat received
+2026-10-30 05:45:23 [INFO] web-02 Cache refreshed
+2026-10-30 05:45:57 [INFO] web-02 User login success uid=2368
+2026-10-30 05:46:14 [INFO] db-01 POST /api/readings 201 Created 622ms
+2026-10-30 05:46:30 [INFO] web-02 Backup job started
+2026-10-30 05:46:52 [INFO] api-01 User login success uid=6319
+2026-10-30 05:47:12 [INFO] web-02 User login success uid=5723
+2026-10-30 05:47:25 [INFO] web-02 Backup job started
+2026-10-30 05:47:33 [INFO] web-01 GET /dashboard 200 OK 393ms
+2026-10-30 05:47:54 [INFO] api-01 User login success uid=7782
+2026-10-30 05:48:19 [ERROR] web-02 GET /api/reports/2554 404 Not Found
+2026-10-30 05:48:29 [INFO] db-01 Cache refreshed
+2026-10-30 05:48:55 [INFO] web-01 Sensor TRAM042 heartbeat received
+2026-10-30 05:49:02 [INFO] db-01 Sensor TRAM014 heartbeat received
+2026-10-30 05:49:29 [INFO] web-01 Cache refreshed
+2026-10-30 05:49:51 [INFO] web-02 GET /dashboard 200 OK 267ms
+2026-10-30 05:50:20 [INFO] web-01 Backup job started
+2026-10-30 05:50:47 [INFO] db-01 Sensor TRAM061 heartbeat received
+2026-10-30 05:51:19 [WARN] db-01 Retry connecting to TRAM095 attempt 2
+2026-10-30 05:51:30 [INFO] db-01 Backup job started
+2026-10-30 05:52:00 [INFO] web-02 Backup job started
+2026-10-30 05:52:22 [ERROR] db-01 GET /api/reports/4508 404 Not Found
+2026-10-30 05:52:37 [INFO] api-01 GET /dashboard 200 OK 717ms
+2026-10-30 05:53:17 [INFO] web-02 Sensor TRAM052 heartbeat received
+2026-10-30 05:53:52 [INFO] web-02 GET /api/sensors/TRAM044 200 OK 769ms
+2026-10-30 05:54:08 [INFO] web-02 GET /api/sensors/TRAM081 200 OK 594ms
+2026-10-30 05:54:42 [INFO] web-02 POST /api/readings 201 Created 547ms
+2026-10-30 05:55:04 [INFO] web-02 Sensor TRAM074 heartbeat received
+2026-10-30 05:55:10 [INFO] web-01 User login success uid=3937
+2026-10-30 05:55:30 [INFO] db-01 Backup job started
+2026-10-30 05:55:55 [INFO] web-02 Cache refreshed
+2026-10-30 05:56:11 [INFO] web-01 User login success uid=7779
+2026-10-30 05:56:26 [INFO] web-02 GET /api/sensors/TRAM079 200 OK 748ms
+2026-10-30 05:56:59 [ERROR] db-01 Database query TIMEOUT after 30s
+2026-10-30 05:57:13 [ERROR] db-01 GET /api/reports/7032 404 Not Found
+2026-10-30 05:57:18 [INFO] web-01 POST /api/readings 201 Created 247ms
+2026-10-30 05:57:49 [INFO] db-01 Backup job started
+2026-10-30 05:58:13 [INFO] db-01 Backup job started
+2026-10-30 05:58:25 [INFO] web-02 User login success uid=5606
+2026-10-30 05:59:02 [INFO] api-01 POST /api/readings 201 Created 510ms
+2026-10-30 05:59:37 [INFO] api-01 Cache refreshed
+2026-10-30 05:59:52 [INFO] web-01 User login success uid=9425
+2026-10-30 06:00:22 [INFO] api-01 GET /api/sensors/TRAM036 200 OK 880ms
+2026-10-30 06:00:40 [INFO] api-01 Cache refreshed
+2026-10-30 06:01:13 [INFO] web-01 POST /api/readings 201 Created 51ms
+2026-10-30 06:01:50 [INFO] db-01 Backup job started
+2026-10-30 06:01:55 [INFO] web-01 GET /api/sensors/TRAM008 200 OK 91ms
+2026-10-30 06:02:13 [INFO] db-01 User login success uid=9916
+2026-10-30 06:02:22 [INFO] web-02 User login success uid=1994
+2026-10-30 06:02:40 [WARN] db-01 Disk usage at 82 percent on /data
+2026-10-30 06:03:06 [INFO] api-01 Sensor TRAM005 heartbeat received
+2026-10-30 06:03:14 [INFO] web-02 GET /api/sensors/TRAM042 200 OK 579ms
+2026-10-30 06:03:31 [INFO] db-01 POST /api/readings 201 Created 699ms
+2026-10-30 06:03:45 [INFO] api-01 GET /dashboard 200 OK 30ms
+2026-10-30 06:03:58 [INFO] web-02 POST /api/readings 201 Created 389ms
+2026-10-30 06:04:26 [ERROR] web-02 GET /api/reports/7500 404 Not Found
+2026-10-30 06:05:03 [INFO] db-01 GET /dashboard 200 OK 273ms
+2026-10-30 06:05:37 [INFO] web-01 Backup job started
+2026-10-30 06:06:04 [INFO] web-01 Sensor TRAM081 heartbeat received
+2026-10-30 06:06:34 [INFO] web-01 Cache refreshed
+2026-10-30 06:06:57 [INFO] db-01 Cache refreshed
+2026-10-30 06:07:21 [INFO] db-01 Sensor TRAM018 heartbeat received
+2026-10-30 06:07:49 [INFO] web-01 User login success uid=9621
+2026-10-30 06:07:58 [INFO] api-01 POST /api/readings 201 Created 262ms
+2026-10-30 06:08:38 [WARN] api-01 Retry connecting to TRAM081 attempt 2
+2026-10-30 06:08:46 [INFO] db-01 POST /api/readings 201 Created 400ms
+2026-10-30 06:08:57 [INFO] api-01 POST /api/readings 201 Created 32ms
+2026-10-30 06:09:23 [INFO] web-02 GET /dashboard 200 OK 701ms
+2026-10-30 06:09:57 [INFO] web-02 POST /api/readings 201 Created 546ms
+2026-10-30 06:10:25 [INFO] db-01 GET /dashboard 200 OK 170ms
+2026-10-30 06:11:01 [ERROR] api-01 ERROR 404 resource not found /static/chart-6746.js
+2026-10-30 06:11:07 [WARN] api-01 Slow response from TRAM021 73ms
+2026-10-30 06:11:29 [INFO] web-01 GET /api/sensors/TRAM015 200 OK 67ms
+2026-10-30 06:11:49 [INFO] db-01 User login success uid=3750
+2026-10-30 06:12:17 [WARN] api-01 Slow response from TRAM050 401ms
+2026-10-30 06:12:25 [ERROR] db-01 Database query TIMEOUT after 30s
+2026-10-30 06:12:41 [INFO] db-01 GET /dashboard 200 OK 634ms
+2026-10-30 06:12:55 [INFO] web-02 GET /api/sensors/TRAM096 200 OK 750ms
+2026-10-30 06:13:30 [INFO] db-01 GET /dashboard 200 OK 614ms
+2026-10-30 06:13:42 [INFO] web-01 GET /dashboard 200 OK 612ms
+2026-10-30 06:14:21 [INFO] web-01 GET /dashboard 200 OK 877ms
+2026-10-30 06:14:35 [INFO] web-02 Cache refreshed
+2026-10-30 06:15:07 [INFO] web-01 GET /api/sensors/TRAM064 200 OK 759ms
+2026-10-30 06:15:25 [INFO] web-02 Sensor TRAM066 heartbeat received
+2026-10-30 06:16:05 [ERROR] db-01 Connection TIMEOUT to TRAM094 after 30s
+2026-10-30 06:16:21 [INFO] web-02 Sensor TRAM039 heartbeat received
+2026-10-30 06:16:52 [INFO] web-01 User login success uid=8722
+2026-10-30 06:17:05 [INFO] web-02 Sensor TRAM007 heartbeat received
+2026-10-30 06:17:32 [INFO] db-01 User login success uid=2167
+2026-10-30 06:18:01 [INFO] web-02 Cache refreshed
+2026-10-30 06:18:22 [ERROR] web-02 Connection TIMEOUT to TRAM017 after 30s
+2026-10-30 06:18:35 [INFO] web-01 Backup job started
+2026-10-30 06:18:47 [INFO] db-01 GET /api/sensors/TRAM031 200 OK 703ms
+2026-10-30 06:19:16 [INFO] db-01 POST /api/readings 201 Created 408ms
+2026-10-30 06:19:56 [INFO] web-02 POST /api/readings 201 Created 394ms
+2026-10-30 06:20:34 [INFO] web-02 Cache refreshed
+2026-10-30 06:21:14 [INFO] web-02 GET /dashboard 200 OK 83ms
+2026-10-30 06:21:38 [INFO] api-01 Cache refreshed
+2026-10-30 06:21:45 [INFO] web-02 Sensor TRAM011 heartbeat received
+2026-10-30 06:22:24 [INFO] web-01 GET /dashboard 200 OK 11ms
+2026-10-30 06:23:02 [INFO] web-01 POST /api/readings 201 Created 443ms
+2026-10-30 06:23:33 [INFO] web-01 User login success uid=8327
+2026-10-30 06:23:39 [INFO] api-01 Sensor TRAM016 heartbeat received
+2026-10-30 06:23:58 [INFO] api-01 Cache refreshed
+2026-10-30 06:24:15 [INFO] web-02 GET /dashboard 200 OK 861ms
+2026-10-30 06:24:31 [INFO] web-02 Sensor TRAM098 heartbeat received
+2026-10-30 06:25:10 [ERROR] db-01 ERROR 404 resource not found /static/chart-3268.js
+2026-10-30 06:25:27 [INFO] web-02 GET /api/sensors/TRAM054 200 OK 753ms
+2026-10-30 06:26:03 [INFO] db-01 Sensor TRAM051 heartbeat received
+2026-10-30 06:26:11 [INFO] web-01 User login success uid=1617
+2026-10-30 06:26:34 [INFO] db-01 POST /api/readings 201 Created 436ms
+2026-10-30 06:27:09 [INFO] db-01 Cache refreshed
+2026-10-30 06:27:49 [INFO] web-01 Sensor TRAM076 heartbeat received
+2026-10-30 06:27:59 [INFO] web-02 GET /api/sensors/TRAM074 200 OK 764ms
+2026-10-30 06:28:35 [INFO] db-01 GET /dashboard 200 OK 798ms
+2026-10-30 06:29:02 [ERROR] web-02 GET /api/reports/4961 404 Not Found
+2026-10-30 06:29:21 [INFO] api-01 GET /dashboard 200 OK 890ms
+2026-10-30 06:29:52 [INFO] web-02 POST /api/readings 201 Created 630ms
+2026-10-30 06:30:12 [INFO] db-01 GET /api/sensors/TRAM031 200 OK 546ms
+2026-10-30 06:30:33 [INFO] api-01 Sensor TRAM014 heartbeat received
+2026-10-30 06:31:05 [INFO] db-01 Backup job started
+2026-10-30 06:31:33 [INFO] api-01 User login success uid=3963
+2026-10-30 06:31:53 [INFO] web-02 GET /api/sensors/TRAM084 200 OK 470ms
+2026-10-30 06:32:28 [INFO] api-01 POST /api/readings 201 Created 825ms
+2026-10-30 06:33:08 [INFO] db-01 GET /dashboard 200 OK 699ms
+2026-10-30 06:33:48 [INFO] web-01 GET /dashboard 200 OK 34ms
+2026-10-30 06:34:03 [WARN] web-01 Retry connecting to TRAM013 attempt 2
+2026-10-30 06:34:38 [WARN] web-01 Slow response from TRAM081 609ms
+2026-10-30 06:34:58 [INFO] db-01 Cache refreshed
+2026-10-30 06:35:15 [INFO] api-01 GET /dashboard 200 OK 672ms
+2026-10-30 06:35:22 [INFO] api-01 POST /api/readings 201 Created 493ms
+2026-10-30 06:35:52 [INFO] api-01 User login success uid=9128
+2026-10-30 06:36:22 [INFO] db-01 GET /api/sensors/TRAM066 200 OK 797ms
+2026-10-30 06:36:31 [INFO] db-01 User login success uid=2126
+2026-10-30 06:36:46 [INFO] web-02 GET /dashboard 200 OK 248ms
+2026-10-30 06:36:56 [WARN] api-01 Retry connecting to TRAM056 attempt 2
+2026-10-30 06:37:12 [ERROR] db-01 GET /api/reports/2150 404 Not Found
+2026-10-30 06:37:28 [INFO] web-02 Sensor TRAM062 heartbeat received
+2026-10-30 06:37:40 [ERROR] api-01 GET /api/sensors/TRAM092 404 Not Found
+2026-10-30 06:37:59 [INFO] web-01 Sensor TRAM027 heartbeat received
+2026-10-30 06:38:20 [WARN] api-01 Slow response from TRAM039 357ms
+2026-10-30 06:38:37 [INFO] api-01 Backup job started
+2026-10-30 06:39:16 [INFO] web-01 GET /api/sensors/TRAM046 200 OK 612ms
+2026-10-30 06:39:43 [INFO] web-01 Cache refreshed
+2026-10-30 06:39:50 [INFO] db-01 POST /api/readings 201 Created 566ms
+2026-10-30 06:40:15 [INFO] db-01 POST /api/readings 201 Created 594ms
+2026-10-30 06:40:40 [WARN] web-02 Slow response from TRAM064 40ms
+2026-10-30 06:41:06 [INFO] db-01 GET /dashboard 200 OK 563ms
+2026-10-30 06:41:24 [INFO] web-02 POST /api/readings 201 Created 273ms
+2026-10-30 06:41:59 [INFO] web-02 Sensor TRAM009 heartbeat received
+2026-10-30 06:42:17 [INFO] web-01 User login success uid=2946
+2026-10-30 06:42:26 [INFO] web-02 User login success uid=2698
+2026-10-30 06:42:38 [INFO] web-01 Backup job started
+2026-10-30 06:43:08 [INFO] api-01 GET /api/sensors/TRAM051 200 OK 109ms
+2026-10-30 06:43:32 [INFO] db-01 Backup job started
+2026-10-30 06:43:55 [INFO] web-01 User login success uid=4237
+2026-10-30 06:44:23 [INFO] web-02 GET /api/sensors/TRAM065 200 OK 796ms
+2026-10-30 06:44:45 [WARN] web-01 Disk usage at 82 percent on /data
+2026-10-30 06:44:51 [INFO] db-01 POST /api/readings 201 Created 614ms
+2026-10-30 06:44:58 [INFO] api-01 Cache refreshed
+2026-10-30 06:45:27 [INFO] web-02 POST /api/readings 201 Created 593ms
+2026-10-30 06:45:47 [INFO] api-01 Backup job started
+2026-10-30 06:46:05 [INFO] web-02 GET /api/sensors/TRAM082 200 OK 347ms
+2026-10-30 06:46:39 [INFO] db-01 Sensor TRAM048 heartbeat received
+2026-10-30 06:47:07 [INFO] web-02 Sensor TRAM068 heartbeat received
+2026-10-30 06:47:44 [INFO] web-02 GET /dashboard 200 OK 458ms
+2026-10-30 06:48:09 [WARN] web-02 Slow response from TRAM079 796ms
+2026-10-30 06:48:25 [INFO] web-02 GET /dashboard 200 OK 583ms
+2026-10-30 06:49:03 [INFO] db-01 User login success uid=8001
+2026-10-30 06:49:40 [WARN] web-02 Retry connecting to TRAM032 attempt 2
+2026-10-30 06:50:04 [ERROR] web-01 Database query TIMEOUT after 30s
+2026-10-30 06:50:09 [INFO] web-01 GET /api/sensors/TRAM010 200 OK 45ms
+2026-10-30 06:50:36 [INFO] api-01 Backup job started
+2026-10-30 06:51:12 [INFO] web-01 POST /api/readings 201 Created 293ms
+2026-10-30 06:51:39 [INFO] api-01 User login success uid=4234
+2026-10-30 06:51:51 [INFO] web-01 GET /dashboard 200 OK 32ms
+2026-10-30 06:52:24 [INFO] web-02 GET /api/sensors/TRAM088 200 OK 726ms
+2026-10-30 06:52:50 [WARN] db-01 Retry connecting to TRAM077 attempt 2
+2026-10-30 06:53:17 [INFO] web-01 GET /dashboard 200 OK 547ms
+2026-10-30 06:53:37 [INFO] web-01 POST /api/readings 201 Created 738ms
+2026-10-30 06:54:16 [INFO] web-02 Cache refreshed
+2026-10-30 06:54:41 [ERROR] web-02 GET /api/reports/1433 404 Not Found
+2026-10-30 06:54:49 [WARN] api-01 Slow response from TRAM010 263ms
+2026-10-30 06:55:22 [INFO] db-01 Sensor TRAM078 heartbeat received
+2026-10-30 06:55:35 [ERROR] db-01 GET /api/sensors/TRAM059 404 Not Found
+2026-10-30 06:55:49 [INFO] web-02 GET /api/sensors/TRAM039 200 OK 607ms
+2026-10-30 06:56:11 [WARN] web-01 Disk usage at 82 percent on /data
+2026-10-30 06:56:24 [INFO] db-01 Sensor TRAM010 heartbeat received
+2026-10-30 06:56:55 [ERROR] web-01 Connection TIMEOUT to TRAM074 after 30s
+2026-10-30 06:57:02 [ERROR] api-01 Database query TIMEOUT after 30s
+2026-10-30 06:57:39 [INFO] api-01 GET /api/sensors/TRAM047 200 OK 835ms
+2026-10-30 06:57:44 [INFO] api-01 User login success uid=7377
+2026-10-30 06:58:01 [INFO] web-02 GET /dashboard 200 OK 197ms
+2026-10-30 06:58:25 [CRITICAL] web-01 Out of memory, service restarting
+2026-10-30 06:58:50 [ERROR] api-01 ERROR 404 resource not found /static/chart-6832.js
+2026-10-30 06:59:05 [INFO] api-01 User login success uid=2774
+2026-10-30 06:59:26 [INFO] db-01 GET /api/sensors/TRAM059 200 OK 120ms
+2026-10-30 06:59:37 [INFO] api-01 Backup job started
+2026-10-30 07:00:17 [INFO] db-01 POST /api/readings 201 Created 28ms
+2026-10-30 07:00:46 [INFO] web-01 GET /api/sensors/TRAM007 200 OK 708ms
+2026-10-30 07:01:02 [INFO] db-01 Backup job started
+2026-10-30 07:01:32 [INFO] api-01 Sensor TRAM083 heartbeat received
+2026-10-30 07:01:47 [INFO] api-01 Sensor TRAM045 heartbeat received
+2026-10-30 07:02:20 [INFO] web-01 GET /dashboard 200 OK 405ms
+2026-10-30 07:02:42 [INFO] web-02 GET /api/sensors/TRAM044 200 OK 318ms
+2026-10-30 07:03:20 [INFO] db-01 User login success uid=6174
+2026-10-30 07:03:48 [INFO] web-02 POST /api/readings 201 Created 835ms
+2026-10-30 07:04:09 [WARN] web-02 Retry connecting to TRAM087 attempt 2
+2026-10-30 07:04:39 [INFO] api-01 Backup job started
+2026-10-30 07:05:13 [INFO] web-02 Sensor TRAM066 heartbeat received
+2026-10-30 07:05:18 [INFO] db-01 Cache refreshed
+2026-10-30 07:05:45 [INFO] web-02 GET /dashboard 200 OK 315ms
+2026-10-30 07:06:01 [INFO] web-02 POST /api/readings 201 Created 240ms
+2026-10-30 07:06:33 [INFO] api-01 Sensor TRAM028 heartbeat received
+2026-10-30 07:06:41 [ERROR] web-02 Connection TIMEOUT to TRAM043 after 30s
+2026-10-30 07:06:49 [INFO] web-01 POST /api/readings 201 Created 567ms
+2026-10-30 07:07:00 [INFO] web-02 POST /api/readings 201 Created 544ms
+2026-10-30 07:07:13 [ERROR] api-01 GET /api/reports/9048 404 Not Found
+2026-10-30 07:07:22 [INFO] db-01 Cache refreshed
+2026-10-30 07:07:49 [INFO] api-01 Backup job started
+2026-10-30 07:07:54 [INFO] web-01 GET /api/sensors/TRAM047 200 OK 567ms
+2026-10-30 07:08:06 [ERROR] web-01 GET /api/sensors/TRAM068 404 Not Found
+2026-10-30 07:08:34 [WARN] api-01 Disk usage at 82 percent on /data
+2026-10-30 07:09:07 [INFO] db-01 Cache refreshed
+2026-10-30 07:09:42 [INFO] web-02 Backup job started
+2026-10-30 07:09:50 [INFO] web-01 Backup job started
+2026-10-30 07:10:08 [INFO] web-01 Backup job started
+2026-10-30 07:10:31 [INFO] api-01 Cache refreshed
+2026-10-30 07:11:08 [ERROR] web-01 GET /api/reports/4544 404 Not Found
+2026-10-30 07:11:30 [INFO] web-02 User login success uid=4406
+2026-10-30 07:11:41 [INFO] db-01 Sensor TRAM010 heartbeat received
+2026-10-30 07:11:57 [INFO] api-01 Backup job started
+2026-10-30 07:12:37 [INFO] db-01 Backup job started
+2026-10-30 07:12:52 [ERROR] web-01 Connection TIMEOUT to TRAM009 after 30s
+2026-10-30 07:13:26 [INFO] web-01 GET /dashboard 200 OK 18ms
+2026-10-30 07:13:39 [INFO] web-01 POST /api/readings 201 Created 877ms
+2026-10-30 07:14:09 [INFO] db-01 POST /api/readings 201 Created 760ms
+2026-10-30 07:14:33 [INFO] web-01 GET /api/sensors/TRAM042 200 OK 509ms
+2026-10-30 07:15:09 [INFO] web-02 Sensor TRAM008 heartbeat received
+2026-10-30 07:15:36 [INFO] db-01 Sensor TRAM005 heartbeat received
+2026-10-30 07:15:57 [INFO] api-01 Backup job started
+2026-10-30 07:16:35 [INFO] web-01 GET /dashboard 200 OK 630ms
+2026-10-30 07:16:41 [INFO] web-02 User login success uid=8713
+2026-10-30 07:17:17 [INFO] web-02 POST /api/readings 201 Created 244ms
+2026-10-30 07:17:33 [INFO] web-01 Backup job started
+2026-10-30 07:17:56 [INFO] web-02 GET /dashboard 200 OK 783ms
+2026-10-30 07:18:19 [INFO] web-01 GET /dashboard 200 OK 717ms
+2026-10-30 07:18:41 [INFO] api-01 User login success uid=9343
+2026-10-30 07:19:08 [INFO] db-01 POST /api/readings 201 Created 152ms
+2026-10-30 07:19:24 [INFO] api-01 GET /dashboard 200 OK 134ms
+2026-10-30 07:19:37 [INFO] web-02 Sensor TRAM094 heartbeat received
+2026-10-30 07:20:08 [ERROR] web-01 Connection TIMEOUT to TRAM001 after 30s
+2026-10-30 07:20:19 [INFO] web-01 Sensor TRAM044 heartbeat received
+2026-10-30 07:20:36 [INFO] web-01 User login success uid=3058
+2026-10-30 07:21:02 [INFO] web-02 POST /api/readings 201 Created 344ms
+2026-10-30 07:21:20 [WARN] web-02 Retry connecting to TRAM061 attempt 2
+2026-10-30 07:22:00 [INFO] db-01 User login success uid=9387
+2026-10-30 07:22:25 [INFO] web-01 POST /api/readings 201 Created 87ms
+2026-10-30 07:22:53 [INFO] web-02 GET /api/sensors/TRAM096 200 OK 199ms
+2026-10-30 07:23:15 [INFO] web-02 Cache refreshed
+2026-10-30 07:23:36 [INFO] web-01 Cache refreshed
+2026-10-30 07:23:47 [INFO] web-01 GET /dashboard 200 OK 897ms
+2026-10-30 07:24:13 [INFO] db-01 GET /dashboard 200 OK 151ms
+2026-10-30 07:24:43 [INFO] api-01 Cache refreshed
+2026-10-30 07:25:00 [ERROR] web-01 ERROR 404 resource not found /static/chart-8668.js
+2026-10-30 07:25:09 [INFO] db-01 Sensor TRAM083 heartbeat received
+2026-10-30 07:25:29 [ERROR] web-01 GET /api/sensors/TRAM086 404 Not Found
+2026-10-30 07:25:51 [INFO] api-01 User login success uid=3057
+2026-10-30 07:26:22 [INFO] api-01 Cache refreshed
+2026-10-30 07:26:51 [INFO] web-02 GET /api/sensors/TRAM024 200 OK 747ms
+2026-10-30 07:27:17 [INFO] db-01 User login success uid=4621
+2026-10-30 07:27:31 [INFO] db-01 Sensor TRAM097 heartbeat received
+2026-10-30 07:28:04 [INFO] api-01 POST /api/readings 201 Created 632ms
+2026-10-30 07:28:37 [INFO] web-01 Backup job started
+2026-10-30 07:29:03 [INFO] api-01 Backup job started
+2026-10-30 07:29:28 [INFO] web-01 GET /dashboard 200 OK 851ms
+2026-10-30 07:29:43 [INFO] web-02 GET /dashboard 200 OK 354ms
+2026-10-30 07:30:00 [INFO] api-01 Sensor TRAM040 heartbeat received
+2026-10-30 07:30:23 [ERROR] api-01 ERROR 404 resource not found /static/chart-5710.js
+2026-10-30 07:30:39 [INFO] web-02 Backup job started
+2026-10-30 07:30:45 [INFO] web-01 Backup job started
+2026-10-30 07:31:20 [INFO] web-02 Cache refreshed
+2026-10-30 07:31:33 [INFO] web-01 GET /dashboard 200 OK 760ms
+2026-10-30 07:32:04 [INFO] db-01 Backup job started
+2026-10-30 07:32:09 [INFO] web-02 Cache refreshed
+2026-10-30 07:32:24 [INFO] db-01 Backup job started
+2026-10-30 07:32:54 [WARN] db-01 Slow response from TRAM090 218ms
+2026-10-30 07:33:00 [INFO] web-01 Sensor TRAM003 heartbeat received
+2026-10-30 07:33:11 [INFO] web-02 User login success uid=4797
+2026-10-30 07:33:26 [ERROR] web-02 Connection TIMEOUT to TRAM005 after 30s
+2026-10-30 07:34:05 [INFO] api-01 Backup job started
+2026-10-30 07:34:11 [INFO] web-02 Backup job started
+2026-10-30 07:34:17 [WARN] web-01 Slow response from TRAM023 166ms
+2026-10-30 07:34:33 [INFO] db-01 Sensor TRAM023 heartbeat received
+2026-10-30 07:34:52 [INFO] web-01 GET /dashboard 200 OK 613ms
+2026-10-30 07:35:13 [INFO] web-01 Cache refreshed
+2026-10-30 07:35:29 [INFO] api-01 GET /api/sensors/TRAM038 200 OK 357ms
+2026-10-30 07:35:50 [WARN] web-02 Slow response from TRAM065 484ms
+2026-10-30 07:36:00 [INFO] db-01 GET /dashboard 200 OK 104ms
+2026-10-30 07:36:27 [INFO] api-01 User login success uid=4838
+2026-10-30 07:36:39 [INFO] web-02 Cache refreshed
+2026-10-30 07:37:07 [ERROR] db-01 ERROR 404 resource not found /static/chart-5363.js
+2026-10-30 07:37:21 [INFO] web-01 POST /api/readings 201 Created 87ms
+2026-10-30 07:37:49 [INFO] api-01 User login success uid=5234
+2026-10-30 07:38:05 [INFO] api-01 GET /dashboard 200 OK 593ms
+2026-10-30 07:38:36 [WARN] web-01 Retry connecting to TRAM020 attempt 2
+2026-10-30 07:39:05 [INFO] web-02 User login success uid=9904
+2026-10-30 07:39:32 [INFO] api-01 Cache refreshed
+2026-10-30 07:39:45 [WARN] web-01 Retry connecting to TRAM083 attempt 2
+2026-10-30 07:40:15 [INFO] db-01 GET /dashboard 200 OK 381ms
+2026-10-30 07:40:30 [WARN] web-02 Slow response from TRAM020 645ms
+2026-10-30 07:40:38 [INFO] web-01 Backup job started
+2026-10-30 07:41:04 [INFO] web-01 Backup job started
+2026-10-30 07:41:22 [INFO] db-01 Backup job started
+2026-10-30 07:41:36 [INFO] api-01 User login success uid=7796
+2026-10-30 07:42:13 [WARN] web-02 Disk usage at 82 percent on /data
+2026-10-30 07:42:23 [INFO] web-02 GET /dashboard 200 OK 373ms
+2026-10-30 07:43:03 [INFO] api-01 Backup job started
+2026-10-30 07:43:28 [INFO] web-02 POST /api/readings 201 Created 497ms
+2026-10-30 07:43:39 [INFO] db-01 GET /api/sensors/TRAM041 200 OK 504ms
+2026-10-30 07:44:05 [INFO] web-01 Backup job started
+2026-10-30 07:44:12 [INFO] db-01 Cache refreshed
+2026-10-30 07:44:36 [INFO] web-01 Backup job started
+2026-10-30 07:44:41 [ERROR] db-01 Database query TIMEOUT after 30s
+2026-10-30 07:44:52 [WARN] web-01 Slow response from TRAM068 788ms
+2026-10-30 07:45:14 [INFO] db-01 Cache refreshed
+2026-10-30 07:45:47 [INFO] api-01 Sensor TRAM015 heartbeat received
+2026-10-30 07:46:21 [INFO] api-01 User login success uid=6007
+2026-10-30 07:46:41 [INFO] api-01 POST /api/readings 201 Created 612ms
+2026-10-30 07:47:14 [ERROR] api-01 GET /api/reports/9893 404 Not Found
+2026-10-30 07:47:28 [INFO] api-01 POST /api/readings 201 Created 775ms
+2026-10-30 07:47:52 [INFO] api-01 POST /api/readings 201 Created 180ms
+2026-10-30 07:47:59 [INFO] db-01 Sensor TRAM030 heartbeat received
+2026-10-30 07:48:15 [INFO] web-01 Cache refreshed
+2026-10-30 07:48:37 [INFO] db-01 User login success uid=1652
+2026-10-30 07:48:46 [WARN] web-01 Retry connecting to TRAM015 attempt 2
+2026-10-30 07:49:12 [INFO] db-01 Backup job started
+2026-10-30 07:49:27 [INFO] api-01 Cache refreshed
+2026-10-30 07:49:41 [INFO] db-01 GET /dashboard 200 OK 202ms
+2026-10-30 07:50:03 [WARN] web-01 Disk usage at 82 percent on /data
+2026-10-30 07:50:18 [WARN] api-01 Retry connecting to TRAM092 attempt 2
+2026-10-30 07:50:31 [WARN] api-01 Disk usage at 82 percent on /data
+2026-10-30 07:51:07 [INFO] web-02 GET /dashboard 200 OK 857ms
+2026-10-30 07:51:38 [INFO] db-01 GET /api/sensors/TRAM090 200 OK 295ms
+2026-10-30 07:51:49 [INFO] web-01 GET /dashboard 200 OK 822ms
+2026-10-30 07:52:14 [INFO] db-01 Sensor TRAM011 heartbeat received
+2026-10-30 07:52:36 [INFO] web-02 POST /api/readings 201 Created 147ms
+2026-10-30 07:52:46 [INFO] web-01 Cache refreshed
+2026-10-30 07:53:22 [INFO] db-01 Backup job started
+2026-10-30 07:53:53 [INFO] db-01 POST /api/readings 201 Created 191ms
+2026-10-30 07:54:04 [INFO] db-01 Backup job started
+2026-10-30 07:54:33 [INFO] web-01 GET /api/sensors/TRAM071 200 OK 739ms
+2026-10-30 07:54:56 [INFO] db-01 GET /api/sensors/TRAM080 200 OK 778ms
+2026-10-30 07:55:07 [ERROR] api-01 Database query TIMEOUT after 30s
+2026-10-30 07:55:32 [INFO] api-01 GET /api/sensors/TRAM045 200 OK 334ms
+2026-10-30 07:55:48 [INFO] web-01 Sensor TRAM018 heartbeat received
+2026-10-30 07:56:18 [INFO] web-02 User login success uid=2649
+2026-10-30 07:56:34 [INFO] db-01 Sensor TRAM032 heartbeat received
+2026-10-30 07:57:01 [INFO] web-01 GET /api/sensors/TRAM036 200 OK 416ms
+2026-10-30 07:57:40 [INFO] web-01 GET /api/sensors/TRAM035 200 OK 884ms
+2026-10-30 07:58:12 [ERROR] api-01 Database query TIMEOUT after 30s
+2026-10-30 07:58:42 [INFO] web-01 User login success uid=6055
+2026-10-30 07:58:50 [ERROR] web-01 GET /api/reports/7249 404 Not Found
+2026-10-30 07:59:14 [ERROR] web-01 Database query TIMEOUT after 30s
+2026-10-30 07:59:44 [INFO] api-01 GET /dashboard 200 OK 286ms
+2026-10-30 07:59:53 [INFO] web-02 GET /dashboard 200 OK 660ms
+2026-10-30 08:00:00 [WARN] web-02 Retry connecting to TRAM002 attempt 2
+2026-10-30 08:00:11 [INFO] db-01 GET /dashboard 200 OK 647ms
+2026-10-30 08:00:36 [INFO] web-01 POST /api/readings 201 Created 438ms
+2026-10-30 08:00:50 [INFO] web-02 Cache refreshed
+2026-10-30 08:01:02 [INFO] web-02 Backup job started
+2026-10-30 08:01:18 [INFO] web-02 GET /api/sensors/TRAM084 200 OK 190ms
+2026-10-30 08:01:39 [INFO] web-01 Cache refreshed
+2026-10-30 08:01:56 [INFO] db-01 GET /dashboard 200 OK 177ms
+2026-10-30 08:02:07 [INFO] web-02 Backup job started
+2026-10-30 08:02:37 [WARN] web-02 Slow response from TRAM079 653ms
+2026-10-30 08:03:15 [INFO] web-02 Backup job started
+2026-10-30 08:03:51 [INFO] web-02 User login success uid=1822
+2026-10-30 08:04:07 [INFO] web-02 GET /api/sensors/TRAM058 200 OK 534ms
+2026-10-30 08:04:43 [INFO] web-01 Cache refreshed
+2026-10-30 08:05:12 [WARN] web-02 Disk usage at 82 percent on /data
+2026-10-30 08:05:30 [ERROR] web-01 Connection TIMEOUT to TRAM008 after 30s
+2026-10-30 08:05:42 [INFO] web-02 GET /dashboard 200 OK 153ms
+2026-10-30 08:05:53 [ERROR] web-02 Connection TIMEOUT to TRAM013 after 30s
+2026-10-30 08:06:19 [INFO] web-02 Backup job started
+2026-10-30 08:06:26 [INFO] api-01 Cache refreshed
+2026-10-30 08:06:31 [INFO] web-01 Cache refreshed
+2026-10-30 08:07:03 [ERROR] web-02 Database query TIMEOUT after 30s
+2026-10-30 08:07:10 [INFO] web-01 Sensor TRAM087 heartbeat received
+2026-10-30 08:07:29 [INFO] db-01 GET /dashboard 200 OK 361ms
+2026-10-30 08:07:55 [INFO] api-01 GET /dashboard 200 OK 273ms
+2026-10-30 08:08:09 [WARN] api-01 Slow response from TRAM066 163ms
+2026-10-30 08:08:20 [INFO] api-01 Backup job started
+2026-10-30 08:08:45 [INFO] db-01 Sensor TRAM010 heartbeat received
+2026-10-30 08:09:01 [CRITICAL] web-02 Disk full on /data, write failed
+2026-10-30 08:09:22 [INFO] web-01 Backup job started
+2026-10-30 08:09:34 [ERROR] web-01 ERROR 404 resource not found /static/chart-8376.js
+2026-10-30 08:10:14 [ERROR] db-01 GET /api/sensors/TRAM091 404 Not Found
+2026-10-30 08:10:41 [INFO] api-01 Cache refreshed
+2026-10-30 08:11:13 [INFO] web-02 GET /api/sensors/TRAM050 200 OK 457ms
+2026-10-30 08:11:34 [INFO] db-01 User login success uid=7810
+2026-10-30 08:12:04 [ERROR] api-01 Database query TIMEOUT after 30s
+2026-10-30 08:12:28 [INFO] web-02 GET /api/sensors/TRAM046 200 OK 548ms
+2026-10-30 08:12:56 [INFO] web-02 Sensor TRAM096 heartbeat received
+2026-10-30 08:13:08 [INFO] db-01 Backup job started
+2026-10-30 08:13:26 [INFO] web-01 GET /api/sensors/TRAM083 200 OK 116ms
+2026-10-30 08:13:38 [INFO] web-01 GET /dashboard 200 OK 787ms
+2026-10-30 08:14:10 [ERROR] web-02 GET /api/sensors/TRAM032 404 Not Found
+2026-10-30 08:14:30 [INFO] web-01 Sensor TRAM076 heartbeat received
+2026-10-30 08:14:35 [INFO] web-02 POST /api/readings 201 Created 29ms
+2026-10-30 08:15:01 [WARN] db-01 Disk usage at 82 percent on /data
+2026-10-30 08:15:13 [INFO] web-01 GET /api/sensors/TRAM058 200 OK 28ms
+2026-10-30 08:15:37 [INFO] web-02 Sensor TRAM077 heartbeat received
+2026-10-30 08:16:06 [ERROR] db-01 GET /api/sensors/TRAM007 404 Not Found
+2026-10-30 08:16:21 [INFO] api-01 Backup job started
+2026-10-30 08:16:27 [INFO] web-02 GET /api/sensors/TRAM045 200 OK 160ms
+2026-10-30 08:17:07 [WARN] api-01 Slow response from TRAM013 855ms
+2026-10-30 08:17:38 [INFO] api-01 GET /dashboard 200 OK 150ms
+2026-10-30 08:18:14 [INFO] web-01 GET /dashboard 200 OK 873ms
+2026-10-30 08:18:19 [INFO] web-02 Sensor TRAM073 heartbeat received
+2026-10-30 08:18:47 [INFO] web-01 GET /api/sensors/TRAM062 200 OK 311ms
+2026-10-30 08:19:09 [INFO] api-01 Backup job started
+2026-10-30 08:19:30 [INFO] db-01 GET /api/sensors/TRAM009 200 OK 668ms
+2026-10-30 08:19:50 [INFO] web-02 GET /api/sensors/TRAM024 200 OK 648ms
+2026-10-30 08:20:18 [INFO] db-01 GET /dashboard 200 OK 345ms
+2026-10-30 08:20:27 [INFO] db-01 POST /api/readings 201 Created 525ms
+2026-10-30 08:20:41 [INFO] db-01 POST /api/readings 201 Created 201ms
+2026-10-30 08:21:01 [ERROR] api-01 Connection TIMEOUT to TRAM070 after 30s
+2026-10-30 08:21:16 [INFO] api-01 Backup job started
+2026-10-30 08:21:30 [INFO] api-01 GET /api/sensors/TRAM064 200 OK 630ms
+2026-10-30 08:21:49 [INFO] api-01 Cache refreshed
+2026-10-30 08:22:04 [ERROR] web-01 Connection TIMEOUT to TRAM082 after 30s
+2026-10-30 08:22:43 [WARN] web-02 Retry connecting to TRAM058 attempt 2
+2026-10-30 08:22:51 [INFO] db-01 POST /api/readings 201 Created 815ms
+2026-10-30 08:23:24 [WARN] db-01 Disk usage at 82 percent on /data
+2026-10-30 08:23:46 [INFO] api-01 GET /dashboard 200 OK 516ms
+2026-10-30 08:24:04 [INFO] api-01 Cache refreshed
+2026-10-30 08:24:15 [INFO] web-01 Cache refreshed
+2026-10-30 08:24:21 [INFO] web-01 Cache refreshed
+2026-10-30 08:24:43 [INFO] api-01 GET /api/sensors/TRAM019 200 OK 508ms
+2026-10-30 08:24:52 [INFO] web-02 POST /api/readings 201 Created 879ms
+2026-10-30 08:25:09 [INFO] web-02 Sensor TRAM093 heartbeat received
+2026-10-30 08:25:43 [INFO] web-02 Cache refreshed
+2026-10-30 08:26:13 [INFO] db-01 Cache refreshed
+2026-10-30 08:26:23 [INFO] api-01 Backup job started
+2026-10-30 08:26:34 [INFO] web-02 Backup job started
+2026-10-30 08:27:14 [ERROR] web-02 Database query TIMEOUT after 30s
+2026-10-30 08:27:20 [INFO] db-01 Sensor TRAM058 heartbeat received
+2026-10-30 08:27:49 [INFO] web-02 User login success uid=2384
+2026-10-30 08:28:13 [INFO] web-02 Cache refreshed
+2026-10-30 08:28:23 [INFO] web-02 GET /api/sensors/TRAM039 200 OK 836ms
+2026-10-30 08:28:45 [WARN] db-01 Slow response from TRAM005 238ms
+2026-10-30 08:29:06 [INFO] db-01 Backup job started
+2026-10-30 08:29:20 [ERROR] api-01 GET /api/sensors/TRAM004 404 Not Found
+2026-10-30 08:29:43 [INFO] api-01 GET /dashboard 200 OK 503ms
+2026-10-30 08:30:18 [INFO] web-02 User login success uid=5800
+2026-10-30 08:30:48 [WARN] api-01 Retry connecting to TRAM009 attempt 2
+2026-10-30 08:31:15 [INFO] db-01 GET /dashboard 200 OK 311ms
+2026-10-30 08:31:40 [INFO] web-01 POST /api/readings 201 Created 105ms
+2026-10-30 08:32:09 [INFO] web-01 Backup job started
+2026-10-30 08:32:32 [INFO] web-02 Cache refreshed
+2026-10-30 08:32:45 [ERROR] web-01 GET /api/reports/7934 404 Not Found
+2026-10-30 08:33:14 [INFO] api-01 GET /api/sensors/TRAM086 200 OK 639ms
+2026-10-30 08:33:50 [INFO] web-01 Backup job started
+2026-10-30 08:34:29 [INFO] web-02 GET /api/sensors/TRAM091 200 OK 576ms
+2026-10-30 08:35:07 [INFO] db-01 User login success uid=7261
+2026-10-30 08:35:34 [INFO] web-01 User login success uid=7880
+2026-10-30 08:35:40 [INFO] web-01 GET /api/sensors/TRAM071 200 OK 471ms
+2026-10-30 08:36:06 [INFO] web-01 Sensor TRAM093 heartbeat received
+2026-10-30 08:36:29 [INFO] web-02 Cache refreshed
+2026-10-30 08:36:34 [INFO] api-01 GET /api/sensors/TRAM095 200 OK 59ms
+2026-10-30 08:36:45 [ERROR] web-01 GET /api/reports/8566 404 Not Found
+2026-10-30 08:36:50 [WARN] web-01 Retry connecting to TRAM021 attempt 2
+2026-10-30 08:37:22 [WARN] db-01 Retry connecting to TRAM024 attempt 2
+2026-10-30 08:37:55 [ERROR] web-02 ERROR 404 resource not found /static/chart-5712.js
+2026-10-30 08:38:16 [WARN] db-01 Slow response from TRAM051 178ms
+2026-10-30 08:38:38 [INFO] web-01 Backup job started
+2026-10-30 08:39:17 [INFO] db-01 User login success uid=1458
+2026-10-30 08:39:28 [INFO] web-01 Backup job started
+2026-10-30 08:39:33 [INFO] web-02 Backup job started
+2026-10-30 08:39:38 [INFO] web-02 Backup job started
+2026-10-30 08:39:44 [INFO] api-01 POST /api/readings 201 Created 641ms
+2026-10-30 08:39:52 [INFO] web-01 GET /dashboard 200 OK 734ms
+2026-10-30 08:40:02 [INFO] web-02 User login success uid=9342
+2026-10-30 08:40:41 [INFO] web-01 User login success uid=1473
+2026-10-30 08:40:55 [INFO] db-01 GET /dashboard 200 OK 743ms
+2026-10-30 08:41:35 [WARN] web-01 Slow response from TRAM076 128ms
+2026-10-30 08:42:01 [INFO] api-01 Backup job started
+2026-10-30 08:42:09 [INFO] web-01 POST /api/readings 201 Created 418ms
+2026-10-30 08:42:15 [INFO] db-01 Cache refreshed
+2026-10-30 08:42:47 [INFO] db-01 POST /api/readings 201 Created 247ms
+2026-10-30 08:43:15 [INFO] web-02 Cache refreshed
+2026-10-30 08:43:46 [INFO] web-02 GET /api/sensors/TRAM061 200 OK 28ms
+2026-10-30 08:43:58 [INFO] web-01 GET /dashboard 200 OK 54ms
+2026-10-30 08:44:11 [INFO] api-01 GET /dashboard 200 OK 605ms
+2026-10-30 08:44:17 [INFO] web-01 GET /api/sensors/TRAM042 200 OK 29ms
+2026-10-30 08:44:37 [INFO] web-01 GET /api/sensors/TRAM016 200 OK 619ms
+2026-10-30 08:44:47 [INFO] api-01 Sensor TRAM039 heartbeat received
+2026-10-30 08:45:10 [INFO] web-02 Backup job started
+2026-10-30 08:45:39 [WARN] db-01 Disk usage at 82 percent on /data
+2026-10-30 08:45:45 [INFO] db-01 GET /dashboard 200 OK 190ms
+2026-10-30 08:46:00 [INFO] db-01 GET /api/sensors/TRAM051 200 OK 199ms
+2026-10-30 08:46:34 [INFO] db-01 GET /api/sensors/TRAM027 200 OK 786ms
+2026-10-30 08:47:14 [INFO] api-01 GET /dashboard 200 OK 495ms
+2026-10-30 08:47:37 [INFO] web-02 Sensor TRAM088 heartbeat received
+2026-10-30 08:47:47 [INFO] web-01 GET /dashboard 200 OK 449ms
+2026-10-30 08:48:15 [INFO] web-02 User login success uid=1054
+2026-10-30 08:48:22 [ERROR] db-01 GET /api/sensors/TRAM020 404 Not Found
+2026-10-30 08:48:53 [INFO] api-01 Cache refreshed
+2026-10-30 08:49:20 [INFO] web-02 GET /dashboard 200 OK 773ms
+2026-10-30 08:49:54 [INFO] api-01 POST /api/readings 201 Created 735ms
+2026-10-30 08:50:20 [INFO] api-01 POST /api/readings 201 Created 587ms
+2026-10-30 08:50:59 [INFO] api-01 User login success uid=2660
+2026-10-30 08:51:30 [INFO] web-01 Backup job started
+2026-10-30 08:52:05 [INFO] api-01 Sensor TRAM040 heartbeat received
+2026-10-30 08:52:35 [INFO] api-01 Backup job started
+2026-10-30 08:52:40 [INFO] web-02 GET /dashboard 200 OK 660ms
+2026-10-30 08:53:05 [INFO] web-01 Cache refreshed
+2026-10-30 08:53:31 [INFO] db-01 GET /dashboard 200 OK 123ms
+2026-10-30 08:53:37 [INFO] web-01 Sensor TRAM001 heartbeat received
+2026-10-30 08:53:55 [WARN] web-02 Disk usage at 82 percent on /data
+2026-10-30 08:54:11 [INFO] web-02 Backup job started
+2026-10-30 08:54:18 [INFO] web-02 Sensor TRAM066 heartbeat received
+2026-10-30 08:54:25 [INFO] web-01 GET /dashboard 200 OK 133ms
+2026-10-30 08:55:02 [INFO] web-02 GET /api/sensors/TRAM076 200 OK 168ms
+2026-10-30 08:55:08 [INFO] web-01 Backup job started
+2026-10-30 08:55:20 [INFO] web-02 Backup job started
+2026-10-30 08:56:00 [INFO] api-01 Sensor TRAM059 heartbeat received
+2026-10-30 08:56:38 [INFO] api-01 GET /api/sensors/TRAM055 200 OK 672ms
+2026-10-30 08:57:14 [INFO] db-01 Sensor TRAM008 heartbeat received
+2026-10-30 08:57:28 [WARN] web-01 Disk usage at 82 percent on /data
+2026-10-30 08:57:43 [INFO] web-02 GET /api/sensors/TRAM009 200 OK 705ms
+2026-10-30 08:58:03 [INFO] db-01 POST /api/readings 201 Created 525ms
+2026-10-30 08:58:37 [INFO] db-01 Backup job started
+2026-10-30 08:58:47 [INFO] web-01 GET /dashboard 200 OK 361ms
+2026-10-30 08:59:18 [INFO] api-01 User login success uid=2675
+2026-10-30 08:59:42 [INFO] web-01 User login success uid=2837
+2026-10-30 09:00:22 [INFO] db-01 Cache refreshed
+2026-10-30 09:00:55 [INFO] web-01 Cache refreshed
+2026-10-30 09:01:28 [INFO] db-01 Backup job started
+2026-10-30 09:01:46 [INFO] db-01 POST /api/readings 201 Created 712ms
+2026-10-30 09:02:23 [ERROR] db-01 Database query TIMEOUT after 30s
+2026-10-30 09:03:02 [INFO] web-01 Sensor TRAM068 heartbeat received
+2026-10-30 09:03:40 [INFO] db-01 GET /dashboard 200 OK 862ms
+2026-10-30 09:03:59 [INFO] api-01 POST /api/readings 201 Created 150ms
+2026-10-30 09:04:30 [WARN] db-01 Retry connecting to TRAM081 attempt 2
+2026-10-30 09:05:04 [INFO] db-01 User login success uid=4402
+2026-10-30 09:05:17 [INFO] web-01 Sensor TRAM050 heartbeat received
+2026-10-30 09:05:26 [INFO] api-01 User login success uid=9275
+2026-10-30 09:05:42 [INFO] web-01 User login success uid=9996
+2026-10-30 09:05:53 [CRITICAL] db-01 Sensor gateway unreachable, 12 stations offline
+2026-10-30 09:06:07 [INFO] web-01 GET /dashboard 200 OK 66ms
+2026-10-30 09:06:30 [WARN] db-01 Slow response from TRAM078 507ms
+2026-10-30 09:06:37 [INFO] api-01 User login success uid=9039
+2026-10-30 09:07:13 [WARN] db-01 Slow response from TRAM051 578ms
+2026-10-30 09:07:53 [INFO] web-01 Cache refreshed
+2026-10-30 09:08:16 [INFO] web-01 GET /api/sensors/TRAM079 200 OK 896ms
+2026-10-30 09:08:25 [WARN] web-02 Slow response from TRAM035 813ms
+2026-10-30 09:08:33 [INFO] api-01 User login success uid=1331
+2026-10-30 09:08:48 [ERROR] db-01 GET /api/sensors/TRAM084 404 Not Found
+2026-10-30 09:09:02 [INFO] api-01 User login success uid=7620
+2026-10-30 09:09:16 [INFO] api-01 GET /api/sensors/TRAM049 200 OK 402ms
+2026-10-30 09:09:55 [INFO] web-02 GET /api/sensors/TRAM021 200 OK 400ms
+2026-10-30 09:10:20 [INFO] db-01 GET /api/sensors/TRAM011 200 OK 749ms
+2026-10-30 09:10:37 [ERROR] api-01 Database query TIMEOUT after 30s
+2026-10-30 09:10:54 [INFO] api-01 GET /api/sensors/TRAM076 200 OK 609ms
+2026-10-30 09:11:03 [INFO] web-01 GET /dashboard 200 OK 472ms
+2026-10-30 09:11:18 [INFO] api-01 GET /api/sensors/TRAM059 200 OK 267ms
+2026-10-30 09:11:29 [INFO] web-01 POST /api/readings 201 Created 659ms
+2026-10-30 09:12:00 [INFO] web-01 User login success uid=1750
+2026-10-30 09:12:07 [INFO] db-01 GET /dashboard 200 OK 452ms
+2026-10-30 09:12:38 [ERROR] api-01 GET /api/reports/3358 404 Not Found
+2026-10-30 09:13:01 [INFO] web-01 GET /dashboard 200 OK 320ms
+2026-10-30 09:13:12 [INFO] api-01 POST /api/readings 201 Created 746ms
+2026-10-30 09:13:20 [INFO] web-01 User login success uid=6089
+2026-10-30 09:13:38 [INFO] web-02 User login success uid=4739
+2026-10-30 09:14:13 [ERROR] web-02 Database query TIMEOUT after 30s
+2026-10-30 09:14:35 [INFO] db-01 Backup job started
+2026-10-30 09:14:52 [WARN] db-01 Retry connecting to TRAM056 attempt 2
+2026-10-30 09:15:28 [CRITICAL] web-01 Disk full on /data, write failed
+2026-10-30 09:15:52 [INFO] web-02 GET /api/sensors/TRAM055 200 OK 272ms
+2026-10-30 09:16:15 [INFO] api-01 Backup job started
+2026-10-30 09:16:54 [INFO] web-02 GET /dashboard 200 OK 563ms
+2026-10-30 09:17:34 [INFO] web-01 POST /api/readings 201 Created 98ms
+2026-10-30 09:18:01 [INFO] web-01 Sensor TRAM004 heartbeat received
+2026-10-30 09:18:25 [WARN] api-01 Retry connecting to TRAM019 attempt 2
+2026-10-30 09:18:44 [INFO] db-01 User login success uid=5364
+2026-10-30 09:19:00 [INFO] web-02 POST /api/readings 201 Created 402ms
+2026-10-30 09:19:09 [INFO] db-01 Cache refreshed
+2026-10-30 09:19:19 [WARN] db-01 Slow response from TRAM023 551ms
+2026-10-30 09:19:51 [INFO] web-01 Sensor TRAM048 heartbeat received
+2026-10-30 09:20:00 [INFO] web-01 User login success uid=1262
+2026-10-30 09:20:27 [INFO] web-01 GET /api/sensors/TRAM082 200 OK 170ms
+2026-10-30 09:20:37 [INFO] web-02 Cache refreshed
+2026-10-30 09:20:50 [WARN] web-01 Retry connecting to TRAM064 attempt 2
+2026-10-30 09:20:58 [INFO] web-01 GET /api/sensors/TRAM093 200 OK 795ms
+2026-10-30 09:21:20 [INFO] web-01 Cache refreshed
+2026-10-30 09:21:55 [INFO] web-02 Sensor TRAM080 heartbeat received
+2026-10-30 09:22:12 [WARN] db-01 Retry connecting to TRAM080 attempt 2
+2026-10-30 09:22:19 [INFO] db-01 User login success uid=9106
+2026-10-30 09:22:49 [INFO] db-01 Backup job started
+2026-10-30 09:23:25 [ERROR] web-02 Database query TIMEOUT after 30s
+2026-10-30 09:23:41 [INFO] api-01 POST /api/readings 201 Created 87ms
+2026-10-30 09:24:06 [INFO] web-01 GET /api/sensors/TRAM049 200 OK 191ms
+2026-10-30 09:24:26 [WARN] db-01 Disk usage at 82 percent on /data
+2026-10-30 09:24:35 [INFO] web-02 User login success uid=6587
+2026-10-30 09:25:12 [INFO] db-01 Backup job started
+2026-10-30 09:25:18 [INFO] api-01 Backup job started
+2026-10-30 09:25:40 [INFO] db-01 Backup job started
+2026-10-30 09:25:45 [INFO] web-02 User login success uid=8134
+2026-10-30 09:26:10 [WARN] api-01 Disk usage at 82 percent on /data
+2026-10-30 09:26:49 [WARN] db-01 Disk usage at 82 percent on /data
+2026-10-30 09:26:59 [WARN] db-01 Disk usage at 82 percent on /data
+2026-10-30 09:27:10 [INFO] api-01 GET /dashboard 200 OK 359ms
+2026-10-30 09:27:16 [INFO] web-01 GET /dashboard 200 OK 325ms
+2026-10-30 09:27:22 [INFO] api-01 POST /api/readings 201 Created 748ms
+2026-10-30 09:27:32 [INFO] db-01 User login success uid=7053
+2026-10-30 09:27:38 [INFO] web-02 POST /api/readings 201 Created 384ms
+2026-10-30 09:28:08 [INFO] api-01 GET /dashboard 200 OK 774ms
+2026-10-30 09:28:23 [ERROR] web-01 GET /api/sensors/TRAM062 404 Not Found
+2026-10-30 09:28:52 [INFO] api-01 POST /api/readings 201 Created 221ms
+2026-10-30 09:29:06 [WARN] db-01 Retry connecting to TRAM062 attempt 2
+2026-10-30 09:29:42 [INFO] web-02 Sensor TRAM067 heartbeat received
+2026-10-30 09:29:57 [ERROR] web-01 Connection TIMEOUT to TRAM013 after 30s
+2026-10-30 09:30:32 [INFO] web-02 GET /api/sensors/TRAM089 200 OK 130ms
+2026-10-30 09:30:59 [INFO] web-02 Cache refreshed
+2026-10-30 09:31:11 [INFO] web-02 User login success uid=3002
+2026-10-30 09:31:18 [INFO] db-01 Backup job started
+2026-10-30 09:31:35 [INFO] web-02 Sensor TRAM082 heartbeat received
+2026-10-30 09:31:49 [CRITICAL] web-01 Sensor gateway unreachable, 12 stations offline
+2026-10-30 09:32:26 [INFO] api-01 GET /api/sensors/TRAM069 200 OK 493ms
+2026-10-30 09:32:47 [WARN] db-01 Slow response from TRAM046 471ms
+2026-10-30 09:33:14 [INFO] web-02 POST /api/readings 201 Created 613ms
+2026-10-30 09:33:41 [INFO] api-01 Cache refreshed
+2026-10-30 09:34:14 [INFO] db-01 User login success uid=1112
+2026-10-30 09:34:26 [INFO] db-01 GET /api/sensors/TRAM034 200 OK 110ms
+2026-10-30 09:34:53 [INFO] db-01 User login success uid=1332
+2026-10-30 09:35:18 [INFO] web-02 Sensor TRAM066 heartbeat received
+2026-10-30 09:35:57 [ERROR] web-01 ERROR 404 resource not found /static/chart-9527.js
+2026-10-30 09:36:25 [INFO] db-01 Cache refreshed
+2026-10-30 09:36:57 [INFO] web-02 Backup job started
+2026-10-30 09:37:32 [WARN] web-01 Retry connecting to TRAM090 attempt 2
+2026-10-30 09:37:52 [INFO] web-01 Sensor TRAM061 heartbeat received
+2026-10-30 09:38:20 [INFO] web-01 Sensor TRAM083 heartbeat received
+2026-10-30 09:38:35 [INFO] db-01 GET /dashboard 200 OK 805ms
+2026-10-30 09:38:57 [INFO] api-01 Backup job started
+2026-10-30 09:39:31 [WARN] db-01 Slow response from TRAM064 373ms
+2026-10-30 09:39:48 [ERROR] db-01 Database query TIMEOUT after 30s
+2026-10-30 09:39:54 [INFO] db-01 POST /api/readings 201 Created 729ms
+2026-10-30 09:40:30 [INFO] web-02 User login success uid=7698
+2026-10-30 09:41:03 [INFO] db-01 GET /api/sensors/TRAM004 200 OK 440ms
+2026-10-30 09:41:30 [INFO] web-01 Sensor TRAM044 heartbeat received
+2026-10-30 09:41:36 [INFO] web-02 Sensor TRAM057 heartbeat received
+2026-10-30 09:41:57 [INFO] db-01 GET /api/sensors/TRAM056 200 OK 470ms
+2026-10-30 09:42:11 [INFO] db-01 Cache refreshed
+2026-10-30 09:42:42 [INFO] db-01 Backup job started
+2026-10-30 09:42:55 [WARN] web-02 Disk usage at 82 percent on /data
+2026-10-30 09:43:21 [INFO] web-02 User login success uid=6775
+2026-10-30 09:43:35 [INFO] db-01 Sensor TRAM087 heartbeat received
+2026-10-30 09:43:43 [INFO] web-02 GET /api/sensors/TRAM078 200 OK 580ms
+2026-10-30 09:44:13 [INFO] db-01 Cache refreshed
+2026-10-30 09:44:31 [INFO] db-01 Sensor TRAM052 heartbeat received
+2026-10-30 09:44:59 [INFO] web-01 GET /dashboard 200 OK 163ms
+2026-10-30 09:45:18 [INFO] web-02 POST /api/readings 201 Created 654ms
+2026-10-30 09:45:43 [INFO] db-01 GET /dashboard 200 OK 865ms
+2026-10-30 09:46:04 [INFO] web-01 POST /api/readings 201 Created 193ms
+2026-10-30 09:46:31 [INFO] api-01 Cache refreshed
+2026-10-30 09:46:39 [INFO] web-02 Backup job started
+2026-10-30 09:47:16 [INFO] api-01 Cache refreshed
+2026-10-30 09:47:24 [INFO] api-01 Cache refreshed
+2026-10-30 09:47:45 [ERROR] web-01 Connection TIMEOUT to TRAM029 after 30s
+2026-10-30 09:48:25 [INFO] web-02 GET /dashboard 200 OK 88ms
+2026-10-30 09:48:58 [INFO] db-01 POST /api/readings 201 Created 437ms
+2026-10-30 09:49:12 [WARN] api-01 Slow response from TRAM082 493ms
+2026-10-30 09:49:29 [WARN] db-01 Slow response from TRAM023 438ms
+2026-10-30 09:49:56 [INFO] web-01 GET /api/sensors/TRAM098 200 OK 184ms
+2026-10-30 09:50:22 [INFO] web-01 GET /api/sensors/TRAM058 200 OK 745ms
+2026-10-30 09:50:34 [INFO] api-01 Sensor TRAM051 heartbeat received
+2026-10-30 09:50:39 [INFO] web-02 GET /dashboard 200 OK 860ms
+2026-10-30 09:51:16 [INFO] db-01 POST /api/readings 201 Created 227ms
+2026-10-30 09:51:40 [INFO] web-02 Backup job started
+2026-10-30 09:51:53 [INFO] db-01 Backup job started
+2026-10-30 09:52:33 [INFO] api-01 GET /api/sensors/TRAM052 200 OK 376ms
+2026-10-30 09:52:50 [INFO] web-01 Cache refreshed
+2026-10-30 09:53:30 [WARN] web-02 Retry connecting to TRAM006 attempt 2
+2026-10-30 09:53:39 [INFO] api-01 Backup job started
+2026-10-30 09:54:17 [WARN] web-02 Disk usage at 82 percent on /data
+2026-10-30 09:54:28 [INFO] web-01 User login success uid=5494
+2026-10-30 09:54:34 [ERROR] web-02 Connection TIMEOUT to TRAM084 after 30s
+2026-10-30 09:54:56 [WARN] web-01 Retry connecting to TRAM044 attempt 2
+2026-10-30 09:55:16 [INFO] web-02 Cache refreshed
+2026-10-30 09:55:26 [INFO] web-01 GET /api/sensors/TRAM002 200 OK 98ms
+2026-10-30 09:56:01 [INFO] web-01 Sensor TRAM026 heartbeat received
+2026-10-30 09:56:13 [ERROR] db-01 GET /api/sensors/TRAM059 404 Not Found
+2026-10-30 09:56:26 [INFO] web-01 POST /api/readings 201 Created 396ms
+2026-10-30 09:57:03 [INFO] db-01 GET /api/sensors/TRAM100 200 OK 115ms
+2026-10-30 09:57:33 [INFO] db-01 User login success uid=2649
+2026-10-30 09:57:42 [INFO] web-02 GET /dashboard 200 OK 845ms
+2026-10-30 09:58:12 [INFO] api-01 GET /api/sensors/TRAM045 200 OK 469ms
+2026-10-30 09:58:39 [INFO] api-01 Sensor TRAM065 heartbeat received
+2026-10-30 09:58:44 [INFO] api-01 GET /api/sensors/TRAM009 200 OK 254ms
+2026-10-30 09:59:23 [INFO] db-01 GET /dashboard 200 OK 874ms
+2026-10-30 09:59:40 [INFO] db-01 GET /dashboard 200 OK 113ms
+2026-10-30 09:59:52 [INFO] api-01 Sensor TRAM084 heartbeat received
+2026-10-30 10:00:04 [INFO] api-01 Backup job started
+2026-10-30 10:00:24 [INFO] web-02 POST /api/readings 201 Created 872ms
+2026-10-30 10:00:35 [INFO] db-01 GET /dashboard 200 OK 35ms
+2026-10-30 10:01:03 [INFO] web-01 Sensor TRAM094 heartbeat received
+2026-10-30 10:01:18 [INFO] api-01 POST /api/readings 201 Created 482ms
+2026-10-30 10:01:40 [INFO] web-02 GET /dashboard 200 OK 461ms
+2026-10-30 10:02:15 [INFO] web-01 GET /dashboard 200 OK 280ms
+2026-10-30 10:02:51 [INFO] api-01 Sensor TRAM056 heartbeat received
+2026-10-30 10:03:24 [INFO] api-01 Cache refreshed
+2026-10-30 10:03:54 [WARN] db-01 Slow response from TRAM094 229ms
+2026-10-30 10:04:27 [INFO] db-01 GET /dashboard 200 OK 232ms
+2026-10-30 10:04:38 [WARN] api-01 Disk usage at 82 percent on /data
+2026-10-30 10:05:03 [INFO] api-01 GET /dashboard 200 OK 896ms
+2026-10-30 10:05:22 [INFO] web-01 Sensor TRAM019 heartbeat received
+2026-10-30 10:05:46 [ERROR] api-01 Connection TIMEOUT to TRAM002 after 30s
+2026-10-30 10:06:26 [INFO] web-02 GET /dashboard 200 OK 411ms
+2026-10-30 10:06:44 [INFO] api-01 POST /api/readings 201 Created 17ms
+2026-10-30 10:07:04 [INFO] web-01 Cache refreshed
+2026-10-30 10:07:19 [INFO] db-01 GET /api/sensors/TRAM002 200 OK 504ms
+2026-10-30 10:07:26 [INFO] api-01 Sensor TRAM015 heartbeat received
+2026-10-30 10:08:06 [INFO] web-01 Backup job started
+2026-10-30 10:08:16 [INFO] db-01 Sensor TRAM080 heartbeat received
+2026-10-30 10:08:28 [INFO] api-01 Cache refreshed
+2026-10-30 10:08:34 [ERROR] web-02 ERROR 404 resource not found /static/chart-4820.js
+2026-10-30 10:08:46 [WARN] api-01 Retry connecting to TRAM079 attempt 2
+2026-10-30 10:08:53 [INFO] web-02 Cache refreshed
+2026-10-30 10:09:06 [ERROR] db-01 Connection TIMEOUT to TRAM060 after 30s
+2026-10-30 10:09:16 [ERROR] web-01 Connection TIMEOUT to TRAM031 after 30s
+2026-10-30 10:09:39 [ERROR] web-02 GET /api/reports/6392 404 Not Found
+2026-10-30 10:09:55 [INFO] web-02 GET /dashboard 200 OK 224ms
+2026-10-30 10:10:05 [INFO] db-01 GET /api/sensors/TRAM050 200 OK 523ms
+2026-10-30 10:10:31 [INFO] web-02 GET /dashboard 200 OK 308ms
+2026-10-30 10:11:02 [INFO] api-01 GET /dashboard 200 OK 673ms
+2026-10-30 10:11:11 [INFO] web-02 GET /dashboard 200 OK 788ms
+2026-10-30 10:11:29 [INFO] web-01 User login success uid=3043
+2026-10-30 10:11:56 [INFO] db-01 Backup job started
+2026-10-30 10:12:06 [INFO] db-01 Sensor TRAM024 heartbeat received
+2026-10-30 10:12:43 [INFO] db-01 GET /api/sensors/TRAM008 200 OK 390ms
+2026-10-30 10:13:20 [WARN] db-01 Retry connecting to TRAM056 attempt 2
+2026-10-30 10:13:50 [INFO] web-01 Cache refreshed
+2026-10-30 10:13:55 [INFO] api-01 GET /dashboard 200 OK 721ms
+2026-10-30 10:14:18 [INFO] api-01 GET /api/sensors/TRAM089 200 OK 169ms
+2026-10-30 10:14:37 [WARN] api-01 Disk usage at 82 percent on /data
+2026-10-30 10:14:57 [ERROR] db-01 GET /api/sensors/TRAM060 404 Not Found
+2026-10-30 10:15:09 [INFO] api-01 User login success uid=7584
+2026-10-30 10:15:17 [INFO] db-01 GET /dashboard 200 OK 283ms
+2026-10-30 10:15:50 [INFO] db-01 POST /api/readings 201 Created 471ms
+2026-10-30 10:16:16 [INFO] web-01 Cache refreshed
+2026-10-30 10:16:46 [INFO] db-01 Cache refreshed
+2026-10-30 10:17:04 [INFO] web-02 GET /api/sensors/TRAM031 200 OK 796ms
+2026-10-30 10:17:18 [INFO] api-01 POST /api/readings 201 Created 234ms
+2026-10-30 10:17:44 [INFO] db-01 GET /dashboard 200 OK 190ms
+2026-10-30 10:18:22 [INFO] api-01 User login success uid=4563
+2026-10-30 10:18:56 [INFO] db-01 Sensor TRAM063 heartbeat received
+2026-10-30 10:19:12 [INFO] api-01 GET /api/sensors/TRAM002 200 OK 289ms
+2026-10-30 10:19:37 [INFO] web-02 GET /dashboard 200 OK 899ms
+2026-10-30 10:19:45 [INFO] db-01 GET /api/sensors/TRAM006 200 OK 757ms
+2026-10-30 10:19:58 [INFO] web-02 Backup job started
+2026-10-30 10:20:08 [INFO] api-01 Backup job started
+2026-10-30 10:20:34 [INFO] db-01 POST /api/readings 201 Created 416ms
+2026-10-30 10:21:04 [INFO] web-02 GET /api/sensors/TRAM010 200 OK 386ms
+2026-10-30 10:21:30 [INFO] db-01 User login success uid=8887
+2026-10-30 10:22:06 [WARN] api-01 Disk usage at 82 percent on /data
+2026-10-30 10:22:40 [INFO] db-01 User login success uid=2666
+2026-10-30 10:22:50 [INFO] web-01 Sensor TRAM082 heartbeat received
+2026-10-30 10:23:00 [INFO] web-01 Sensor TRAM009 heartbeat received
+2026-10-30 10:23:15 [INFO] web-02 Cache refreshed
+2026-10-30 10:23:55 [WARN] web-02 Retry connecting to TRAM030 attempt 2
+2026-10-30 10:24:35 [INFO] web-01 GET /api/sensors/TRAM058 200 OK 730ms
+2026-10-30 10:24:54 [INFO] api-01 Sensor TRAM086 heartbeat received
+2026-10-30 10:25:04 [INFO] api-01 Backup job started
+2026-10-30 10:25:15 [INFO] web-01 Sensor TRAM041 heartbeat received
+2026-10-30 10:25:24 [INFO] web-02 User login success uid=9322
+2026-10-30 10:25:35 [INFO] db-01 Sensor TRAM081 heartbeat received
+2026-10-30 10:25:42 [INFO] api-01 User login success uid=5355
+2026-10-30 10:25:59 [INFO] web-01 GET /dashboard 200 OK 160ms
+2026-10-30 10:26:09 [INFO] api-01 POST /api/readings 201 Created 397ms
+2026-10-30 10:26:28 [INFO] web-02 GET /api/sensors/TRAM040 200 OK 241ms
+2026-10-30 10:26:55 [INFO] api-01 GET /api/sensors/TRAM073 200 OK 390ms
+2026-10-30 10:27:29 [WARN] db-01 Disk usage at 82 percent on /data
+2026-10-30 10:28:03 [INFO] web-01 User login success uid=5626
+2026-10-30 10:28:41 [INFO] web-02 Cache refreshed
+2026-10-30 10:28:50 [INFO] db-01 Backup job started
+2026-10-30 10:29:00 [INFO] api-01 Cache refreshed
+2026-10-30 10:29:15 [INFO] api-01 GET /dashboard 200 OK 134ms
+2026-10-30 10:29:44 [INFO] web-01 GET /dashboard 200 OK 570ms
+2026-10-30 10:30:03 [INFO] web-01 Sensor TRAM063 heartbeat received
+2026-10-30 10:30:22 [ERROR] web-01 Database query TIMEOUT after 30s
+2026-10-30 10:31:02 [INFO] web-01 POST /api/readings 201 Created 325ms
+2026-10-30 10:31:33 [INFO] db-01 POST /api/readings 201 Created 261ms
+2026-10-30 10:32:06 [ERROR] web-01 GET /api/sensors/TRAM075 404 Not Found
+2026-10-30 10:32:42 [INFO] api-01 Sensor TRAM077 heartbeat received
+2026-10-30 10:33:03 [INFO] db-01 User login success uid=1670
+2026-10-30 10:33:11 [INFO] db-01 Cache refreshed
+2026-10-30 10:33:16 [INFO] db-01 GET /api/sensors/TRAM087 200 OK 542ms
+2026-10-30 10:33:54 [ERROR] db-01 GET /api/sensors/TRAM034 404 Not Found
+2026-10-30 10:34:25 [INFO] api-01 POST /api/readings 201 Created 824ms
+2026-10-30 10:34:48 [INFO] web-01 GET /api/sensors/TRAM036 200 OK 151ms
+2026-10-30 10:35:17 [INFO] api-01 GET /dashboard 200 OK 33ms
+2026-10-30 10:35:31 [INFO] db-01 GET /api/sensors/TRAM094 200 OK 347ms
+2026-10-30 10:36:05 [INFO] db-01 Cache refreshed
+2026-10-30 10:36:15 [INFO] web-01 GET /dashboard 200 OK 737ms
+2026-10-30 10:36:36 [INFO] api-01 Sensor TRAM045 heartbeat received
+2026-10-30 10:36:45 [INFO] web-01 Cache refreshed
+2026-10-30 10:37:01 [INFO] api-01 Cache refreshed
+2026-10-30 10:37:40 [INFO] db-01 Cache refreshed
+2026-10-30 10:37:59 [INFO] web-01 Sensor TRAM004 heartbeat received
+2026-10-30 10:38:10 [INFO] db-01 GET /dashboard 200 OK 496ms
+2026-10-30 10:38:40 [WARN] web-02 Slow response from TRAM082 657ms
+2026-10-30 10:39:12 [WARN] web-01 Slow response from TRAM019 624ms
+2026-10-30 10:39:18 [INFO] api-01 Cache refreshed
+2026-10-30 10:39:50 [INFO] web-02 Backup job started
+2026-10-30 10:40:25 [INFO] web-01 GET /api/sensors/TRAM084 200 OK 337ms
+2026-10-30 10:40:33 [WARN] web-02 Retry connecting to TRAM044 attempt 2
+2026-10-30 10:41:02 [INFO] web-02 GET /dashboard 200 OK 733ms
+2026-10-30 10:41:22 [INFO] web-01 Cache refreshed
+2026-10-30 10:41:31 [INFO] api-01 GET /dashboard 200 OK 446ms
+2026-10-30 10:42:00 [INFO] web-01 Sensor TRAM073 heartbeat received
+2026-10-30 10:42:23 [INFO] api-01 User login success uid=6670
+2026-10-30 10:42:59 [INFO] web-02 POST /api/readings 201 Created 474ms
+2026-10-30 10:43:32 [INFO] web-01 User login success uid=8512
+2026-10-30 10:44:11 [INFO] api-01 GET /api/sensors/TRAM040 200 OK 770ms
+2026-10-30 10:44:24 [ERROR] api-01 Database query TIMEOUT after 30s
+2026-10-30 10:44:46 [INFO] db-01 Sensor TRAM100 heartbeat received
+2026-10-30 10:45:08 [INFO] api-01 POST /api/readings 201 Created 603ms
+2026-10-30 10:45:46 [INFO] web-01 POST /api/readings 201 Created 662ms
+2026-10-30 10:46:22 [INFO] web-02 GET /dashboard 200 OK 617ms
+2026-10-30 10:46:52 [ERROR] web-01 GET /api/sensors/TRAM049 404 Not Found
+2026-10-30 10:47:23 [INFO] api-01 Sensor TRAM056 heartbeat received
+2026-10-30 10:48:02 [INFO] api-01 Sensor TRAM075 heartbeat received
+2026-10-30 10:48:24 [INFO] api-01 GET /dashboard 200 OK 669ms
+2026-10-30 10:48:31 [INFO] web-02 Cache refreshed
+2026-10-30 10:49:05 [INFO] web-02 Backup job started
+2026-10-30 10:49:33 [INFO] web-01 User login success uid=2980
+2026-10-30 10:49:54 [ERROR] api-01 Connection TIMEOUT to TRAM048 after 30s
+2026-10-30 10:50:20 [INFO] web-02 GET /dashboard 200 OK 342ms
+2026-10-30 10:50:31 [INFO] db-01 User login success uid=8701
+2026-10-30 10:50:38 [WARN] db-01 Slow response from TRAM060 238ms
+2026-10-30 10:50:44 [INFO] web-01 POST /api/readings 201 Created 210ms
+2026-10-30 10:50:56 [ERROR] api-01 GET /api/sensors/TRAM048 404 Not Found
+2026-10-30 10:51:10 [INFO] web-02 User login success uid=2025
+2026-10-30 10:51:36 [INFO] db-01 POST /api/readings 201 Created 343ms
+2026-10-30 10:52:04 [INFO] db-01 Cache refreshed
+2026-10-30 10:52:17 [INFO] web-02 GET /api/sensors/TRAM005 200 OK 475ms
+2026-10-30 10:52:44 [INFO] web-01 GET /dashboard 200 OK 514ms
+2026-10-30 10:53:14 [INFO] web-02 POST /api/readings 201 Created 272ms
+2026-10-30 10:53:41 [WARN] db-01 Retry connecting to TRAM070 attempt 2
+2026-10-30 10:53:48 [INFO] web-02 Sensor TRAM057 heartbeat received
+2026-10-30 10:54:05 [INFO] db-01 GET /dashboard 200 OK 10ms
+2026-10-30 10:54:14 [INFO] web-01 POST /api/readings 201 Created 521ms
+2026-10-30 10:54:41 [INFO] api-01 User login success uid=8825
+2026-10-30 10:54:52 [INFO] api-01 Backup job started
+2026-10-30 10:55:16 [INFO] web-02 User login success uid=2008
+2026-10-30 10:55:43 [INFO] web-02 User login success uid=5280
+2026-10-30 10:56:07 [WARN] api-01 Retry connecting to TRAM100 attempt 2
+2026-10-30 10:56:46 [INFO] api-01 GET /api/sensors/TRAM017 200 OK 362ms
+2026-10-30 10:56:55 [INFO] db-01 Sensor TRAM083 heartbeat received
+2026-10-30 10:57:34 [INFO] web-02 User login success uid=7259
+2026-10-30 10:58:04 [INFO] api-01 POST /api/readings 201 Created 504ms
+2026-10-30 10:58:30 [ERROR] db-01 GET /api/reports/2156 404 Not Found
+2026-10-30 10:59:09 [INFO] web-01 POST /api/readings 201 Created 383ms
+2026-10-30 10:59:25 [ERROR] api-01 Connection TIMEOUT to TRAM078 after 30s
+2026-10-30 10:59:52 [INFO] web-01 Backup job started
+2026-10-30 10:59:58 [WARN] db-01 Retry connecting to TRAM076 attempt 2
+2026-10-30 11:00:30 [ERROR] api-01 ERROR 404 resource not found /static/chart-4324.js
+2026-10-30 11:00:35 [INFO] db-01 GET /api/sensors/TRAM097 200 OK 723ms
+2026-10-30 11:00:58 [INFO] db-01 User login success uid=3383
+2026-10-30 11:01:29 [INFO] web-02 Cache refreshed
+2026-10-30 11:01:46 [INFO] db-01 POST /api/readings 201 Created 487ms
+2026-10-30 11:02:07 [INFO] db-01 Cache refreshed
+2026-10-30 11:02:19 [ERROR] web-02 GET /api/sensors/TRAM028 404 Not Found
+2026-10-30 11:02:46 [INFO] web-02 GET /dashboard 200 OK 85ms
+2026-10-30 11:03:04 [INFO] web-02 GET /dashboard 200 OK 115ms
+2026-10-30 11:03:40 [INFO] api-01 User login success uid=7162
+2026-10-30 11:03:51 [INFO] api-01 Cache refreshed
+2026-10-30 11:04:21 [INFO] web-01 Cache refreshed
+2026-10-30 11:04:53 [INFO] web-01 POST /api/readings 201 Created 271ms
+2026-10-30 11:05:16 [INFO] web-01 Sensor TRAM015 heartbeat received
+2026-10-30 11:05:36 [ERROR] web-01 GET /api/reports/1203 404 Not Found
+2026-10-30 11:05:42 [INFO] web-02 User login success uid=4590
+2026-10-30 11:05:51 [INFO] web-01 POST /api/readings 201 Created 392ms
+2026-10-30 11:06:02 [INFO] db-01 User login success uid=8149
+2026-10-30 11:06:36 [INFO] db-01 GET /dashboard 200 OK 732ms
+2026-10-30 11:07:04 [WARN] db-01 Retry connecting to TRAM024 attempt 2
+2026-10-30 11:07:41 [INFO] web-01 Sensor TRAM016 heartbeat received
+2026-10-30 11:08:01 [ERROR] web-01 GET /api/sensors/TRAM017 404 Not Found
+2026-10-30 11:08:36 [INFO] db-01 Sensor TRAM014 heartbeat received
+2026-10-30 11:09:06 [INFO] db-01 GET /dashboard 200 OK 636ms
+2026-10-30 11:09:16 [INFO] api-01 GET /dashboard 200 OK 513ms
+2026-10-30 11:09:50 [INFO] web-01 POST /api/readings 201 Created 57ms
+2026-10-30 11:10:27 [INFO] api-01 Backup job started
+2026-10-30 11:10:45 [INFO] api-01 Sensor TRAM096 heartbeat received
+2026-10-30 11:11:01 [INFO] api-01 GET /api/sensors/TRAM050 200 OK 350ms
+2026-10-30 11:11:28 [WARN] web-01 Retry connecting to TRAM085 attempt 2
+2026-10-30 11:12:06 [INFO] db-01 Cache refreshed
+2026-10-30 11:12:25 [INFO] api-01 GET /api/sensors/TRAM056 200 OK 496ms
+2026-10-30 11:12:39 [INFO] db-01 Sensor TRAM090 heartbeat received
+2026-10-30 11:12:58 [INFO] web-02 Sensor TRAM031 heartbeat received
+2026-10-30 11:13:22 [INFO] db-01 GET /api/sensors/TRAM076 200 OK 877ms
+2026-10-30 11:13:39 [INFO] db-01 Backup job started
+2026-10-30 11:14:08 [INFO] db-01 User login success uid=6547
+2026-10-30 11:14:13 [WARN] web-02 Disk usage at 82 percent on /data
+2026-10-30 11:14:24 [INFO] db-01 User login success uid=6720
+2026-10-30 11:14:44 [INFO] web-01 Backup job started
+2026-10-30 11:15:08 [INFO] web-02 Cache refreshed
+2026-10-30 11:15:45 [ERROR] api-01 GET /api/reports/8915 404 Not Found
+2026-10-30 11:16:09 [INFO] web-01 GET /dashboard 200 OK 148ms
+2026-10-30 11:16:15 [INFO] web-02 User login success uid=9775
+2026-10-30 11:16:44 [INFO] db-01 Cache refreshed
+2026-10-30 11:17:01 [INFO] db-01 Sensor TRAM084 heartbeat received
+2026-10-30 11:17:22 [INFO] db-01 GET /dashboard 200 OK 532ms
+2026-10-30 11:17:34 [INFO] db-01 GET /api/sensors/TRAM084 200 OK 389ms
+2026-10-30 11:17:41 [INFO] web-01 POST /api/readings 201 Created 804ms
+2026-10-30 11:18:06 [INFO] web-01 Backup job started
+2026-10-30 11:18:33 [INFO] web-01 Cache refreshed
+2026-10-30 11:18:57 [INFO] web-02 Backup job started
+2026-10-30 11:19:16 [ERROR] web-02 Database query TIMEOUT after 30s
+2026-10-30 11:19:51 [CRITICAL] api-01 Database connection pool exhausted
+2026-10-30 11:20:06 [ERROR] web-01 GET /api/sensors/TRAM005 404 Not Found
+2026-10-30 11:20:29 [INFO] web-02 GET /api/sensors/TRAM086 200 OK 144ms
+2026-10-30 11:20:39 [INFO] web-02 Backup job started
+2026-10-30 11:20:55 [WARN] web-02 Retry connecting to TRAM095 attempt 2
+2026-10-30 11:21:18 [INFO] api-01 Cache refreshed
+2026-10-30 11:21:51 [INFO] db-01 User login success uid=2978
+2026-10-30 11:22:28 [INFO] api-01 GET /api/sensors/TRAM052 200 OK 853ms
+2026-10-30 11:22:36 [INFO] web-02 Cache refreshed
+2026-10-30 11:23:00 [INFO] api-01 Cache refreshed
+2026-10-30 11:23:07 [WARN] api-01 Retry connecting to TRAM061 attempt 2
+2026-10-30 11:23:33 [INFO] api-01 Sensor TRAM011 heartbeat received
+2026-10-30 11:24:08 [INFO] web-01 Backup job started
+2026-10-30 11:24:44 [INFO] web-01 GET /dashboard 200 OK 62ms
+2026-10-30 11:25:22 [ERROR] web-01 Connection TIMEOUT to TRAM095 after 30s
+2026-10-30 11:26:02 [INFO] api-01 GET /dashboard 200 OK 755ms
+2026-10-30 11:26:07 [INFO] api-01 Backup job started
+2026-10-30 11:26:37 [INFO] web-02 Cache refreshed
+2026-10-30 11:26:53 [INFO] web-01 Backup job started
+2026-10-30 11:27:03 [INFO] db-01 GET /api/sensors/TRAM054 200 OK 587ms
+2026-10-30 11:27:43 [INFO] db-01 GET /api/sensors/TRAM024 200 OK 393ms
+2026-10-30 11:28:03 [ERROR] web-02 GET /api/sensors/TRAM092 404 Not Found
+2026-10-30 11:28:13 [INFO] db-01 GET /api/sensors/TRAM082 200 OK 574ms
+2026-10-30 11:28:39 [INFO] api-01 Sensor TRAM052 heartbeat received
+2026-10-30 11:28:49 [INFO] web-01 Backup job started
+2026-10-30 11:28:59 [INFO] web-02 POST /api/readings 201 Created 819ms
+2026-10-30 11:29:05 [ERROR] web-01 Connection TIMEOUT to TRAM045 after 30s
+2026-10-30 11:29:25 [INFO] web-01 GET /dashboard 200 OK 379ms
+2026-10-30 11:29:44 [ERROR] db-01 ERROR 404 resource not found /static/chart-5933.js
+2026-10-30 11:30:02 [INFO] api-01 GET /api/sensors/TRAM002 200 OK 111ms
+2026-10-30 11:30:37 [INFO] web-02 GET /dashboard 200 OK 883ms
+2026-10-30 11:30:56 [INFO] db-01 User login success uid=6816
+2026-10-30 11:31:28 [INFO] web-01 Backup job started
+2026-10-30 11:32:02 [INFO] web-01 Sensor TRAM031 heartbeat received
+2026-10-30 11:32:29 [INFO] web-01 GET /api/sensors/TRAM070 200 OK 138ms
+2026-10-30 11:32:34 [INFO] db-01 User login success uid=9302
+2026-10-30 11:32:59 [INFO] api-01 GET /api/sensors/TRAM027 200 OK 811ms
+2026-10-30 11:33:37 [INFO] web-02 POST /api/readings 201 Created 525ms
+2026-10-30 11:34:02 [WARN] db-01 Disk usage at 82 percent on /data
+2026-10-30 11:34:18 [INFO] db-01 Sensor TRAM050 heartbeat received
+2026-10-30 11:34:48 [INFO] db-01 GET /api/sensors/TRAM061 200 OK 769ms
+2026-10-30 11:35:21 [ERROR] api-01 Database query TIMEOUT after 30s
+2026-10-30 11:35:33 [INFO] db-01 User login success uid=1145
+2026-10-30 11:35:44 [INFO] web-01 GET /dashboard 200 OK 202ms
+2026-10-30 11:36:22 [WARN] web-01 Disk usage at 82 percent on /data
+2026-10-30 11:36:47 [INFO] web-01 Sensor TRAM089 heartbeat received
+2026-10-30 11:36:57 [INFO] db-01 GET /api/sensors/TRAM028 200 OK 287ms
+2026-10-30 11:37:36 [INFO] api-01 GET /dashboard 200 OK 354ms
+2026-10-30 11:38:06 [INFO] web-01 Cache refreshed
+2026-10-30 11:38:25 [INFO] db-01 Backup job started
+2026-10-30 11:39:02 [INFO] web-02 POST /api/readings 201 Created 409ms
+2026-10-30 11:39:26 [INFO] api-01 GET /dashboard 200 OK 98ms
+2026-10-30 11:39:59 [INFO] web-01 Sensor TRAM061 heartbeat received
+2026-10-30 11:40:07 [ERROR] web-02 Database query TIMEOUT after 30s
+2026-10-30 11:40:28 [INFO] api-01 GET /dashboard 200 OK 136ms
+2026-10-30 11:40:47 [INFO] web-01 GET /dashboard 200 OK 135ms
+2026-10-30 11:41:27 [INFO] api-01 Backup job started
+2026-10-30 11:41:34 [WARN] web-02 Retry connecting to TRAM010 attempt 2
+2026-10-30 11:42:10 [INFO] db-01 GET /api/sensors/TRAM036 200 OK 435ms
+2026-10-30 11:42:47 [INFO] db-01 Cache refreshed
+2026-10-30 11:43:12 [INFO] web-01 GET /api/sensors/TRAM034 200 OK 208ms
+2026-10-30 11:43:32 [INFO] db-01 User login success uid=4449
+2026-10-30 11:43:49 [INFO] web-02 POST /api/readings 201 Created 480ms
+2026-10-30 11:43:57 [CRITICAL] web-01 Out of memory, service restarting
+2026-10-30 11:44:13 [INFO] web-01 GET /dashboard 200 OK 384ms
+2026-10-30 11:44:51 [INFO] web-01 GET /dashboard 200 OK 608ms
+2026-10-30 11:45:05 [INFO] db-01 Backup job started
+2026-10-30 11:45:11 [INFO] web-01 Backup job started
+2026-10-30 11:45:16 [INFO] db-01 Sensor TRAM031 heartbeat received
+2026-10-30 11:45:30 [ERROR] db-01 Database query TIMEOUT after 30s
+2026-10-30 11:46:10 [INFO] db-01 Backup job started
+2026-10-30 11:46:16 [CRITICAL] api-01 Sensor gateway unreachable, 12 stations offline
+2026-10-30 11:46:30 [INFO] web-01 POST /api/readings 201 Created 299ms
+2026-10-30 11:46:51 [INFO] web-01 GET /dashboard 200 OK 846ms
+2026-10-30 11:47:19 [INFO] db-01 Sensor TRAM004 heartbeat received
+2026-10-30 11:47:28 [CRITICAL] web-01 Database connection pool exhausted
+2026-10-30 11:48:08 [INFO] api-01 GET /api/sensors/TRAM068 200 OK 496ms
+2026-10-30 11:48:23 [INFO] db-01 GET /dashboard 200 OK 755ms
+2026-10-30 11:49:01 [INFO] web-01 Backup job started
+2026-10-30 11:49:29 [WARN] web-01 Retry connecting to TRAM070 attempt 2
+2026-10-30 11:50:06 [CRITICAL] db-01 Disk full on /data, write failed
+2026-10-30 11:50:17 [INFO] web-01 Cache refreshed
+2026-10-30 11:50:44 [WARN] web-01 Retry connecting to TRAM017 attempt 2
+2026-10-30 11:51:06 [INFO] db-01 Backup job started
+2026-10-30 11:51:13 [INFO] web-02 GET /api/sensors/TRAM019 200 OK 349ms
+2026-10-30 11:51:23 [INFO] api-01 GET /api/sensors/TRAM017 200 OK 780ms
+2026-10-30 11:51:36 [INFO] api-01 GET /api/sensors/TRAM034 200 OK 647ms
+2026-10-30 11:51:54 [INFO] web-01 GET /api/sensors/TRAM054 200 OK 252ms
+2026-10-30 11:52:11 [INFO] web-01 Sensor TRAM026 heartbeat received
+2026-10-30 11:52:17 [INFO] api-01 Backup job started
+2026-10-30 11:52:56 [INFO] web-02 POST /api/readings 201 Created 629ms
+2026-10-30 11:53:02 [INFO] web-01 User login success uid=4404
+2026-10-30 11:53:37 [INFO] db-01 GET /api/sensors/TRAM064 200 OK 187ms
+2026-10-30 11:54:09 [INFO] db-01 GET /dashboard 200 OK 487ms
+2026-10-30 11:54:27 [ERROR] web-02 GET /api/reports/6678 404 Not Found
+2026-10-30 11:54:33 [INFO] db-01 GET /dashboard 200 OK 152ms
+2026-10-30 11:54:43 [INFO] web-02 Sensor TRAM020 heartbeat received
+2026-10-30 11:54:56 [INFO] api-01 Sensor TRAM013 heartbeat received
+2026-10-30 11:55:32 [ERROR] web-01 Database query TIMEOUT after 30s
+2026-10-30 11:55:58 [INFO] db-01 Backup job started
+2026-10-30 11:56:24 [INFO] api-01 Sensor TRAM086 heartbeat received
+2026-10-30 11:56:52 [INFO] web-01 Cache refreshed
+2026-10-30 11:57:31 [INFO] web-02 GET /dashboard 200 OK 658ms
+2026-10-30 11:58:08 [ERROR] web-01 GET /api/reports/3914 404 Not Found
+2026-10-30 11:58:40 [INFO] web-02 User login success uid=9734
+2026-10-30 11:58:57 [INFO] web-02 Sensor TRAM073 heartbeat received
+2026-10-30 11:59:28 [INFO] api-01 POST /api/readings 201 Created 128ms
+2026-10-30 11:59:46 [ERROR] api-01 Connection TIMEOUT to TRAM055 after 30s
+2026-10-30 12:00:11 [INFO] web-02 GET /dashboard 200 OK 642ms
+2026-10-30 12:00:39 [INFO] api-01 Backup job started
+2026-10-30 12:00:55 [INFO] web-01 POST /api/readings 201 Created 318ms
+2026-10-30 12:01:30 [INFO] api-01 Sensor TRAM022 heartbeat received
+2026-10-30 12:01:49 [INFO] web-02 Cache refreshed
+2026-10-30 12:02:10 [INFO] web-02 Backup job started
+2026-10-30 12:02:25 [INFO] db-01 GET /dashboard 200 OK 90ms
+2026-10-30 12:02:48 [INFO] web-01 Cache refreshed
+2026-10-30 12:03:02 [INFO] db-01 GET /api/sensors/TRAM067 200 OK 577ms
+2026-10-30 12:03:25 [CRITICAL] db-01 Disk full on /data, write failed
+2026-10-30 12:03:56 [INFO] db-01 GET /dashboard 200 OK 178ms
+2026-10-30 12:04:07 [INFO] web-01 User login success uid=4810
+2026-10-30 12:04:37 [INFO] web-01 Sensor TRAM007 heartbeat received
+2026-10-30 12:05:16 [ERROR] db-01 GET /api/reports/8276 404 Not Found
+2026-10-30 12:05:25 [INFO] api-01 Sensor TRAM008 heartbeat received
+2026-10-30 12:05:35 [INFO] db-01 GET /dashboard 200 OK 721ms
+2026-10-30 12:05:50 [INFO] api-01 Cache refreshed
+2026-10-30 12:06:07 [INFO] api-01 Backup job started
+2026-10-30 12:06:44 [INFO] web-01 User login success uid=1417
+2026-10-30 12:07:11 [WARN] db-01 Disk usage at 82 percent on /data
+2026-10-30 12:07:36 [INFO] web-01 User login success uid=3946
+2026-10-30 12:07:59 [WARN] web-01 Disk usage at 82 percent on /data
+2026-10-30 12:08:30 [ERROR] api-01 Connection TIMEOUT to TRAM017 after 30s
+2026-10-30 12:08:46 [INFO] api-01 User login success uid=2675
+2026-10-30 12:08:51 [WARN] db-01 Disk usage at 82 percent on /data
+2026-10-30 12:09:26 [INFO] db-01 POST /api/readings 201 Created 397ms
+2026-10-30 12:10:03 [INFO] db-01 Backup job started
+2026-10-30 12:10:19 [INFO] api-01 Cache refreshed
+2026-10-30 12:10:43 [INFO] web-02 POST /api/readings 201 Created 63ms
+2026-10-30 12:10:49 [INFO] web-01 Backup job started
+2026-10-30 12:11:11 [INFO] web-01 Backup job started
+2026-10-30 12:11:51 [INFO] api-01 POST /api/readings 201 Created 607ms
+2026-10-30 12:12:24 [INFO] api-01 Cache refreshed
+2026-10-30 12:12:51 [INFO] api-01 Backup job started
+2026-10-30 12:13:30 [INFO] web-02 Cache refreshed
+2026-10-30 12:13:52 [INFO] db-01 Backup job started
+2026-10-30 12:14:08 [ERROR] api-01 Connection TIMEOUT to TRAM078 after 30s
+2026-10-30 12:14:24 [INFO] api-01 User login success uid=5930
+2026-10-30 12:14:59 [INFO] db-01 User login success uid=9092
+2026-10-30 12:15:30 [INFO] web-02 Cache refreshed
+2026-10-30 12:15:36 [INFO] web-01 Cache refreshed
+2026-10-30 12:15:51 [INFO] web-02 Backup job started
+2026-10-30 12:16:13 [ERROR] web-01 GET /api/reports/3834 404 Not Found
+2026-10-30 12:16:46 [INFO] api-01 GET /api/sensors/TRAM008 200 OK 615ms
+2026-10-30 12:17:24 [WARN] api-01 Slow response from TRAM018 104ms
+2026-10-30 12:17:39 [INFO] web-01 GET /api/sensors/TRAM039 200 OK 793ms
+2026-10-30 12:17:45 [INFO] web-01 Sensor TRAM005 heartbeat received
+2026-10-30 12:17:52 [INFO] api-01 GET /dashboard 200 OK 663ms
+2026-10-30 12:18:15 [INFO] web-02 User login success uid=9954
+2026-10-30 12:18:27 [INFO] api-01 Sensor TRAM088 heartbeat received
+2026-10-30 12:18:49 [ERROR] web-02 GET /api/reports/5257 404 Not Found
+2026-10-30 12:19:20 [INFO] db-01 GET /dashboard 200 OK 9ms
+2026-10-30 12:19:38 [INFO] api-01 Backup job started
+2026-10-30 12:19:52 [WARN] web-01 Disk usage at 82 percent on /data
+2026-10-30 12:20:27 [INFO] web-01 Cache refreshed
+2026-10-30 12:20:51 [INFO] db-01 GET /dashboard 200 OK 247ms
+2026-10-30 12:21:13 [ERROR] api-01 ERROR 404 resource not found /static/chart-1738.js
+2026-10-30 12:21:52 [INFO] api-01 POST /api/readings 201 Created 772ms
+2026-10-30 12:22:09 [INFO] web-01 GET /api/sensors/TRAM039 200 OK 474ms
+2026-10-30 12:22:18 [INFO] web-02 GET /api/sensors/TRAM023 200 OK 330ms
+2026-10-30 12:22:23 [INFO] db-01 Sensor TRAM095 heartbeat received
+2026-10-30 12:23:01 [INFO] web-02 GET /api/sensors/TRAM027 200 OK 733ms
+2026-10-30 12:23:08 [INFO] web-02 GET /dashboard 200 OK 264ms
+2026-10-30 12:23:20 [INFO] web-01 Cache refreshed
+2026-10-30 12:24:00 [INFO] api-01 Cache refreshed
+2026-10-30 12:24:05 [WARN] web-01 Slow response from TRAM100 635ms
+2026-10-30 12:24:32 [INFO] web-01 POST /api/readings 201 Created 834ms
+2026-10-30 12:25:09 [ERROR] web-01 Database query TIMEOUT after 30s
+2026-10-30 12:25:47 [ERROR] web-02 Connection TIMEOUT to TRAM005 after 30s
+2026-10-30 12:25:57 [INFO] web-01 Backup job started
+2026-10-30 12:26:02 [ERROR] web-01 GET /api/sensors/TRAM092 404 Not Found
+2026-10-30 12:26:39 [WARN] db-01 Disk usage at 82 percent on /data
+2026-10-30 12:26:56 [ERROR] web-02 Database query TIMEOUT after 30s
+2026-10-30 12:27:35 [WARN] web-01 Retry connecting to TRAM085 attempt 2
+2026-10-30 12:27:55 [INFO] web-01 Backup job started
+2026-10-30 12:28:07 [WARN] db-01 Disk usage at 82 percent on /data
+2026-10-30 12:28:39 [INFO] db-01 Cache refreshed
+2026-10-30 12:29:16 [INFO] db-01 POST /api/readings 201 Created 214ms
+2026-10-30 12:29:53 [WARN] web-01 Retry connecting to TRAM080 attempt 2
+2026-10-30 12:30:32 [INFO] web-01 User login success uid=8194
+2026-10-30 12:30:55 [WARN] web-02 Slow response from TRAM037 154ms
+2026-10-30 12:31:05 [ERROR] web-01 Connection TIMEOUT to TRAM052 after 30s
+2026-10-30 12:31:27 [ERROR] web-01 Database query TIMEOUT after 30s
+2026-10-30 12:32:01 [WARN] db-01 Retry connecting to TRAM039 attempt 2
+2026-10-30 12:32:34 [INFO] api-01 Cache refreshed
+2026-10-30 12:33:01 [INFO] api-01 POST /api/readings 201 Created 669ms
+2026-10-30 12:33:20 [ERROR] web-01 ERROR 404 resource not found /static/chart-9406.js
+2026-10-30 12:33:49 [ERROR] api-01 GET /api/reports/9735 404 Not Found
+2026-10-30 12:34:21 [INFO] db-01 Sensor TRAM064 heartbeat received
+2026-10-30 12:34:49 [INFO] web-01 Sensor TRAM008 heartbeat received
+2026-10-30 12:35:03 [INFO] api-01 GET /dashboard 200 OK 357ms
+2026-10-30 12:35:23 [INFO] web-02 Backup job started
+2026-10-30 12:35:47 [INFO] web-01 Sensor TRAM082 heartbeat received
+2026-10-30 12:36:17 [INFO] web-02 Sensor TRAM047 heartbeat received
+2026-10-30 12:36:26 [INFO] db-01 Backup job started
+2026-10-30 12:36:48 [INFO] web-02 Sensor TRAM034 heartbeat received
+2026-10-30 12:37:03 [INFO] web-01 User login success uid=1498
+2026-10-30 12:37:16 [INFO] web-01 POST /api/readings 201 Created 11ms
+2026-10-30 12:37:24 [INFO] api-01 GET /dashboard 200 OK 581ms
+2026-10-30 12:37:49 [INFO] web-01 GET /dashboard 200 OK 203ms
+2026-10-30 12:38:06 [INFO] web-02 POST /api/readings 201 Created 299ms
+2026-10-30 12:38:27 [INFO] db-01 GET /dashboard 200 OK 793ms
+2026-10-30 12:38:50 [INFO] web-01 POST /api/readings 201 Created 524ms
+2026-10-30 12:39:01 [INFO] db-01 Backup job started
+2026-10-30 12:39:33 [INFO] web-01 GET /api/sensors/TRAM082 200 OK 857ms
+2026-10-30 12:39:42 [INFO] web-02 Backup job started
+2026-10-30 12:40:09 [INFO] web-02 Sensor TRAM046 heartbeat received
+2026-10-30 12:40:37 [INFO] web-02 POST /api/readings 201 Created 439ms
+2026-10-30 12:40:49 [INFO] db-01 GET /api/sensors/TRAM050 200 OK 557ms
+2026-10-30 12:41:07 [INFO] api-01 Sensor TRAM089 heartbeat received
+2026-10-30 12:41:31 [INFO] db-01 Sensor TRAM088 heartbeat received
+2026-10-30 12:41:39 [INFO] web-02 POST /api/readings 201 Created 386ms
+2026-10-30 12:42:11 [ERROR] api-01 Database query TIMEOUT after 30s
+2026-10-30 12:42:38 [INFO] web-02 GET /dashboard 200 OK 660ms
+2026-10-30 12:43:04 [INFO] web-01 Backup job started
+2026-10-30 12:43:44 [INFO] db-01 POST /api/readings 201 Created 79ms
+2026-10-30 12:44:09 [INFO] web-01 Cache refreshed
+2026-10-30 12:44:31 [INFO] web-02 User login success uid=1816
+2026-10-30 12:44:50 [ERROR] db-01 GET /api/reports/6731 404 Not Found
+2026-10-30 12:45:22 [INFO] db-01 User login success uid=6783
+2026-10-30 12:45:42 [INFO] web-01 Cache refreshed
+2026-10-30 12:46:05 [INFO] api-01 User login success uid=3292
+2026-10-30 12:46:34 [INFO] db-01 Backup job started
+2026-10-30 12:46:40 [INFO] api-01 POST /api/readings 201 Created 321ms
+2026-10-30 12:46:51 [INFO] web-01 Backup job started
+2026-10-30 12:47:00 [INFO] web-02 GET /api/sensors/TRAM029 200 OK 851ms
+2026-10-30 12:47:10 [INFO] db-01 Backup job started
+2026-10-30 12:47:17 [INFO] web-01 Cache refreshed
+2026-10-30 12:47:45 [INFO] web-02 GET /api/sensors/TRAM026 200 OK 413ms
+2026-10-30 12:48:02 [WARN] web-01 Slow response from TRAM078 445ms
+2026-10-30 12:48:38 [INFO] api-01 POST /api/readings 201 Created 10ms
+2026-10-30 12:49:08 [INFO] db-01 User login success uid=2766
+2026-10-30 12:49:24 [WARN] web-02 Disk usage at 82 percent on /data
+2026-10-30 12:49:31 [INFO] db-01 GET /dashboard 200 OK 489ms
+2026-10-30 12:49:55 [CRITICAL] db-01 Disk full on /data, write failed
+2026-10-30 12:50:31 [INFO] db-01 GET /dashboard 200 OK 135ms
+2026-10-30 12:50:46 [INFO] db-01 Cache refreshed
+2026-10-30 12:50:53 [INFO] web-02 Backup job started
+2026-10-30 12:51:11 [INFO] web-02 Sensor TRAM016 heartbeat received
+2026-10-30 12:51:39 [ERROR] web-02 Database query TIMEOUT after 30s
+2026-10-30 12:52:01 [INFO] web-02 GET /api/sensors/TRAM092 200 OK 303ms
+2026-10-30 12:52:32 [INFO] web-01 GET /api/sensors/TRAM024 200 OK 611ms
+2026-10-30 12:52:40 [INFO] api-01 User login success uid=5090
+2026-10-30 12:52:53 [INFO] web-01 Backup job started
+2026-10-30 12:53:11 [INFO] web-02 Cache refreshed
+2026-10-30 12:53:50 [ERROR] api-01 GET /api/sensors/TRAM020 404 Not Found
+2026-10-30 12:54:00 [INFO] api-01 POST /api/readings 201 Created 21ms
+2026-10-30 12:54:32 [INFO] api-01 GET /dashboard 200 OK 170ms
+2026-10-30 12:54:37 [INFO] web-02 POST /api/readings 201 Created 400ms
+2026-10-30 12:54:42 [INFO] db-01 POST /api/readings 201 Created 69ms
+2026-10-30 12:55:20 [INFO] web-01 POST /api/readings 201 Created 799ms
+2026-10-30 12:55:44 [INFO] web-02 Cache refreshed
+2026-10-30 12:56:09 [ERROR] db-01 GET /api/reports/9756 404 Not Found
+2026-10-30 12:56:43 [INFO] api-01 GET /dashboard 200 OK 350ms
+2026-10-30 12:57:02 [INFO] api-01 POST /api/readings 201 Created 181ms
+2026-10-30 12:57:38 [WARN] web-02 Slow response from TRAM082 547ms
+2026-10-30 12:57:58 [INFO] web-02 POST /api/readings 201 Created 81ms
+2026-10-30 12:58:32 [WARN] api-01 Disk usage at 82 percent on /data
+2026-10-30 12:59:01 [INFO] web-01 Cache refreshed
+2026-10-30 12:59:07 [ERROR] web-02 GET /api/sensors/TRAM079 404 Not Found
+2026-10-30 12:59:19 [INFO] db-01 Sensor TRAM095 heartbeat received
+2026-10-30 12:59:54 [INFO] web-02 GET /dashboard 200 OK 628ms
+2026-10-30 13:00:09 [INFO] api-01 Cache refreshed
+2026-10-30 13:00:14 [INFO] web-02 User login success uid=3550
+2026-10-30 13:00:50 [INFO] web-02 Cache refreshed
+2026-10-30 13:01:25 [INFO] web-02 Sensor TRAM003 heartbeat received
+2026-10-30 13:01:44 [INFO] web-02 Backup job started
+2026-10-30 13:02:12 [INFO] api-01 Sensor TRAM067 heartbeat received
+2026-10-30 13:02:25 [INFO] db-01 GET /api/sensors/TRAM012 200 OK 70ms
+2026-10-30 13:02:31 [INFO] web-01 Cache refreshed
+2026-10-30 13:02:53 [INFO] web-01 GET /dashboard 200 OK 441ms
+2026-10-30 13:03:29 [INFO] api-01 Sensor TRAM043 heartbeat received
+2026-10-30 13:04:05 [INFO] db-01 Cache refreshed
+2026-10-30 13:04:37 [INFO] web-01 User login success uid=6410
+2026-10-30 13:04:57 [CRITICAL] web-02 Disk full on /data, write failed
+2026-10-30 13:05:09 [INFO] web-01 User login success uid=2509
+2026-10-30 13:05:24 [INFO] db-01 GET /dashboard 200 OK 786ms
+2026-10-30 13:05:34 [INFO] api-01 GET /dashboard 200 OK 207ms
+2026-10-30 13:05:56 [WARN] db-01 Slow response from TRAM069 850ms
+2026-10-30 13:06:36 [INFO] web-02 Sensor TRAM055 heartbeat received
+2026-10-30 13:06:41 [INFO] api-01 Cache refreshed
+2026-10-30 13:06:52 [INFO] api-01 GET /api/sensors/TRAM095 200 OK 102ms
+2026-10-30 13:07:03 [INFO] web-02 GET /api/sensors/TRAM036 200 OK 372ms
+2026-10-30 13:07:32 [INFO] web-02 GET /dashboard 200 OK 790ms
+2026-10-30 13:07:45 [INFO] web-01 Cache refreshed
+2026-10-30 13:08:06 [INFO] api-01 Sensor TRAM032 heartbeat received
+2026-10-30 13:08:36 [INFO] web-01 GET /dashboard 200 OK 180ms
+2026-10-30 13:09:06 [INFO] web-02 Sensor TRAM069 heartbeat received
+2026-10-30 13:09:13 [INFO] db-01 Sensor TRAM069 heartbeat received
+2026-10-30 13:09:38 [INFO] web-01 POST /api/readings 201 Created 223ms
+2026-10-30 13:09:52 [INFO] db-01 Sensor TRAM042 heartbeat received
+2026-10-30 13:10:31 [INFO] db-01 Sensor TRAM072 heartbeat received
+2026-10-30 13:10:39 [INFO] db-01 Backup job started
+2026-10-30 13:10:56 [INFO] db-01 Cache refreshed
+2026-10-30 13:11:28 [INFO] web-02 GET /api/sensors/TRAM046 200 OK 9ms
+2026-10-30 13:11:35 [INFO] web-01 Cache refreshed
+2026-10-30 13:11:40 [INFO] db-01 Cache refreshed
+2026-10-30 13:11:55 [INFO] web-02 GET /dashboard 200 OK 128ms
+2026-10-30 13:12:24 [INFO] web-02 POST /api/readings 201 Created 320ms
+2026-10-30 13:12:29 [INFO] web-02 Sensor TRAM088 heartbeat received
+2026-10-30 13:12:38 [INFO] api-01 GET /api/sensors/TRAM085 200 OK 677ms
+2026-10-30 13:13:06 [WARN] web-01 Retry connecting to TRAM086 attempt 2
+2026-10-30 13:13:11 [INFO] api-01 GET /dashboard 200 OK 252ms
+2026-10-30 13:13:20 [INFO] web-02 Sensor TRAM058 heartbeat received
+2026-10-30 13:13:59 [INFO] web-02 User login success uid=1044
+2026-10-30 13:14:21 [WARN] web-01 Disk usage at 82 percent on /data
+2026-10-30 13:14:32 [INFO] api-01 POST /api/readings 201 Created 260ms
+2026-10-30 13:15:02 [INFO] db-01 Backup job started
+2026-10-30 13:15:24 [INFO] api-01 POST /api/readings 201 Created 654ms
+2026-10-30 13:16:03 [WARN] web-02 Disk usage at 82 percent on /data
+2026-10-30 13:16:41 [INFO] db-01 Cache refreshed
+2026-10-30 13:17:04 [ERROR] db-01 GET /api/sensors/TRAM037 404 Not Found
+2026-10-30 13:17:16 [INFO] web-01 GET /api/sensors/TRAM048 200 OK 602ms
+2026-10-30 13:17:54 [ERROR] api-01 GET /api/reports/7734 404 Not Found
+2026-10-30 13:18:08 [WARN] db-01 Slow response from TRAM056 508ms
+2026-10-30 13:18:17 [INFO] api-01 User login success uid=6853
+2026-10-30 13:18:45 [INFO] web-02 Sensor TRAM010 heartbeat received
+2026-10-30 13:19:11 [ERROR] db-01 GET /api/sensors/TRAM042 404 Not Found
+2026-10-30 13:19:49 [INFO] web-01 Sensor TRAM016 heartbeat received
+2026-10-30 13:20:07 [INFO] web-01 GET /dashboard 200 OK 757ms
+2026-10-30 13:20:26 [ERROR] db-01 Database query TIMEOUT after 30s
+2026-10-30 13:20:35 [INFO] db-01 POST /api/readings 201 Created 656ms
+2026-10-30 13:20:51 [INFO] api-01 Sensor TRAM020 heartbeat received
+2026-10-30 13:21:16 [ERROR] web-02 GET /api/sensors/TRAM022 404 Not Found
+2026-10-30 13:21:42 [ERROR] web-02 GET /api/reports/2073 404 Not Found
+2026-10-30 13:22:03 [INFO] db-01 Cache refreshed
+2026-10-30 13:22:17 [INFO] db-01 Cache refreshed
+2026-10-30 13:22:24 [INFO] api-01 User login success uid=8319
+2026-10-30 13:22:58 [INFO] web-01 GET /dashboard 200 OK 422ms
+2026-10-30 13:23:30 [INFO] web-02 User login success uid=5226
+2026-10-30 13:23:37 [INFO] db-01 Backup job started
+2026-10-30 13:24:08 [INFO] web-02 POST /api/readings 201 Created 385ms
+2026-10-30 13:24:27 [INFO] web-02 Sensor TRAM029 heartbeat received
+2026-10-30 13:24:42 [INFO] web-02 Cache refreshed
+2026-10-30 13:25:01 [INFO] db-01 Sensor TRAM004 heartbeat received
+2026-10-30 13:25:35 [INFO] web-01 Backup job started
+2026-10-30 13:25:44 [INFO] api-01 Cache refreshed
+2026-10-30 13:26:15 [INFO] web-01 GET /api/sensors/TRAM050 200 OK 276ms
+2026-10-30 13:26:28 [INFO] db-01 Backup job started
+2026-10-30 13:26:45 [INFO] db-01 Sensor TRAM021 heartbeat received
+2026-10-30 13:26:50 [INFO] web-02 User login success uid=2030
+2026-10-30 13:27:20 [INFO] db-01 Backup job started
+2026-10-30 13:27:46 [INFO] web-01 Sensor TRAM087 heartbeat received
+2026-10-30 13:27:52 [INFO] web-01 Backup job started
+2026-10-30 13:27:57 [INFO] db-01 Backup job started
+2026-10-30 13:28:22 [INFO] db-01 Sensor TRAM078 heartbeat received
+2026-10-30 13:28:53 [INFO] web-02 GET /api/sensors/TRAM019 200 OK 303ms
+2026-10-30 13:29:21 [INFO] api-01 POST /api/readings 201 Created 123ms
+2026-10-30 13:29:53 [INFO] web-01 GET /dashboard 200 OK 164ms
+2026-10-30 13:29:58 [INFO] web-02 GET /dashboard 200 OK 510ms
+2026-10-30 13:30:17 [INFO] db-01 POST /api/readings 201 Created 81ms
+2026-10-30 13:30:33 [INFO] web-02 GET /api/sensors/TRAM023 200 OK 282ms
+2026-10-30 13:31:12 [INFO] db-01 GET /api/sensors/TRAM042 200 OK 575ms
+2026-10-30 13:31:52 [INFO] web-02 Cache refreshed
+2026-10-30 13:32:32 [INFO] web-02 Cache refreshed
+2026-10-30 13:32:41 [INFO] web-01 GET /dashboard 200 OK 831ms
+2026-10-30 13:32:53 [INFO] db-01 Backup job started
+2026-10-30 13:33:09 [INFO] web-01 Cache refreshed
+2026-10-30 13:33:36 [INFO] db-01 POST /api/readings 201 Created 871ms
+2026-10-30 13:33:45 [INFO] api-01 GET /api/sensors/TRAM076 200 OK 152ms
+2026-10-30 13:34:19 [INFO] db-01 GET /dashboard 200 OK 762ms
+2026-10-30 13:34:57 [WARN] web-02 Retry connecting to TRAM003 attempt 2
+2026-10-30 13:35:28 [INFO] web-02 GET /dashboard 200 OK 681ms
+2026-10-30 13:35:44 [WARN] web-02 Disk usage at 82 percent on /data
+2026-10-30 13:35:51 [INFO] web-01 GET /dashboard 200 OK 126ms
+2026-10-30 13:36:03 [ERROR] db-01 GET /api/reports/3963 404 Not Found
+2026-10-30 13:36:23 [INFO] web-01 GET /dashboard 200 OK 682ms
+2026-10-30 13:36:52 [INFO] db-01 GET /dashboard 200 OK 445ms
+2026-10-30 13:37:25 [INFO] db-01 User login success uid=5373
+2026-10-30 13:38:03 [INFO] db-01 User login success uid=8454
+2026-10-30 13:38:40 [INFO] api-01 GET /dashboard 200 OK 338ms
+2026-10-30 13:39:01 [INFO] web-02 Cache refreshed
+2026-10-30 13:39:21 [INFO] api-01 Cache refreshed
+2026-10-30 13:39:48 [INFO] web-01 POST /api/readings 201 Created 796ms
+2026-10-30 13:40:12 [INFO] db-01 User login success uid=5736
+2026-10-30 13:40:42 [INFO] api-01 POST /api/readings 201 Created 204ms
+2026-10-30 13:40:48 [INFO] db-01 User login success uid=9630
+2026-10-30 13:41:17 [INFO] api-01 GET /api/sensors/TRAM009 200 OK 51ms
+2026-10-30 13:41:43 [INFO] api-01 GET /dashboard 200 OK 356ms
+2026-10-30 13:41:51 [INFO] web-02 GET /dashboard 200 OK 594ms
+2026-10-30 13:41:57 [INFO] api-01 User login success uid=6960
+2026-10-30 13:42:29 [WARN] web-02 Retry connecting to TRAM054 attempt 2
+2026-10-30 13:42:55 [INFO] web-01 User login success uid=8934
+2026-10-30 13:43:10 [ERROR] db-01 Connection TIMEOUT to TRAM039 after 30s
+2026-10-30 13:43:23 [ERROR] api-01 ERROR 404 resource not found /static/chart-8008.js
+2026-10-30 13:43:45 [INFO] web-01 POST /api/readings 201 Created 670ms
+2026-10-30 13:43:58 [INFO] api-01 Sensor TRAM015 heartbeat received
+2026-10-30 13:44:05 [INFO] web-02 GET /dashboard 200 OK 560ms
+2026-10-30 13:44:28 [INFO] db-01 User login success uid=5553
+2026-10-30 13:44:47 [INFO] web-02 Cache refreshed
+2026-10-30 13:45:05 [WARN] api-01 Retry connecting to TRAM052 attempt 2
+2026-10-30 13:45:39 [INFO] db-01 User login success uid=5208
+2026-10-30 13:46:09 [INFO] api-01 Sensor TRAM063 heartbeat received
+2026-10-30 13:46:47 [INFO] web-01 GET /api/sensors/TRAM091 200 OK 352ms
+2026-10-30 13:47:03 [INFO] web-02 GET /dashboard 200 OK 471ms
+2026-10-30 13:47:37 [INFO] web-01 User login success uid=1925
+2026-10-30 13:48:06 [INFO] web-01 User login success uid=9767
+2026-10-30 13:48:44 [INFO] db-01 Cache refreshed
+2026-10-30 13:49:06 [INFO] web-01 Cache refreshed
+2026-10-30 13:49:34 [INFO] api-01 GET /api/sensors/TRAM073 200 OK 367ms
+2026-10-30 13:49:44 [INFO] db-01 Backup job started
+2026-10-30 13:49:53 [INFO] db-01 Backup job started
+2026-10-30 13:50:29 [INFO] db-01 GET /dashboard 200 OK 467ms
+2026-10-30 13:50:41 [INFO] web-02 Cache refreshed
+2026-10-30 13:51:11 [INFO] db-01 Cache refreshed
+2026-10-30 13:51:17 [INFO] db-01 User login success uid=2170
+2026-10-30 13:51:46 [INFO] web-01 GET /dashboard 200 OK 202ms
+2026-10-30 13:52:10 [INFO] api-01 User login success uid=9266
+2026-10-30 13:52:31 [WARN] web-01 Retry connecting to TRAM088 attempt 2
+2026-10-30 13:52:52 [INFO] web-02 User login success uid=1089
+2026-10-30 13:53:19 [INFO] db-01 Sensor TRAM070 heartbeat received
+2026-10-30 13:53:40 [INFO] db-01 POST /api/readings 201 Created 434ms
+2026-10-30 13:54:12 [INFO] api-01 POST /api/readings 201 Created 792ms
+2026-10-30 13:54:37 [INFO] api-01 POST /api/readings 201 Created 702ms
+2026-10-30 13:54:49 [INFO] web-02 POST /api/readings 201 Created 561ms
+2026-10-30 13:55:13 [INFO] web-02 Sensor TRAM063 heartbeat received
+2026-10-30 13:55:26 [INFO] db-01 GET /api/sensors/TRAM057 200 OK 227ms
+2026-10-30 13:55:55 [WARN] web-02 Slow response from TRAM073 687ms
+2026-10-30 13:56:35 [INFO] api-01 User login success uid=9913
+2026-10-30 13:56:48 [INFO] db-01 Cache refreshed
+2026-10-30 13:57:20 [INFO] db-01 GET /api/sensors/TRAM035 200 OK 449ms
+2026-10-30 13:57:57 [INFO] db-01 Sensor TRAM085 heartbeat received
+2026-10-30 13:58:35 [INFO] web-01 Sensor TRAM058 heartbeat received
+2026-10-30 13:59:06 [INFO] web-01 POST /api/readings 201 Created 96ms
+2026-10-30 13:59:23 [INFO] web-01 User login success uid=9567
+2026-10-30 13:59:36 [INFO] web-01 GET /api/sensors/TRAM010 200 OK 267ms
+2026-10-30 13:59:58 [INFO] web-02 Sensor TRAM078 heartbeat received
+2026-10-30 14:00:17 [ERROR] db-01 Connection TIMEOUT to TRAM041 after 30s
+2026-10-30 14:00:52 [INFO] web-02 POST /api/readings 201 Created 288ms
+2026-10-30 14:01:21 [INFO] web-02 Cache refreshed
+2026-10-30 14:01:41 [INFO] db-01 User login success uid=2139
+2026-10-30 14:02:17 [INFO] db-01 POST /api/readings 201 Created 192ms
+2026-10-30 14:02:38 [INFO] api-01 Sensor TRAM011 heartbeat received
+2026-10-30 14:03:17 [INFO] web-02 POST /api/readings 201 Created 333ms
+2026-10-30 14:03:44 [INFO] db-01 Cache refreshed
+2026-10-30 14:04:20 [INFO] web-02 User login success uid=4759
+2026-10-30 14:04:50 [INFO] db-01 GET /dashboard 200 OK 297ms
+2026-10-30 14:05:02 [INFO] db-01 GET /dashboard 200 OK 295ms
+2026-10-30 14:05:24 [WARN] db-01 Retry connecting to TRAM068 attempt 2
+2026-10-30 14:05:58 [INFO] web-01 GET /api/sensors/TRAM041 200 OK 114ms
+2026-10-30 14:06:36 [INFO] api-01 GET /api/sensors/TRAM022 200 OK 413ms
+2026-10-30 14:06:45 [INFO] db-01 GET /dashboard 200 OK 13ms
+2026-10-30 14:06:52 [INFO] web-01 POST /api/readings 201 Created 211ms
+2026-10-30 14:07:23 [INFO] web-02 GET /api/sensors/TRAM032 200 OK 54ms
+2026-10-30 14:07:35 [INFO] api-01 GET /api/sensors/TRAM077 200 OK 270ms
+2026-10-30 14:08:14 [INFO] web-01 GET /api/sensors/TRAM048 200 OK 80ms
+2026-10-30 14:08:25 [INFO] db-01 GET /dashboard 200 OK 297ms
+2026-10-30 14:08:44 [ERROR] db-01 GET /api/reports/9677 404 Not Found
+2026-10-30 14:09:19 [INFO] db-01 Sensor TRAM025 heartbeat received
+2026-10-30 14:09:31 [INFO] db-01 User login success uid=8479
+2026-10-30 14:10:11 [INFO] web-01 POST /api/readings 201 Created 701ms
+2026-10-30 14:10:29 [ERROR] web-02 Database query TIMEOUT after 30s
+2026-10-30 14:10:40 [INFO] web-01 GET /api/sensors/TRAM034 200 OK 600ms
+2026-10-30 14:10:57 [INFO] db-01 Sensor TRAM084 heartbeat received
+2026-10-30 14:11:14 [INFO] api-01 POST /api/readings 201 Created 251ms
+2026-10-30 14:11:26 [ERROR] api-01 Connection TIMEOUT to TRAM013 after 30s
+2026-10-30 14:11:48 [INFO] web-01 Sensor TRAM031 heartbeat received
+2026-10-30 14:11:57 [INFO] api-01 POST /api/readings 201 Created 126ms
+2026-10-30 14:12:12 [INFO] web-01 User login success uid=8261
+2026-10-30 14:12:51 [INFO] web-02 Sensor TRAM062 heartbeat received
+2026-10-30 14:13:29 [INFO] web-01 GET /api/sensors/TRAM033 200 OK 736ms
+2026-10-30 14:13:53 [INFO] web-02 POST /api/readings 201 Created 396ms
+2026-10-30 14:14:20 [INFO] web-01 POST /api/readings 201 Created 408ms
+2026-10-30 14:14:51 [INFO] web-02 Backup job started
+2026-10-30 14:15:01 [ERROR] web-01 GET /api/reports/9064 404 Not Found
+2026-10-30 14:15:15 [INFO] web-02 User login success uid=8429
+2026-10-30 14:15:40 [INFO] web-02 POST /api/readings 201 Created 367ms
+2026-10-30 14:15:55 [ERROR] web-01 ERROR 404 resource not found /static/chart-8588.js
+2026-10-30 14:16:15 [INFO] db-01 Cache refreshed
+2026-10-30 14:16:47 [INFO] api-01 Sensor TRAM073 heartbeat received
+2026-10-30 14:17:22 [INFO] db-01 Cache refreshed
+2026-10-30 14:17:51 [INFO] db-01 POST /api/readings 201 Created 380ms
+2026-10-30 14:17:59 [INFO] web-02 Backup job started
+2026-10-30 14:18:09 [INFO] web-01 GET /dashboard 200 OK 535ms
+2026-10-30 14:18:26 [INFO] db-01 Backup job started
+2026-10-30 14:19:02 [INFO] api-01 POST /api/readings 201 Created 717ms
+2026-10-30 14:19:11 [INFO] api-01 POST /api/readings 201 Created 787ms
+2026-10-30 14:19:20 [ERROR] db-01 Database query TIMEOUT after 30s
+2026-10-30 14:19:37 [INFO] api-01 GET /api/sensors/TRAM089 200 OK 616ms
+2026-10-30 14:19:53 [INFO] db-01 Backup job started
+2026-10-30 14:20:28 [INFO] db-01 GET /dashboard 200 OK 445ms
+2026-10-30 14:20:55 [INFO] web-02 Backup job started
+2026-10-30 14:21:02 [ERROR] web-01 Connection TIMEOUT to TRAM010 after 30s
+2026-10-30 14:21:09 [INFO] db-01 Sensor TRAM084 heartbeat received
+2026-10-30 14:21:17 [INFO] web-01 GET /api/sensors/TRAM070 200 OK 23ms
+2026-10-30 14:21:35 [ERROR] web-01 Connection TIMEOUT to TRAM014 after 30s
+2026-10-30 14:22:11 [INFO] api-01 Sensor TRAM012 heartbeat received
+2026-10-30 14:22:24 [INFO] web-02 User login success uid=2498
+2026-10-30 14:22:41 [INFO] api-01 GET /api/sensors/TRAM065 200 OK 650ms
+2026-10-30 14:23:11 [INFO] web-02 User login success uid=8186
+2026-10-30 14:23:32 [INFO] web-02 Backup job started
+2026-10-30 14:24:08 [INFO] web-01 Sensor TRAM039 heartbeat received
+2026-10-30 14:24:43 [INFO] api-01 Sensor TRAM087 heartbeat received
+2026-10-30 14:24:51 [ERROR] web-01 GET /api/sensors/TRAM052 404 Not Found
+2026-10-30 14:25:10 [INFO] api-01 GET /api/sensors/TRAM099 200 OK 21ms
+2026-10-30 14:25:19 [INFO] api-01 GET /dashboard 200 OK 295ms
+2026-10-30 14:25:51 [INFO] web-01 User login success uid=2997
+2026-10-30 14:26:26 [INFO] db-01 Backup job started
+2026-10-30 14:26:37 [INFO] api-01 Cache refreshed
+2026-10-30 14:26:48 [INFO] api-01 Backup job started
+2026-10-30 14:27:27 [INFO] api-01 User login success uid=3069
+2026-10-30 14:27:59 [ERROR] db-01 Database query TIMEOUT after 30s
+2026-10-30 14:28:10 [INFO] db-01 User login success uid=8086
+2026-10-30 14:28:34 [INFO] api-01 Backup job started
+2026-10-30 14:28:42 [INFO] api-01 GET /dashboard 200 OK 780ms
+2026-10-30 14:29:20 [WARN] api-01 Slow response from TRAM056 480ms
+2026-10-30 14:29:59 [ERROR] api-01 Database query TIMEOUT after 30s
+2026-10-30 14:30:32 [INFO] web-01 User login success uid=3417
+2026-10-30 14:30:53 [INFO] web-02 Sensor TRAM054 heartbeat received
+2026-10-30 14:31:21 [WARN] web-01 Disk usage at 82 percent on /data
+2026-10-30 14:31:51 [ERROR] db-01 ERROR 404 resource not found /static/chart-9556.js
+2026-10-30 14:32:00 [INFO] web-02 Sensor TRAM044 heartbeat received
+2026-10-30 14:32:15 [INFO] api-01 Cache refreshed
+2026-10-30 14:32:47 [WARN] web-01 Slow response from TRAM032 713ms
+2026-10-30 14:33:19 [INFO] db-01 GET /api/sensors/TRAM053 200 OK 542ms
+2026-10-30 14:33:38 [ERROR] web-02 GET /api/reports/9638 404 Not Found
+2026-10-30 14:34:13 [INFO] web-02 POST /api/readings 201 Created 790ms
+2026-10-30 14:34:43 [INFO] db-01 Cache refreshed
+2026-10-30 14:35:11 [ERROR] api-01 Connection TIMEOUT to TRAM094 after 30s
+2026-10-30 14:35:29 [INFO] api-01 GET /dashboard 200 OK 564ms
+2026-10-30 14:35:41 [WARN] api-01 Slow response from TRAM008 339ms
+2026-10-30 14:36:21 [INFO] web-01 Backup job started
+2026-10-30 14:36:58 [INFO] web-01 Sensor TRAM087 heartbeat received
+2026-10-30 14:37:18 [INFO] web-02 GET /api/sensors/TRAM055 200 OK 748ms
+2026-10-30 14:37:58 [INFO] db-01 Sensor TRAM098 heartbeat received
+2026-10-30 14:38:34 [INFO] db-01 Sensor TRAM077 heartbeat received
+2026-10-30 14:38:41 [INFO] db-01 GET /api/sensors/TRAM062 200 OK 309ms
+2026-10-30 14:39:20 [ERROR] db-01 GET /api/sensors/TRAM006 404 Not Found
+2026-10-30 14:39:25 [INFO] db-01 Cache refreshed
+2026-10-30 14:39:36 [INFO] web-02 Sensor TRAM047 heartbeat received
+2026-10-30 14:40:16 [WARN] db-01 Disk usage at 82 percent on /data
+2026-10-30 14:40:22 [INFO] web-02 GET /dashboard 200 OK 631ms
+2026-10-30 14:40:50 [INFO] db-01 Backup job started
+2026-10-30 14:41:22 [INFO] web-01 GET /dashboard 200 OK 592ms
+2026-10-30 14:41:58 [ERROR] web-01 GET /api/sensors/TRAM031 404 Not Found
+2026-10-30 14:42:30 [INFO] web-02 User login success uid=4779
+2026-10-30 14:42:39 [INFO] db-01 POST /api/readings 201 Created 104ms
+2026-10-30 14:42:56 [INFO] web-01 Sensor TRAM085 heartbeat received
+2026-10-30 14:43:19 [INFO] api-01 GET /api/sensors/TRAM052 200 OK 310ms
+2026-10-30 14:43:44 [INFO] db-01 Sensor TRAM093 heartbeat received
+2026-10-30 14:43:52 [INFO] web-02 GET /api/sensors/TRAM040 200 OK 197ms
+2026-10-30 14:44:15 [INFO] api-01 GET /api/sensors/TRAM080 200 OK 608ms
+2026-10-30 14:44:21 [INFO] db-01 Sensor TRAM041 heartbeat received
+2026-10-30 14:44:39 [INFO] web-01 Cache refreshed
+2026-10-30 14:45:07 [INFO] web-01 User login success uid=8538
+2026-10-30 14:45:15 [INFO] web-01 Sensor TRAM086 heartbeat received
+2026-10-30 14:45:24 [CRITICAL] api-01 Out of memory, service restarting
+2026-10-30 14:45:54 [ERROR] web-01 GET /api/reports/5467 404 Not Found
+2026-10-30 14:46:26 [INFO] web-02 Backup job started
+2026-10-30 14:47:02 [INFO] db-01 Sensor TRAM072 heartbeat received
+2026-10-30 14:47:37 [INFO] db-01 Sensor TRAM049 heartbeat received
+2026-10-30 14:47:44 [INFO] db-01 GET /api/sensors/TRAM091 200 OK 529ms
+2026-10-30 14:47:55 [WARN] web-01 Disk usage at 82 percent on /data
+2026-10-30 14:48:18 [INFO] db-01 User login success uid=6302
+2026-10-30 14:48:37 [INFO] web-02 Backup job started
+2026-10-30 14:48:56 [INFO] api-01 Cache refreshed
+2026-10-30 14:49:07 [INFO] web-01 Sensor TRAM074 heartbeat received
+2026-10-30 14:49:31 [INFO] web-02 Cache refreshed
+2026-10-30 14:49:49 [WARN] web-01 Slow response from TRAM010 244ms
+2026-10-30 14:50:10 [INFO] api-01 Backup job started
+2026-10-30 14:50:45 [INFO] web-02 Backup job started
+2026-10-30 14:51:00 [INFO] web-02 POST /api/readings 201 Created 158ms
+2026-10-30 14:51:18 [INFO] web-01 GET /api/sensors/TRAM068 200 OK 590ms
+2026-10-30 14:51:57 [INFO] db-01 Sensor TRAM038 heartbeat received
+2026-10-30 14:52:09 [INFO] api-01 Sensor TRAM005 heartbeat received
+2026-10-30 14:52:38 [ERROR] web-02 Database query TIMEOUT after 30s
+2026-10-30 14:52:58 [INFO] db-01 POST /api/readings 201 Created 49ms
+2026-10-30 14:53:13 [INFO] web-02 Cache refreshed
+2026-10-30 14:53:49 [INFO] api-01 Sensor TRAM039 heartbeat received
+2026-10-30 14:54:25 [INFO] db-01 Cache refreshed
+2026-10-30 14:54:54 [ERROR] api-01 Connection TIMEOUT to TRAM010 after 30s
+2026-10-30 14:55:19 [INFO] db-01 Sensor TRAM064 heartbeat received
+2026-10-30 14:55:31 [INFO] web-01 Cache refreshed
+2026-10-30 14:55:45 [INFO] web-02 User login success uid=3889
+2026-10-30 14:56:13 [INFO] web-02 Cache refreshed
+2026-10-30 14:56:38 [INFO] db-01 User login success uid=9178
+2026-10-30 14:57:03 [INFO] web-02 Sensor TRAM010 heartbeat received
+2026-10-30 14:57:43 [INFO] web-02 POST /api/readings 201 Created 682ms
+2026-10-30 14:57:52 [INFO] api-01 Cache refreshed
+2026-10-30 14:58:09 [INFO] web-02 Backup job started
+2026-10-30 14:58:19 [INFO] web-01 User login success uid=6844
+2026-10-30 14:58:35 [CRITICAL] api-01 Database connection pool exhausted
+2026-10-30 14:59:02 [INFO] api-01 Cache refreshed
+2026-10-30 14:59:18 [INFO] api-01 GET /api/sensors/TRAM052 200 OK 248ms
+2026-10-30 14:59:55 [INFO] web-02 GET /dashboard 200 OK 843ms
+2026-10-30 15:00:33 [INFO] api-01 GET /dashboard 200 OK 698ms
+2026-10-30 15:01:04 [INFO] web-02 POST /api/readings 201 Created 710ms
+2026-10-30 15:01:43 [INFO] api-01 GET /dashboard 200 OK 404ms
+2026-10-30 15:01:56 [INFO] web-01 Backup job started
+2026-10-30 15:02:16 [INFO] api-01 Sensor TRAM024 heartbeat received
+2026-10-30 15:02:23 [INFO] web-02 GET /api/sensors/TRAM098 200 OK 709ms
+2026-10-30 15:02:43 [INFO] web-02 Backup job started
+2026-10-30 15:03:08 [INFO] api-01 Backup job started
+2026-10-30 15:03:31 [INFO] web-01 Cache refreshed
+2026-10-30 15:03:49 [INFO] db-01 User login success uid=4292
+2026-10-30 15:04:04 [WARN] web-02 Disk usage at 82 percent on /data
+2026-10-30 15:04:35 [INFO] web-02 GET /dashboard 200 OK 803ms
+2026-10-30 15:04:57 [ERROR] db-01 GET /api/sensors/TRAM010 404 Not Found
+2026-10-30 15:05:06 [INFO] db-01 User login success uid=7895
+2026-10-30 15:05:39 [WARN] db-01 Slow response from TRAM054 625ms
+2026-10-30 15:06:18 [INFO] web-02 GET /dashboard 200 OK 42ms
+2026-10-30 15:06:24 [INFO] db-01 Backup job started
+2026-10-30 15:06:58 [INFO] web-01 GET /api/sensors/TRAM090 200 OK 798ms
+2026-10-30 15:07:06 [INFO] db-01 GET /api/sensors/TRAM079 200 OK 186ms
+2026-10-30 15:07:29 [INFO] web-01 Sensor TRAM092 heartbeat received
+2026-10-30 15:07:57 [INFO] api-01 Sensor TRAM010 heartbeat received
+2026-10-30 15:08:33 [INFO] web-02 GET /dashboard 200 OK 534ms
+2026-10-30 15:08:52 [INFO] db-01 Sensor TRAM019 heartbeat received
+2026-10-30 15:09:23 [INFO] web-01 POST /api/readings 201 Created 436ms
+2026-10-30 15:09:35 [INFO] db-01 POST /api/readings 201 Created 899ms
+2026-10-30 15:09:49 [INFO] api-01 User login success uid=5353
+2026-10-30 15:10:23 [WARN] db-01 Disk usage at 82 percent on /data
+2026-10-30 15:10:39 [INFO] db-01 Sensor TRAM021 heartbeat received
+2026-10-30 15:10:45 [INFO] api-01 POST /api/readings 201 Created 331ms
+2026-10-30 15:11:00 [INFO] db-01 GET /dashboard 200 OK 873ms
+2026-10-30 15:11:40 [WARN] api-01 Retry connecting to TRAM080 attempt 2
+2026-10-30 15:12:13 [INFO] api-01 Backup job started
+2026-10-30 15:12:24 [INFO] web-02 Sensor TRAM077 heartbeat received
+2026-10-30 15:12:29 [INFO] web-02 Sensor TRAM084 heartbeat received
+2026-10-30 15:12:55 [INFO] api-01 Backup job started
+2026-10-30 15:13:07 [ERROR] db-01 ERROR 404 resource not found /static/chart-2199.js
+2026-10-30 15:13:40 [ERROR] api-01 ERROR 404 resource not found /static/chart-6129.js
+2026-10-30 15:13:58 [INFO] web-01 Backup job started
+2026-10-30 15:14:31 [INFO] db-01 GET /api/sensors/TRAM061 200 OK 439ms
+2026-10-30 15:14:51 [INFO] db-01 GET /dashboard 200 OK 623ms
+2026-10-30 15:15:28 [INFO] web-02 GET /api/sensors/TRAM029 200 OK 550ms
+2026-10-30 15:15:44 [INFO] web-01 GET /dashboard 200 OK 786ms
+2026-10-30 15:16:18 [ERROR] db-01 GET /api/reports/6167 404 Not Found
+2026-10-30 15:16:51 [WARN] web-02 Slow response from TRAM086 466ms
+2026-10-30 15:17:19 [INFO] db-01 GET /api/sensors/TRAM074 200 OK 65ms
+2026-10-30 15:17:46 [INFO] web-02 POST /api/readings 201 Created 853ms
+2026-10-30 15:18:23 [INFO] web-01 Sensor TRAM092 heartbeat received
+2026-10-30 15:18:43 [INFO] web-01 Backup job started
+2026-10-30 15:19:16 [INFO] web-02 POST /api/readings 201 Created 171ms
+2026-10-30 15:19:32 [INFO] api-01 User login success uid=4543
+2026-10-30 15:19:37 [WARN] api-01 Slow response from TRAM060 819ms
+2026-10-30 15:20:03 [INFO] web-02 GET /api/sensors/TRAM010 200 OK 194ms
+2026-10-30 15:20:36 [ERROR] web-01 GET /api/reports/1481 404 Not Found
+2026-10-30 15:20:44 [INFO] db-01 Backup job started
+2026-10-30 15:20:52 [INFO] web-01 User login success uid=9851
+2026-10-30 15:21:11 [INFO] db-01 GET /dashboard 200 OK 185ms
+2026-10-30 15:21:47 [INFO] db-01 Backup job started
+2026-10-30 15:22:24 [INFO] db-01 GET /dashboard 200 OK 282ms
+2026-10-30 15:22:44 [INFO] web-02 POST /api/readings 201 Created 518ms
+2026-10-30 15:23:23 [CRITICAL] api-01 Disk full on /data, write failed
+2026-10-30 15:23:51 [INFO] web-02 GET /dashboard 200 OK 110ms
+2026-10-30 15:24:26 [INFO] web-01 GET /dashboard 200 OK 51ms
+2026-10-30 15:24:59 [INFO] api-01 GET /dashboard 200 OK 600ms
+2026-10-30 15:25:04 [WARN] db-01 Disk usage at 82 percent on /data
+2026-10-30 15:25:22 [INFO] db-01 GET /api/sensors/TRAM012 200 OK 751ms
+2026-10-30 15:25:42 [INFO] web-01 GET /api/sensors/TRAM056 200 OK 515ms
+2026-10-30 15:26:13 [ERROR] web-02 Connection TIMEOUT to TRAM011 after 30s
+2026-10-30 15:26:44 [INFO] web-01 User login success uid=5815
+2026-10-30 15:27:11 [INFO] db-01 Backup job started
+2026-10-30 15:27:41 [INFO] web-01 User login success uid=9028
+2026-10-30 15:28:17 [INFO] api-01 Backup job started
+2026-10-30 15:28:23 [ERROR] web-02 Database query TIMEOUT after 30s
+2026-10-30 15:28:46 [INFO] db-01 Backup job started
+2026-10-30 15:29:24 [ERROR] web-01 GET /api/sensors/TRAM003 404 Not Found
+2026-10-30 15:29:46 [INFO] db-01 POST /api/readings 201 Created 794ms
+2026-10-30 15:30:12 [INFO] web-01 POST /api/readings 201 Created 88ms
+2026-10-30 15:30:45 [INFO] db-01 POST /api/readings 201 Created 767ms
+2026-10-30 15:31:03 [INFO] web-02 POST /api/readings 201 Created 335ms
+2026-10-30 15:31:28 [INFO] db-01 GET /dashboard 200 OK 706ms
+2026-10-30 15:32:04 [ERROR] web-01 Database query TIMEOUT after 30s
+2026-10-30 15:32:38 [INFO] web-02 GET /api/sensors/TRAM023 200 OK 535ms
+2026-10-30 15:33:00 [INFO] api-01 Sensor TRAM100 heartbeat received
+2026-10-30 15:33:20 [INFO] web-01 GET /api/sensors/TRAM051 200 OK 747ms
+2026-10-30 15:33:40 [INFO] web-02 Backup job started
+2026-10-30 15:34:09 [ERROR] web-01 GET /api/sensors/TRAM091 404 Not Found
+2026-10-30 15:34:14 [INFO] api-01 GET /dashboard 200 OK 717ms
+2026-10-30 15:34:28 [INFO] web-02 Sensor TRAM057 heartbeat received
+2026-10-30 15:34:33 [INFO] db-01 Backup job started
+2026-10-30 15:34:46 [WARN] web-01 Slow response from TRAM022 229ms
+2026-10-30 15:35:08 [ERROR] api-01 GET /api/reports/7587 404 Not Found
+2026-10-30 15:35:25 [INFO] api-01 Backup job started
+2026-10-30 15:36:03 [INFO] api-01 Cache refreshed
+2026-10-30 15:36:26 [INFO] web-02 User login success uid=7601
+2026-10-30 15:36:36 [INFO] web-02 POST /api/readings 201 Created 238ms
+2026-10-30 15:37:10 [INFO] web-02 Cache refreshed
+2026-10-30 15:37:20 [INFO] db-01 User login success uid=6243
+2026-10-30 15:37:50 [INFO] web-01 GET /dashboard 200 OK 488ms
+2026-10-30 15:38:29 [WARN] db-01 Retry connecting to TRAM009 attempt 2
+2026-10-30 15:39:01 [INFO] db-01 GET /api/sensors/TRAM071 200 OK 270ms
+2026-10-30 15:39:30 [INFO] web-02 Cache refreshed
+2026-10-30 15:40:01 [INFO] db-01 Backup job started
+2026-10-30 15:40:33 [INFO] db-01 User login success uid=8969
+2026-10-30 15:40:44 [INFO] web-02 GET /dashboard 200 OK 586ms
+2026-10-30 15:41:24 [INFO] db-01 GET /api/sensors/TRAM066 200 OK 729ms
+2026-10-30 15:41:46 [INFO] api-01 User login success uid=4938
+2026-10-30 15:42:21 [INFO] web-02 Cache refreshed
+2026-10-30 15:42:54 [WARN] api-01 Disk usage at 82 percent on /data
+2026-10-30 15:43:30 [INFO] api-01 GET /dashboard 200 OK 129ms
+2026-10-30 15:43:46 [INFO] web-01 GET /api/sensors/TRAM091 200 OK 232ms
+2026-10-30 15:43:54 [CRITICAL] db-01 Out of memory, service restarting
+2026-10-30 15:44:06 [INFO] web-01 GET /api/sensors/TRAM005 200 OK 488ms
+2026-10-30 15:44:41 [ERROR] web-02 Connection TIMEOUT to TRAM043 after 30s
+2026-10-30 15:45:12 [INFO] web-02 GET /api/sensors/TRAM091 200 OK 425ms
+2026-10-30 15:45:25 [INFO] web-02 Cache refreshed
+2026-10-30 15:46:00 [INFO] api-01 POST /api/readings 201 Created 743ms
+2026-10-30 15:46:36 [INFO] web-02 Backup job started
+2026-10-30 15:47:06 [INFO] db-01 User login success uid=9903
+2026-10-30 15:47:17 [ERROR] web-01 GET /api/sensors/TRAM077 404 Not Found
+2026-10-30 15:47:50 [INFO] web-02 Backup job started
+2026-10-30 15:48:00 [INFO] db-01 Backup job started
+2026-10-30 15:48:22 [INFO] db-01 User login success uid=5581
+2026-10-30 15:48:53 [INFO] web-01 POST /api/readings 201 Created 700ms
+2026-10-30 15:49:30 [INFO] web-02 GET /api/sensors/TRAM078 200 OK 714ms
+2026-10-30 15:49:57 [INFO] web-01 POST /api/readings 201 Created 676ms
+2026-10-30 15:50:19 [INFO] api-01 POST /api/readings 201 Created 517ms
+2026-10-30 15:50:24 [INFO] api-01 Backup job started
+2026-10-30 15:50:56 [INFO] api-01 GET /dashboard 200 OK 771ms
+2026-10-30 15:51:04 [WARN] api-01 Slow response from TRAM027 789ms
+2026-10-30 15:51:43 [INFO] web-01 Sensor TRAM044 heartbeat received
+2026-10-30 15:52:02 [ERROR] web-01 GET /api/sensors/TRAM040 404 Not Found
+2026-10-30 15:52:23 [INFO] api-01 GET /api/sensors/TRAM089 200 OK 237ms
+2026-10-30 15:52:52 [ERROR] db-01 Connection TIMEOUT to TRAM001 after 30s
+2026-10-30 15:53:03 [ERROR] api-01 GET /api/reports/7173 404 Not Found
+2026-10-30 15:53:11 [WARN] api-01 Retry connecting to TRAM043 attempt 2
+2026-10-30 15:53:30 [INFO] web-02 User login success uid=3677
+2026-10-30 15:53:42 [WARN] api-01 Disk usage at 82 percent on /data
+2026-10-30 15:54:16 [INFO] web-02 Cache refreshed
+2026-10-30 15:54:51 [INFO] web-01 Backup job started
+2026-10-30 15:55:02 [INFO] web-01 Cache refreshed
+2026-10-30 15:55:33 [INFO] web-02 Sensor TRAM048 heartbeat received
+2026-10-30 15:56:02 [INFO] web-02 User login success uid=9145
+2026-10-30 15:56:39 [WARN] web-02 Disk usage at 82 percent on /data
+2026-10-30 15:57:07 [INFO] web-02 Sensor TRAM014 heartbeat received
+2026-10-30 15:57:42 [INFO] db-01 Cache refreshed
+2026-10-30 15:57:56 [ERROR] api-01 GET /api/reports/2473 404 Not Found
+2026-10-30 15:58:36 [INFO] db-01 GET /dashboard 200 OK 269ms
+2026-10-30 15:59:02 [INFO] db-01 GET /dashboard 200 OK 85ms
+2026-10-30 15:59:25 [INFO] web-02 Backup job started
+2026-10-30 15:59:54 [INFO] db-01 POST /api/readings 201 Created 657ms
+2026-10-30 16:00:10 [INFO] web-01 GET /dashboard 200 OK 640ms
+2026-10-30 16:00:15 [INFO] api-01 Backup job started
+2026-10-30 16:00:20 [INFO] web-01 Backup job started
+2026-10-30 16:00:55 [WARN] db-01 Disk usage at 82 percent on /data
+2026-10-30 16:01:10 [INFO] web-01 Cache refreshed
+2026-10-30 16:01:19 [INFO] db-01 Backup job started
+2026-10-30 16:01:58 [INFO] db-01 GET /api/sensors/TRAM078 200 OK 702ms
+2026-10-30 16:02:20 [INFO] web-02 Backup job started
+2026-10-30 16:02:50 [INFO] db-01 Cache refreshed
+2026-10-30 16:03:09 [INFO] web-01 GET /api/sensors/TRAM068 200 OK 795ms
+2026-10-30 16:03:25 [CRITICAL] web-01 Disk full on /data, write failed
+2026-10-30 16:03:49 [INFO] web-01 GET /dashboard 200 OK 473ms
+2026-10-30 16:04:05 [INFO] api-01 User login success uid=1336
+2026-10-30 16:04:41 [INFO] web-02 POST /api/readings 201 Created 504ms
+2026-10-30 16:05:14 [INFO] web-01 Backup job started
+2026-10-30 16:05:42 [INFO] api-01 GET /dashboard 200 OK 152ms
+2026-10-30 16:06:00 [INFO] db-01 GET /dashboard 200 OK 197ms
+2026-10-30 16:06:08 [INFO] api-01 GET /dashboard 200 OK 638ms
+2026-10-30 16:06:44 [INFO] db-01 Cache refreshed
+2026-10-30 16:07:04 [INFO] web-02 GET /dashboard 200 OK 39ms
+2026-10-30 16:07:42 [INFO] api-01 GET /api/sensors/TRAM066 200 OK 770ms
+2026-10-30 16:08:22 [INFO] web-02 GET /api/sensors/TRAM055 200 OK 96ms
+2026-10-30 16:08:47 [INFO] web-01 GET /dashboard 200 OK 136ms
+2026-10-30 16:09:15 [WARN] web-02 Slow response from TRAM092 206ms
+2026-10-30 16:09:30 [INFO] web-02 Sensor TRAM091 heartbeat received
+2026-10-30 16:09:48 [INFO] db-01 Cache refreshed
+2026-10-30 16:10:14 [ERROR] api-01 ERROR 404 resource not found /static/chart-7106.js
+2026-10-30 16:10:51 [ERROR] web-02 ERROR 404 resource not found /static/chart-5103.js
+2026-10-30 16:11:10 [INFO] web-02 GET /dashboard 200 OK 376ms
+2026-10-30 16:11:22 [ERROR] web-01 GET /api/sensors/TRAM066 404 Not Found
+2026-10-30 16:11:38 [INFO] web-01 Cache refreshed
+2026-10-30 16:12:15 [INFO] web-01 Backup job started
+2026-10-30 16:12:36 [INFO] db-01 GET /api/sensors/TRAM003 200 OK 434ms
+2026-10-30 16:13:03 [INFO] web-02 Backup job started
+2026-10-30 16:13:43 [INFO] web-01 Cache refreshed
+2026-10-30 16:14:06 [INFO] db-01 Sensor TRAM085 heartbeat received
+2026-10-30 16:14:21 [INFO] db-01 POST /api/readings 201 Created 648ms
+2026-10-30 16:14:53 [INFO] web-02 GET /api/sensors/TRAM050 200 OK 640ms
+2026-10-30 16:15:02 [INFO] db-01 Backup job started
+2026-10-30 16:15:20 [ERROR] web-02 ERROR 404 resource not found /static/chart-3699.js
+2026-10-30 16:15:56 [WARN] api-01 Disk usage at 82 percent on /data
+2026-10-30 16:16:12 [ERROR] api-01 Connection TIMEOUT to TRAM080 after 30s
+2026-10-30 16:16:46 [ERROR] db-01 Database query TIMEOUT after 30s
+2026-10-30 16:17:08 [INFO] db-01 GET /api/sensors/TRAM034 200 OK 327ms
+2026-10-30 16:17:21 [ERROR] web-01 GET /api/sensors/TRAM069 404 Not Found
+2026-10-30 16:17:46 [INFO] api-01 Sensor TRAM092 heartbeat received
+2026-10-30 16:18:06 [INFO] web-01 User login success uid=3365
+2026-10-30 16:18:29 [ERROR] web-02 GET /api/reports/7035 404 Not Found
+2026-10-30 16:18:50 [ERROR] db-01 Database query TIMEOUT after 30s
+2026-10-30 16:19:23 [INFO] api-01 GET /api/sensors/TRAM011 200 OK 464ms
+2026-10-30 16:19:37 [INFO] db-01 Sensor TRAM053 heartbeat received
+2026-10-30 16:19:59 [INFO] api-01 User login success uid=6557
+2026-10-30 16:20:39 [INFO] web-02 Sensor TRAM007 heartbeat received
+2026-10-30 16:20:53 [INFO] web-02 Sensor TRAM063 heartbeat received
+2026-10-30 16:21:15 [INFO] db-01 POST /api/readings 201 Created 545ms
+2026-10-30 16:21:34 [INFO] web-02 User login success uid=7159
+2026-10-30 16:21:40 [INFO] api-01 Sensor TRAM012 heartbeat received
+2026-10-30 16:22:10 [INFO] db-01 User login success uid=8325
+2026-10-30 16:22:48 [INFO] api-01 User login success uid=5808
+2026-10-30 16:23:02 [INFO] db-01 Cache refreshed
+2026-10-30 16:23:08 [INFO] db-01 User login success uid=7196
+2026-10-30 16:23:35 [INFO] web-02 User login success uid=9735
+2026-10-30 16:24:03 [INFO] web-01 POST /api/readings 201 Created 257ms
+2026-10-30 16:24:26 [INFO] api-01 GET /dashboard 200 OK 513ms
+2026-10-30 16:24:42 [INFO] web-02 User login success uid=6837
+2026-10-30 16:25:01 [INFO] api-01 GET /dashboard 200 OK 409ms
+2026-10-30 16:25:32 [WARN] web-01 Disk usage at 82 percent on /data
+2026-10-30 16:26:09 [WARN] api-01 Retry connecting to TRAM044 attempt 2
+2026-10-30 16:26:15 [INFO] web-01 Cache refreshed
+2026-10-30 16:26:46 [INFO] api-01 Backup job started
+2026-10-30 16:27:23 [INFO] web-01 Backup job started
+2026-10-30 16:27:45 [INFO] web-02 Cache refreshed
+2026-10-30 16:28:01 [INFO] api-01 Cache refreshed
+2026-10-30 16:28:12 [WARN] web-01 Slow response from TRAM049 151ms
+2026-10-30 16:28:34 [INFO] web-02 User login success uid=2407
+2026-10-30 16:28:41 [INFO] db-01 User login success uid=3022
+2026-10-30 16:29:14 [INFO] db-01 GET /dashboard 200 OK 278ms
+2026-10-30 16:29:23 [INFO] web-02 GET /api/sensors/TRAM024 200 OK 226ms
+2026-10-30 16:30:02 [INFO] api-01 GET /api/sensors/TRAM050 200 OK 797ms
+2026-10-30 16:30:21 [INFO] api-01 Cache refreshed
+2026-10-30 16:31:01 [ERROR] api-01 GET /api/reports/2269 404 Not Found
+2026-10-30 16:31:38 [INFO] api-01 Backup job started
+2026-10-30 16:32:13 [INFO] db-01 Sensor TRAM054 heartbeat received
+2026-10-30 16:32:27 [INFO] api-01 GET /dashboard 200 OK 524ms
+2026-10-30 16:32:32 [INFO] api-01 Cache refreshed
+2026-10-30 16:33:01 [INFO] web-02 POST /api/readings 201 Created 113ms
+2026-10-30 16:33:10 [WARN] web-01 Slow response from TRAM053 421ms
+2026-10-30 16:33:42 [WARN] api-01 Slow response from TRAM042 395ms
+2026-10-30 16:33:55 [INFO] web-02 Cache refreshed
+2026-10-30 16:34:00 [WARN] web-01 Slow response from TRAM085 830ms
+2026-10-30 16:34:21 [ERROR] api-01 Connection TIMEOUT to TRAM015 after 30s
+2026-10-30 16:34:46 [INFO] api-01 GET /api/sensors/TRAM016 200 OK 670ms
+2026-10-30 16:35:06 [INFO] api-01 POST /api/readings 201 Created 701ms
+2026-10-30 16:35:34 [INFO] web-01 GET /api/sensors/TRAM065 200 OK 897ms
+2026-10-30 16:35:45 [INFO] web-01 Backup job started
+2026-10-30 16:35:50 [WARN] web-01 Retry connecting to TRAM074 attempt 2
+2026-10-30 16:36:14 [WARN] db-01 Disk usage at 82 percent on /data
+2026-10-30 16:36:45 [WARN] web-01 Disk usage at 82 percent on /data
+2026-10-30 16:37:12 [ERROR] db-01 ERROR 404 resource not found /static/chart-4652.js
+2026-10-30 16:37:39 [INFO] web-01 User login success uid=6217
+2026-10-30 16:38:02 [INFO] db-01 POST /api/readings 201 Created 283ms
+2026-10-30 16:38:08 [WARN] web-02 Disk usage at 82 percent on /data
+2026-10-30 16:38:23 [INFO] api-01 Backup job started
+2026-10-30 16:38:49 [INFO] api-01 Backup job started
+2026-10-30 16:39:23 [ERROR] db-01 ERROR 404 resource not found /static/chart-2418.js
+2026-10-30 16:39:49 [ERROR] api-01 GET /api/reports/4805 404 Not Found
+2026-10-30 16:39:57 [INFO] db-01 Sensor TRAM007 heartbeat received
+2026-10-30 16:40:08 [WARN] api-01 Slow response from TRAM075 679ms
+2026-10-30 16:40:24 [INFO] web-01 User login success uid=6423
+2026-10-30 16:40:58 [INFO] api-01 Cache refreshed
+2026-10-30 16:41:09 [INFO] web-02 User login success uid=1191
+2026-10-30 16:41:17 [WARN] web-01 Retry connecting to TRAM025 attempt 2
+2026-10-30 16:41:33 [WARN] web-02 Retry connecting to TRAM006 attempt 2
+2026-10-30 16:41:44 [WARN] web-01 Disk usage at 82 percent on /data
+2026-10-30 16:42:12 [INFO] api-01 User login success uid=8203
+2026-10-30 16:42:24 [INFO] db-01 Backup job started
+2026-10-30 16:42:53 [INFO] api-01 User login success uid=7381
+2026-10-30 16:43:02 [INFO] api-01 Sensor TRAM015 heartbeat received
+2026-10-30 16:43:07 [INFO] db-01 Cache refreshed
+2026-10-30 16:43:21 [INFO] api-01 Sensor TRAM054 heartbeat received
+2026-10-30 16:43:44 [INFO] web-02 GET /api/sensors/TRAM040 200 OK 859ms
+2026-10-30 16:43:51 [INFO] web-02 Cache refreshed
+2026-10-30 16:44:14 [INFO] web-01 User login success uid=3143
+2026-10-30 16:44:50 [INFO] db-01 Sensor TRAM056 heartbeat received
+2026-10-30 16:45:17 [INFO] api-01 Cache refreshed
+2026-10-30 16:45:56 [INFO] db-01 Sensor TRAM050 heartbeat received
+2026-10-30 16:46:02 [INFO] api-01 POST /api/readings 201 Created 702ms
+2026-10-30 16:46:31 [INFO] web-01 POST /api/readings 201 Created 35ms
+2026-10-30 16:46:51 [INFO] web-02 GET /dashboard 200 OK 648ms
+2026-10-30 16:47:09 [WARN] web-02 Slow response from TRAM057 806ms
+2026-10-30 16:47:19 [INFO] web-01 Sensor TRAM035 heartbeat received
+2026-10-30 16:47:39 [WARN] api-01 Disk usage at 82 percent on /data
+2026-10-30 16:47:50 [INFO] api-01 User login success uid=7176
+2026-10-30 16:48:18 [INFO] web-01 GET /dashboard 200 OK 45ms
+2026-10-30 16:48:41 [CRITICAL] api-01 Sensor gateway unreachable, 12 stations offline
+2026-10-30 16:49:16 [INFO] web-02 POST /api/readings 201 Created 620ms
+2026-10-30 16:49:27 [INFO] api-01 Cache refreshed
+2026-10-30 16:49:51 [INFO] web-02 GET /api/sensors/TRAM029 200 OK 870ms
+2026-10-30 16:50:26 [INFO] api-01 POST /api/readings 201 Created 315ms
+2026-10-30 16:50:47 [INFO] web-02 GET /dashboard 200 OK 11ms
+2026-10-30 16:50:53 [INFO] db-01 User login success uid=6000
+2026-10-30 16:51:11 [WARN] api-01 Disk usage at 82 percent on /data
+2026-10-30 16:51:37 [ERROR] web-02 GET /api/sensors/TRAM019 404 Not Found
+2026-10-30 16:52:08 [INFO] api-01 GET /dashboard 200 OK 499ms
+2026-10-30 16:52:31 [INFO] db-01 POST /api/readings 201 Created 438ms
+2026-10-30 16:53:05 [INFO] db-01 GET /api/sensors/TRAM046 200 OK 453ms
+2026-10-30 16:53:11 [ERROR] web-01 GET /api/reports/7290 404 Not Found
+2026-10-30 16:53:30 [WARN] web-01 Disk usage at 82 percent on /data
+2026-10-30 16:53:58 [INFO] web-01 GET /dashboard 200 OK 345ms
+2026-10-30 16:54:05 [INFO] web-02 GET /api/sensors/TRAM021 200 OK 81ms
+2026-10-30 16:54:17 [INFO] db-01 GET /api/sensors/TRAM085 200 OK 757ms
+2026-10-30 16:54:51 [INFO] db-01 POST /api/readings 201 Created 463ms
+2026-10-30 16:55:06 [INFO] web-01 Sensor TRAM084 heartbeat received
+2026-10-30 16:55:15 [INFO] api-01 User login success uid=1790
+2026-10-30 16:55:21 [INFO] web-02 GET /dashboard 200 OK 681ms
+2026-10-30 16:55:50 [INFO] db-01 POST /api/readings 201 Created 164ms
+2026-10-30 16:56:01 [INFO] db-01 User login success uid=9117
+2026-10-30 16:56:07 [INFO] web-02 Sensor TRAM080 heartbeat received
+2026-10-30 16:56:29 [WARN] api-01 Slow response from TRAM071 267ms
+2026-10-30 16:56:47 [INFO] web-01 Backup job started
+2026-10-30 16:57:09 [ERROR] db-01 GET /api/sensors/TRAM051 404 Not Found
+2026-10-30 16:57:33 [INFO] web-01 GET /dashboard 200 OK 589ms
+2026-10-30 16:57:57 [ERROR] api-01 GET /api/sensors/TRAM026 404 Not Found
+2026-10-30 16:58:28 [INFO] web-02 Cache refreshed
+2026-10-30 16:59:03 [WARN] db-01 Retry connecting to TRAM082 attempt 2
+2026-10-30 16:59:17 [INFO] db-01 GET /dashboard 200 OK 871ms
+2026-10-30 16:59:28 [INFO] db-01 GET /api/sensors/TRAM005 200 OK 234ms
+2026-10-30 16:59:41 [INFO] web-01 GET /dashboard 200 OK 254ms
+2026-10-30 17:00:10 [INFO] web-01 Cache refreshed
+2026-10-30 17:00:48 [INFO] web-01 GET /dashboard 200 OK 689ms
+2026-10-30 17:00:57 [INFO] web-02 User login success uid=6721
+2026-10-30 17:01:27 [INFO] api-01 GET /api/sensors/TRAM077 200 OK 96ms
+2026-10-30 17:01:53 [CRITICAL] web-02 Disk full on /data, write failed
+2026-10-30 17:01:59 [INFO] web-02 GET /dashboard 200 OK 277ms
+2026-10-30 17:02:34 [WARN] api-01 Disk usage at 82 percent on /data
+2026-10-30 17:03:00 [INFO] api-01 Cache refreshed
+2026-10-30 17:03:11 [WARN] db-01 Retry connecting to TRAM035 attempt 2
+2026-10-30 17:03:48 [INFO] web-01 Sensor TRAM089 heartbeat received
+2026-10-30 17:04:03 [INFO] web-01 GET /dashboard 200 OK 670ms
+2026-10-30 17:04:22 [INFO] web-01 Cache refreshed
+2026-10-30 17:04:44 [INFO] web-01 POST /api/readings 201 Created 288ms
+2026-10-30 17:05:01 [INFO] db-01 Cache refreshed
+2026-10-30 17:05:12 [INFO] web-02 POST /api/readings 201 Created 310ms
+2026-10-30 17:05:28 [INFO] api-01 GET /api/sensors/TRAM027 200 OK 772ms
+2026-10-30 17:05:44 [INFO] web-02 GET /dashboard 200 OK 603ms
+2026-10-30 17:06:20 [INFO] web-02 Backup job started
+2026-10-30 17:06:55 [INFO] db-01 POST /api/readings 201 Created 403ms
+2026-10-30 17:07:21 [INFO] web-02 Cache refreshed
+2026-10-30 17:07:57 [INFO] api-01 User login success uid=5961
+2026-10-30 17:08:31 [ERROR] db-01 GET /api/sensors/TRAM048 404 Not Found
+2026-10-30 17:08:39 [INFO] web-01 Cache refreshed
+2026-10-30 17:09:09 [INFO] db-01 Cache refreshed
+2026-10-30 17:09:26 [INFO] web-02 Sensor TRAM012 heartbeat received
+2026-10-30 17:09:39 [INFO] web-01 Backup job started
+2026-10-30 17:10:05 [INFO] db-01 Cache refreshed
+2026-10-30 17:10:23 [INFO] web-01 User login success uid=1223
+2026-10-30 17:10:31 [INFO] api-01 GET /dashboard 200 OK 377ms
+2026-10-30 17:11:10 [INFO] web-01 User login success uid=6481
+2026-10-30 17:11:33 [INFO] api-01 Cache refreshed
+2026-10-30 17:12:01 [WARN] api-01 Retry connecting to TRAM017 attempt 2
+2026-10-30 17:12:19 [INFO] api-01 POST /api/readings 201 Created 208ms
+2026-10-30 17:12:36 [INFO] db-01 GET /api/sensors/TRAM065 200 OK 380ms
+2026-10-30 17:13:05 [INFO] web-02 POST /api/readings 201 Created 885ms
+2026-10-30 17:13:20 [INFO] db-01 Cache refreshed
+2026-10-30 17:13:36 [INFO] db-01 Sensor TRAM083 heartbeat received
+2026-10-30 17:14:00 [INFO] api-01 Cache refreshed
+2026-10-30 17:14:07 [INFO] web-02 Backup job started
+2026-10-30 17:14:43 [INFO] db-01 Backup job started
+2026-10-30 17:14:56 [INFO] web-01 GET /api/sensors/TRAM004 200 OK 150ms
+2026-10-30 17:15:12 [INFO] web-02 POST /api/readings 201 Created 438ms
+2026-10-30 17:15:23 [INFO] db-01 Sensor TRAM073 heartbeat received
+2026-10-30 17:15:29 [ERROR] api-01 Database query TIMEOUT after 30s
+2026-10-30 17:15:34 [INFO] api-01 Sensor TRAM043 heartbeat received
+2026-10-30 17:15:43 [INFO] web-02 Backup job started
+2026-10-30 17:15:49 [INFO] db-01 GET /api/sensors/TRAM016 200 OK 742ms
+2026-10-30 17:16:17 [INFO] web-01 Backup job started
+2026-10-30 17:16:39 [INFO] db-01 Cache refreshed
+2026-10-30 17:17:18 [INFO] web-01 GET /api/sensors/TRAM006 200 OK 358ms
+2026-10-30 17:17:28 [INFO] web-01 Sensor TRAM075 heartbeat received
+2026-10-30 17:17:39 [INFO] api-01 Sensor TRAM093 heartbeat received
+2026-10-30 17:17:49 [INFO] db-01 Sensor TRAM023 heartbeat received
+2026-10-30 17:18:12 [INFO] db-01 User login success uid=3792
+2026-10-30 17:18:48 [INFO] web-01 User login success uid=8745
+2026-10-30 17:19:14 [INFO] api-01 Backup job started
+2026-10-30 17:19:33 [INFO] web-01 Backup job started
+2026-10-30 17:19:41 [ERROR] web-02 ERROR 404 resource not found /static/chart-8707.js
+2026-10-30 17:20:00 [ERROR] db-01 Connection TIMEOUT to TRAM036 after 30s
+2026-10-30 17:20:32 [INFO] web-02 GET /api/sensors/TRAM073 200 OK 694ms
+2026-10-30 17:21:00 [INFO] db-01 Cache refreshed
+2026-10-30 17:21:05 [ERROR] api-01 Connection TIMEOUT to TRAM007 after 30s
+2026-10-30 17:21:10 [INFO] web-02 Backup job started
+2026-10-30 17:21:39 [INFO] api-01 Sensor TRAM021 heartbeat received
+2026-10-30 17:21:44 [INFO] web-02 Cache refreshed
+2026-10-30 17:21:55 [WARN] web-02 Disk usage at 82 percent on /data
+2026-10-30 17:22:08 [INFO] api-01 GET /dashboard 200 OK 744ms
+2026-10-30 17:22:42 [INFO] api-01 Sensor TRAM078 heartbeat received
+2026-10-30 17:22:53 [INFO] web-01 Sensor TRAM067 heartbeat received
+2026-10-30 17:23:01 [INFO] api-01 Cache refreshed
+2026-10-30 17:23:25 [ERROR] web-01 Database query TIMEOUT after 30s
+2026-10-30 17:23:40 [INFO] web-02 Backup job started
+2026-10-30 17:24:00 [INFO] web-02 User login success uid=7863
+2026-10-30 17:24:23 [WARN] db-01 Retry connecting to TRAM059 attempt 2
+2026-10-30 17:24:40 [INFO] api-01 Sensor TRAM015 heartbeat received
+2026-10-30 17:25:08 [INFO] web-02 POST /api/readings 201 Created 402ms
+2026-10-30 17:25:36 [WARN] db-01 Retry connecting to TRAM054 attempt 2
+2026-10-30 17:25:41 [INFO] web-01 POST /api/readings 201 Created 604ms
+2026-10-30 17:25:50 [INFO] web-02 Cache refreshed
+2026-10-30 17:26:15 [INFO] web-02 POST /api/readings 201 Created 181ms
+2026-10-30 17:26:43 [CRITICAL] db-01 Sensor gateway unreachable, 12 stations offline
+2026-10-30 17:27:23 [INFO] web-02 Backup job started
+2026-10-30 17:27:54 [WARN] web-02 Retry connecting to TRAM019 attempt 2
+2026-10-30 17:28:19 [INFO] web-01 Cache refreshed
+2026-10-30 17:28:54 [INFO] web-02 GET /dashboard 200 OK 21ms
+2026-10-30 17:29:21 [INFO] web-01 Sensor TRAM038 heartbeat received
+2026-10-30 17:29:44 [INFO] web-02 Sensor TRAM058 heartbeat received
+2026-10-30 17:29:56 [INFO] db-01 User login success uid=6091
+2026-10-30 17:30:11 [INFO] db-01 GET /dashboard 200 OK 211ms
+2026-10-30 17:30:18 [INFO] api-01 Sensor TRAM072 heartbeat received
+2026-10-30 17:30:30 [INFO] db-01 GET /dashboard 200 OK 873ms
+2026-10-30 17:31:04 [ERROR] web-02 Connection TIMEOUT to TRAM094 after 30s
+2026-10-30 17:31:15 [INFO] db-01 POST /api/readings 201 Created 135ms
+2026-10-30 17:31:35 [WARN] api-01 Slow response from TRAM069 218ms
+2026-10-30 17:31:40 [INFO] api-01 Backup job started
+2026-10-30 17:31:50 [WARN] web-01 Slow response from TRAM002 304ms
+2026-10-30 17:32:09 [INFO] api-01 Cache refreshed
+2026-10-30 17:32:14 [INFO] web-01 POST /api/readings 201 Created 764ms
+2026-10-30 17:32:41 [ERROR] api-01 GET /api/reports/9362 404 Not Found
+2026-10-30 17:33:08 [INFO] api-01 GET /dashboard 200 OK 329ms
+2026-10-30 17:33:38 [INFO] api-01 User login success uid=7323
+2026-10-30 17:34:12 [INFO] web-02 POST /api/readings 201 Created 631ms
+2026-10-30 17:34:42 [INFO] api-01 User login success uid=8599
+2026-10-30 17:35:22 [INFO] web-01 Cache refreshed
+2026-10-30 17:35:36 [INFO] web-01 POST /api/readings 201 Created 145ms
+2026-10-30 17:35:54 [INFO] web-01 GET /dashboard 200 OK 284ms
+2026-10-30 17:35:59 [INFO] db-01 POST /api/readings 201 Created 791ms
+2026-10-30 17:36:05 [INFO] db-01 Cache refreshed
+2026-10-30 17:36:35 [INFO] web-01 Backup job started
+2026-10-30 17:37:04 [INFO] web-02 Backup job started
+2026-10-30 17:37:37 [ERROR] api-01 Database query TIMEOUT after 30s
+2026-10-30 17:38:16 [INFO] web-01 Backup job started
+2026-10-30 17:38:34 [INFO] api-01 Cache refreshed
+2026-10-30 17:39:06 [ERROR] web-02 GET /api/reports/6975 404 Not Found
+2026-10-30 17:39:14 [INFO] web-01 Cache refreshed
+2026-10-30 17:39:32 [INFO] db-01 User login success uid=9166
+2026-10-30 17:40:08 [INFO] web-02 Cache refreshed
+2026-10-30 17:40:37 [INFO] web-01 GET /dashboard 200 OK 738ms
+2026-10-30 17:41:10 [INFO] web-02 POST /api/readings 201 Created 677ms
+2026-10-30 17:41:40 [INFO] db-01 GET /dashboard 200 OK 411ms
+2026-10-30 17:41:49 [INFO] api-01 Backup job started
+2026-10-30 17:42:04 [INFO] db-01 POST /api/readings 201 Created 663ms
+2026-10-30 17:42:41 [ERROR] api-01 Connection TIMEOUT to TRAM081 after 30s
+2026-10-30 17:43:00 [INFO] web-02 Backup job started
+2026-10-30 17:43:19 [INFO] api-01 Sensor TRAM001 heartbeat received
+2026-10-30 17:43:47 [INFO] api-01 Sensor TRAM011 heartbeat received
+2026-10-30 17:44:21 [INFO] api-01 POST /api/readings 201 Created 360ms
+2026-10-30 17:44:36 [INFO] web-01 POST /api/readings 201 Created 464ms
+2026-10-30 17:45:13 [INFO] web-01 Cache refreshed
+2026-10-30 17:45:28 [ERROR] web-01 Database query TIMEOUT after 30s
+2026-10-30 17:45:53 [WARN] db-01 Disk usage at 82 percent on /data
+2026-10-30 17:46:29 [INFO] web-02 POST /api/readings 201 Created 53ms
+2026-10-30 17:46:50 [INFO] db-01 User login success uid=5375
+2026-10-30 17:47:24 [INFO] web-02 Sensor TRAM032 heartbeat received
+2026-10-30 17:47:35 [INFO] web-02 Backup job started
+2026-10-30 17:47:58 [INFO] web-01 Cache refreshed
+2026-10-30 17:48:09 [INFO] db-01 Backup job started
+2026-10-30 17:48:34 [INFO] api-01 GET /dashboard 200 OK 237ms
+2026-10-30 17:48:57 [INFO] api-01 User login success uid=9770
+2026-10-30 17:49:11 [INFO] db-01 Backup job started
+2026-10-30 17:49:44 [INFO] api-01 GET /dashboard 200 OK 425ms
+2026-10-30 17:50:22 [WARN] web-01 Disk usage at 82 percent on /data
+2026-10-30 17:50:56 [INFO] api-01 GET /dashboard 200 OK 249ms
+2026-10-30 17:51:20 [INFO] web-01 Backup job started
+2026-10-30 17:51:45 [INFO] web-02 Backup job started
+2026-10-30 17:52:24 [INFO] web-02 User login success uid=9175
+2026-10-30 17:53:01 [INFO] web-02 User login success uid=3213
+2026-10-30 17:53:22 [INFO] api-01 Cache refreshed
+2026-10-30 17:53:28 [INFO] api-01 Sensor TRAM072 heartbeat received
+2026-10-30 17:53:50 [INFO] api-01 Backup job started
+2026-10-30 17:54:08 [INFO] web-02 POST /api/readings 201 Created 834ms
+2026-10-30 17:54:34 [INFO] web-02 Sensor TRAM015 heartbeat received
+2026-10-30 17:55:09 [INFO] db-01 GET /api/sensors/TRAM038 200 OK 254ms
+2026-10-30 17:55:44 [INFO] api-01 POST /api/readings 201 Created 593ms
+2026-10-30 17:55:56 [INFO] api-01 Sensor TRAM035 heartbeat received
+2026-10-30 17:56:23 [INFO] api-01 User login success uid=6901
+2026-10-30 17:56:46 [INFO] api-01 POST /api/readings 201 Created 761ms
+2026-10-30 17:57:14 [INFO] db-01 Backup job started
+2026-10-30 17:57:46 [INFO] api-01 Backup job started
+2026-10-30 17:58:03 [INFO] web-01 User login success uid=6166
+2026-10-30 17:58:23 [INFO] api-01 User login success uid=5692
+2026-10-30 17:58:34 [INFO] api-01 GET /dashboard 200 OK 304ms
+2026-10-30 17:58:48 [INFO] web-02 Backup job started
+2026-10-30 17:59:28 [INFO] api-01 Cache refreshed
+2026-10-30 17:59:38 [INFO] web-02 User login success uid=1632
+2026-10-30 17:59:44 [ERROR] web-01 Database query TIMEOUT after 30s
+2026-10-30 17:59:55 [INFO] api-01 GET /dashboard 200 OK 654ms
+2026-10-30 18:00:28 [WARN] db-01 Disk usage at 82 percent on /data
+2026-10-30 18:00:44 [INFO] db-01 GET /api/sensors/TRAM054 200 OK 745ms
+2026-10-30 18:01:00 [INFO] web-02 User login success uid=6868
+2026-10-30 18:01:28 [INFO] web-01 Cache refreshed
+2026-10-30 18:02:02 [INFO] web-02 Sensor TRAM019 heartbeat received
+2026-10-30 18:02:35 [INFO] api-01 POST /api/readings 201 Created 580ms
+2026-10-30 18:02:52 [INFO] web-01 GET /dashboard 200 OK 480ms
+2026-10-30 18:03:15 [INFO] db-01 GET /dashboard 200 OK 609ms
+2026-10-30 18:03:50 [WARN] web-02 Slow response from TRAM058 435ms
+2026-10-30 18:04:20 [ERROR] api-01 GET /api/sensors/TRAM058 404 Not Found
+2026-10-30 18:04:33 [WARN] api-01 Slow response from TRAM095 818ms
+2026-10-30 18:04:54 [INFO] web-01 GET /dashboard 200 OK 146ms
+2026-10-30 18:05:18 [INFO] web-02 GET /api/sensors/TRAM008 200 OK 681ms
+2026-10-30 18:05:49 [INFO] api-01 Cache refreshed
+2026-10-30 18:06:14 [INFO] web-01 GET /api/sensors/TRAM056 200 OK 281ms
+2026-10-30 18:06:41 [INFO] api-01 GET /api/sensors/TRAM077 200 OK 451ms
+2026-10-30 18:07:04 [INFO] api-01 User login success uid=6538
+2026-10-30 18:07:22 [CRITICAL] api-01 Disk full on /data, write failed
+2026-10-30 18:07:28 [ERROR] db-01 ERROR 404 resource not found /static/chart-7539.js
+2026-10-30 18:07:49 [INFO] db-01 Cache refreshed
+2026-10-30 18:08:01 [ERROR] api-01 Connection TIMEOUT to TRAM076 after 30s
+2026-10-30 18:08:22 [INFO] web-01 Cache refreshed
+2026-10-30 18:09:01 [INFO] web-01 Backup job started
+2026-10-30 18:09:27 [INFO] web-02 GET /api/sensors/TRAM009 200 OK 802ms
+2026-10-30 18:09:34 [WARN] web-01 Disk usage at 82 percent on /data
+2026-10-30 18:09:59 [INFO] db-01 GET /api/sensors/TRAM026 200 OK 813ms
+2026-10-30 18:10:04 [INFO] web-02 GET /dashboard 200 OK 739ms
+2026-10-30 18:10:35 [INFO] db-01 GET /api/sensors/TRAM050 200 OK 105ms
+2026-10-30 18:10:41 [ERROR] db-01 Database query TIMEOUT after 30s
+2026-10-30 18:10:52 [INFO] api-01 GET /api/sensors/TRAM016 200 OK 849ms
+2026-10-30 18:11:00 [INFO] web-01 User login success uid=9250
+2026-10-30 18:11:12 [INFO] web-01 Backup job started
+2026-10-30 18:11:46 [INFO] api-01 Cache refreshed
+2026-10-30 18:12:04 [INFO] api-01 User login success uid=7357
+2026-10-30 18:12:27 [INFO] web-01 POST /api/readings 201 Created 24ms
+2026-10-30 18:12:47 [CRITICAL] web-01 Out of memory, service restarting
+2026-10-30 18:12:56 [INFO] web-02 Cache refreshed
+2026-10-30 18:13:25 [WARN] api-01 Retry connecting to TRAM070 attempt 2
+2026-10-30 18:13:48 [INFO] web-02 POST /api/readings 201 Created 214ms
+2026-10-30 18:14:16 [INFO] web-01 Sensor TRAM054 heartbeat received
+2026-10-30 18:14:54 [INFO] web-01 Cache refreshed
+2026-10-30 18:15:01 [INFO] web-02 Cache refreshed
+2026-10-30 18:15:15 [ERROR] db-01 ERROR 404 resource not found /static/chart-3847.js
+2026-10-30 18:15:30 [INFO] db-01 Cache refreshed
+2026-10-30 18:15:43 [INFO] db-01 Backup job started
+2026-10-30 18:15:58 [INFO] web-02 Cache refreshed
+2026-10-30 18:16:32 [INFO] db-01 Cache refreshed
+2026-10-30 18:16:54 [ERROR] db-01 Connection TIMEOUT to TRAM051 after 30s
+2026-10-30 18:17:02 [ERROR] web-02 ERROR 404 resource not found /static/chart-4787.js
+2026-10-30 18:17:21 [ERROR] web-02 Database query TIMEOUT after 30s
+2026-10-30 18:17:46 [INFO] web-02 POST /api/readings 201 Created 855ms
+2026-10-30 18:17:53 [INFO] api-01 Backup job started
+2026-10-30 18:18:14 [CRITICAL] web-02 Disk full on /data, write failed
+2026-10-30 18:18:49 [CRITICAL] web-01 Disk full on /data, write failed
+2026-10-30 18:19:16 [INFO] api-01 User login success uid=1230
+2026-10-30 18:19:49 [WARN] db-01 Retry connecting to TRAM042 attempt 2
+2026-10-30 18:20:21 [ERROR] db-01 GET /api/reports/2496 404 Not Found
+2026-10-30 18:20:30 [INFO] db-01 GET /dashboard 200 OK 674ms
+2026-10-30 18:21:10 [WARN] db-01 Disk usage at 82 percent on /data
+2026-10-30 18:21:23 [INFO] api-01 POST /api/readings 201 Created 214ms
+2026-10-30 18:21:29 [INFO] api-01 GET /api/sensors/TRAM072 200 OK 162ms
+2026-10-30 18:21:51 [WARN] db-01 Slow response from TRAM075 390ms
+2026-10-30 18:22:22 [INFO] api-01 GET /api/sensors/TRAM030 200 OK 827ms

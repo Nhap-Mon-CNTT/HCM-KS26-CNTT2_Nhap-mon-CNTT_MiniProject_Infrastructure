@@ -1,0 +1,332 @@
+Ngay gio: Fri 10/30/2026 13:03:32.71
+========================================
+2026-10-30 00:01:54 [ERROR] api-01 ERROR 404 resource not found /static/chart-5073.js
+2026-10-30 00:04:06 [ERROR] web-02 GET /api/reports/5187 404 Not Found
+2026-10-30 00:04:50 [ERROR] db-01 ERROR 404 resource not found /static/chart-5906.js
+2026-10-30 00:11:47 [ERROR] db-01 ERROR 404 resource not found /static/chart-1735.js
+2026-10-30 00:13:57 [ERROR] web-01 ERROR 404 resource not found /static/chart-9948.js
+2026-10-30 00:14:09 [ERROR] db-01 GET /api/sensors/TRAM056 404 Not Found
+2026-10-30 00:29:31 [ERROR] web-01 Connection TIMEOUT to TRAM011 after 30s
+2026-10-30 00:29:37 [ERROR] web-01 Database query TIMEOUT after 30s
+2026-10-30 00:30:49 [ERROR] api-01 Database query TIMEOUT after 30s
+2026-10-30 00:30:59 [ERROR] db-01 Connection TIMEOUT to TRAM071 after 30s
+2026-10-30 00:36:04 [ERROR] web-02 GET /api/sensors/TRAM094 404 Not Found
+2026-10-30 00:39:42 [ERROR] api-01 GET /api/sensors/TRAM090 404 Not Found
+2026-10-30 00:42:34 [ERROR] api-01 Connection TIMEOUT to TRAM071 after 30s
+2026-10-30 00:47:56 [ERROR] db-01 ERROR 404 resource not found /static/chart-7549.js
+2026-10-30 00:48:10 [CRITICAL] web-02 Database connection pool exhausted
+2026-10-30 00:50:52 [CRITICAL] db-01 Sensor gateway unreachable, 12 stations offline
+2026-10-30 00:53:10 [ERROR] web-02 GET /api/sensors/TRAM029 404 Not Found
+2026-10-30 00:53:20 [CRITICAL] web-02 Out of memory, service restarting
+2026-10-30 00:54:36 [ERROR] api-01 ERROR 404 resource not found /static/chart-6757.js
+2026-10-30 00:59:01 [CRITICAL] api-01 Disk full on /data, write failed
+2026-10-30 01:04:23 [ERROR] web-01 Database query TIMEOUT after 30s
+2026-10-30 01:08:41 [ERROR] api-01 GET /api/reports/8672 404 Not Found
+2026-10-30 01:13:54 [ERROR] db-01 Database query TIMEOUT after 30s
+2026-10-30 01:14:30 [ERROR] web-01 Connection TIMEOUT to TRAM087 after 30s
+2026-10-30 01:18:30 [ERROR] web-02 Connection TIMEOUT to TRAM097 after 30s
+2026-10-30 01:22:29 [ERROR] db-01 GET /api/reports/2061 404 Not Found
+2026-10-30 01:26:32 [CRITICAL] api-01 Sensor gateway unreachable, 12 stations offline
+2026-10-30 01:27:37 [ERROR] api-01 Connection TIMEOUT to TRAM100 after 30s
+2026-10-30 01:29:10 [ERROR] web-01 GET /api/reports/3264 404 Not Found
+2026-10-30 01:31:11 [ERROR] web-01 ERROR 404 resource not found /static/chart-3058.js
+2026-10-30 01:35:15 [ERROR] db-01 GET /api/reports/1952 404 Not Found
+2026-10-30 01:36:00 [ERROR] web-01 ERROR 404 resource not found /static/chart-1249.js
+2026-10-30 01:38:25 [ERROR] web-02 GET /api/reports/2515 404 Not Found
+2026-10-30 01:39:50 [ERROR] web-01 Database query TIMEOUT after 30s
+2026-10-30 01:45:59 [ERROR] db-01 Database query TIMEOUT after 30s
+2026-10-30 01:48:50 [CRITICAL] web-01 Database connection pool exhausted
+2026-10-30 01:51:57 [ERROR] db-01 GET /api/reports/5537 404 Not Found
+2026-10-30 01:54:49 [ERROR] db-01 GET /api/reports/2742 404 Not Found
+2026-10-30 01:58:04 [CRITICAL] api-01 Out of memory, service restarting
+2026-10-30 02:02:10 [ERROR] web-02 ERROR 404 resource not found /static/chart-7740.js
+2026-10-30 02:04:58 [ERROR] web-01 GET /api/sensors/TRAM053 404 Not Found
+2026-10-30 02:07:56 [ERROR] db-01 GET /api/sensors/TRAM039 404 Not Found
+2026-10-30 02:08:18 [ERROR] web-01 Connection TIMEOUT to TRAM100 after 30s
+2026-10-30 02:08:49 [ERROR] db-01 ERROR 404 resource not found /static/chart-5133.js
+2026-10-30 02:18:10 [ERROR] web-01 ERROR 404 resource not found /static/chart-1172.js
+2026-10-30 02:19:24 [ERROR] api-01 Connection TIMEOUT to TRAM052 after 30s
+2026-10-30 02:19:34 [ERROR] db-01 Connection TIMEOUT to TRAM006 after 30s
+2026-10-30 02:20:38 [ERROR] db-01 Connection TIMEOUT to TRAM065 after 30s
+2026-10-30 02:24:21 [ERROR] api-01 GET /api/sensors/TRAM066 404 Not Found
+2026-10-30 02:27:52 [CRITICAL] web-01 Sensor gateway unreachable, 12 stations offline
+2026-10-30 02:32:51 [ERROR] db-01 Connection TIMEOUT to TRAM013 after 30s
+2026-10-30 02:33:30 [ERROR] db-01 ERROR 404 resource not found /static/chart-7932.js
+2026-10-30 02:40:32 [ERROR] web-02 GET /api/sensors/TRAM073 404 Not Found
+2026-10-30 02:42:23 [CRITICAL] web-01 Database connection pool exhausted
+2026-10-30 02:43:52 [ERROR] web-01 Connection TIMEOUT to TRAM071 after 30s
+2026-10-30 02:50:32 [CRITICAL] web-01 Sensor gateway unreachable, 12 stations offline
+2026-10-30 02:52:37 [ERROR] api-01 GET /api/sensors/TRAM038 404 Not Found
+2026-10-30 02:55:39 [ERROR] web-01 ERROR 404 resource not found /static/chart-1324.js
+2026-10-30 02:57:40 [ERROR] api-01 GET /api/sensors/TRAM088 404 Not Found
+2026-10-30 03:04:16 [ERROR] db-01 Connection TIMEOUT to TRAM020 after 30s
+2026-10-30 03:08:31 [CRITICAL] api-01 Sensor gateway unreachable, 12 stations offline
+2026-10-30 03:13:39 [ERROR] db-01 Connection TIMEOUT to TRAM066 after 30s
+2026-10-30 03:32:36 [ERROR] db-01 GET /api/reports/6889 404 Not Found
+2026-10-30 03:38:22 [ERROR] db-01 Connection TIMEOUT to TRAM100 after 30s
+2026-10-30 03:42:55 [ERROR] api-01 GET /api/sensors/TRAM057 404 Not Found
+2026-10-30 03:53:38 [ERROR] db-01 GET /api/sensors/TRAM074 404 Not Found
+2026-10-30 03:55:56 [ERROR] web-01 Database query TIMEOUT after 30s
+2026-10-30 03:58:15 [ERROR] web-01 GET /api/reports/9970 404 Not Found
+2026-10-30 04:03:57 [ERROR] db-01 GET /api/reports/7579 404 Not Found
+2026-10-30 04:04:16 [ERROR] web-01 Database query TIMEOUT after 30s
+2026-10-30 04:10:49 [ERROR] web-02 Connection TIMEOUT to TRAM027 after 30s
+2026-10-30 04:15:11 [ERROR] db-01 ERROR 404 resource not found /static/chart-2534.js
+2026-10-30 04:15:44 [ERROR] web-02 Connection TIMEOUT to TRAM053 after 30s
+2026-10-30 04:16:01 [ERROR] db-01 GET /api/sensors/TRAM069 404 Not Found
+2026-10-30 04:17:40 [ERROR] db-01 GET /api/reports/8856 404 Not Found
+2026-10-30 04:18:35 [ERROR] web-01 Database query TIMEOUT after 30s
+2026-10-30 04:27:26 [CRITICAL] web-01 Database connection pool exhausted
+2026-10-30 04:30:14 [ERROR] web-01 GET /api/reports/1929 404 Not Found
+2026-10-30 04:34:44 [ERROR] api-01 ERROR 404 resource not found /static/chart-4246.js
+2026-10-30 04:35:43 [ERROR] web-02 GET /api/reports/9746 404 Not Found
+2026-10-30 04:37:37 [ERROR] web-01 Database query TIMEOUT after 30s
+2026-10-30 04:39:06 [ERROR] web-02 Database query TIMEOUT after 30s
+2026-10-30 04:40:36 [CRITICAL] api-01 Disk full on /data, write failed
+2026-10-30 04:41:14 [ERROR] web-01 Connection TIMEOUT to TRAM058 after 30s
+2026-10-30 04:49:46 [ERROR] web-02 Connection TIMEOUT to TRAM059 after 30s
+2026-10-30 04:51:38 [CRITICAL] api-01 Database connection pool exhausted
+2026-10-30 04:59:20 [CRITICAL] db-01 Out of memory, service restarting
+2026-10-30 05:00:41 [ERROR] db-01 Database query TIMEOUT after 30s
+2026-10-30 05:02:45 [ERROR] web-01 Connection TIMEOUT to TRAM012 after 30s
+2026-10-30 05:06:28 [ERROR] web-02 GET /api/sensors/TRAM093 404 Not Found
+2026-10-30 05:09:30 [ERROR] web-01 Database query TIMEOUT after 30s
+2026-10-30 05:10:54 [ERROR] db-01 Database query TIMEOUT after 30s
+2026-10-30 05:16:44 [ERROR] web-02 Connection TIMEOUT to TRAM049 after 30s
+2026-10-30 05:20:08 [ERROR] web-02 GET /api/reports/5339 404 Not Found
+2026-10-30 05:28:17 [ERROR] db-01 GET /api/reports/9317 404 Not Found
+2026-10-30 05:29:04 [ERROR] web-01 GET /api/sensors/TRAM010 404 Not Found
+2026-10-30 05:32:36 [ERROR] web-01 Database query TIMEOUT after 30s
+2026-10-30 05:34:13 [ERROR] api-01 GET /api/reports/4680 404 Not Found
+2026-10-30 05:35:41 [CRITICAL] web-01 Sensor gateway unreachable, 12 stations offline
+2026-10-30 05:37:07 [ERROR] api-01 GET /api/sensors/TRAM079 404 Not Found
+2026-10-30 05:44:25 [ERROR] web-01 Connection TIMEOUT to TRAM027 after 30s
+2026-10-30 05:48:19 [ERROR] web-02 GET /api/reports/2554 404 Not Found
+2026-10-30 05:52:22 [ERROR] db-01 GET /api/reports/4508 404 Not Found
+2026-10-30 05:56:59 [ERROR] db-01 Database query TIMEOUT after 30s
+2026-10-30 05:57:13 [ERROR] db-01 GET /api/reports/7032 404 Not Found
+2026-10-30 06:04:26 [ERROR] web-02 GET /api/reports/7500 404 Not Found
+2026-10-30 06:11:01 [ERROR] api-01 ERROR 404 resource not found /static/chart-6746.js
+2026-10-30 06:12:25 [ERROR] db-01 Database query TIMEOUT after 30s
+2026-10-30 06:16:05 [ERROR] db-01 Connection TIMEOUT to TRAM094 after 30s
+2026-10-30 06:18:22 [ERROR] web-02 Connection TIMEOUT to TRAM017 after 30s
+2026-10-30 06:25:10 [ERROR] db-01 ERROR 404 resource not found /static/chart-3268.js
+2026-10-30 06:29:02 [ERROR] web-02 GET /api/reports/4961 404 Not Found
+2026-10-30 06:37:12 [ERROR] db-01 GET /api/reports/2150 404 Not Found
+2026-10-30 06:37:40 [ERROR] api-01 GET /api/sensors/TRAM092 404 Not Found
+2026-10-30 06:50:04 [ERROR] web-01 Database query TIMEOUT after 30s
+2026-10-30 06:54:41 [ERROR] web-02 GET /api/reports/1433 404 Not Found
+2026-10-30 06:55:35 [ERROR] db-01 GET /api/sensors/TRAM059 404 Not Found
+2026-10-30 06:56:55 [ERROR] web-01 Connection TIMEOUT to TRAM074 after 30s
+2026-10-30 06:57:02 [ERROR] api-01 Database query TIMEOUT after 30s
+2026-10-30 06:58:25 [CRITICAL] web-01 Out of memory, service restarting
+2026-10-30 06:58:50 [ERROR] api-01 ERROR 404 resource not found /static/chart-6832.js
+2026-10-30 07:06:41 [ERROR] web-02 Connection TIMEOUT to TRAM043 after 30s
+2026-10-30 07:07:13 [ERROR] api-01 GET /api/reports/9048 404 Not Found
+2026-10-30 07:08:06 [ERROR] web-01 GET /api/sensors/TRAM068 404 Not Found
+2026-10-30 07:11:08 [ERROR] web-01 GET /api/reports/4544 404 Not Found
+2026-10-30 07:12:52 [ERROR] web-01 Connection TIMEOUT to TRAM009 after 30s
+2026-10-30 07:20:08 [ERROR] web-01 Connection TIMEOUT to TRAM001 after 30s
+2026-10-30 07:25:00 [ERROR] web-01 ERROR 404 resource not found /static/chart-8668.js
+2026-10-30 07:25:29 [ERROR] web-01 GET /api/sensors/TRAM086 404 Not Found
+2026-10-30 07:30:23 [ERROR] api-01 ERROR 404 resource not found /static/chart-5710.js
+2026-10-30 07:33:26 [ERROR] web-02 Connection TIMEOUT to TRAM005 after 30s
+2026-10-30 07:37:07 [ERROR] db-01 ERROR 404 resource not found /static/chart-5363.js
+2026-10-30 07:44:41 [ERROR] db-01 Database query TIMEOUT after 30s
+2026-10-30 07:47:14 [ERROR] api-01 GET /api/reports/9893 404 Not Found
+2026-10-30 07:55:07 [ERROR] api-01 Database query TIMEOUT after 30s
+2026-10-30 07:58:12 [ERROR] api-01 Database query TIMEOUT after 30s
+2026-10-30 07:58:50 [ERROR] web-01 GET /api/reports/7249 404 Not Found
+2026-10-30 07:59:14 [ERROR] web-01 Database query TIMEOUT after 30s
+2026-10-30 08:05:30 [ERROR] web-01 Connection TIMEOUT to TRAM008 after 30s
+2026-10-30 08:05:53 [ERROR] web-02 Connection TIMEOUT to TRAM013 after 30s
+2026-10-30 08:07:03 [ERROR] web-02 Database query TIMEOUT after 30s
+2026-10-30 08:09:01 [CRITICAL] web-02 Disk full on /data, write failed
+2026-10-30 08:09:34 [ERROR] web-01 ERROR 404 resource not found /static/chart-8376.js
+2026-10-30 08:10:14 [ERROR] db-01 GET /api/sensors/TRAM091 404 Not Found
+2026-10-30 08:12:04 [ERROR] api-01 Database query TIMEOUT after 30s
+2026-10-30 08:14:10 [ERROR] web-02 GET /api/sensors/TRAM032 404 Not Found
+2026-10-30 08:16:06 [ERROR] db-01 GET /api/sensors/TRAM007 404 Not Found
+2026-10-30 08:21:01 [ERROR] api-01 Connection TIMEOUT to TRAM070 after 30s
+2026-10-30 08:22:04 [ERROR] web-01 Connection TIMEOUT to TRAM082 after 30s
+2026-10-30 08:27:14 [ERROR] web-02 Database query TIMEOUT after 30s
+2026-10-30 08:29:20 [ERROR] api-01 GET /api/sensors/TRAM004 404 Not Found
+2026-10-30 08:32:45 [ERROR] web-01 GET /api/reports/7934 404 Not Found
+2026-10-30 08:36:45 [ERROR] web-01 GET /api/reports/8566 404 Not Found
+2026-10-30 08:37:55 [ERROR] web-02 ERROR 404 resource not found /static/chart-5712.js
+2026-10-30 08:48:22 [ERROR] db-01 GET /api/sensors/TRAM020 404 Not Found
+2026-10-30 09:02:23 [ERROR] db-01 Database query TIMEOUT after 30s
+2026-10-30 09:05:53 [CRITICAL] db-01 Sensor gateway unreachable, 12 stations offline
+2026-10-30 09:08:48 [ERROR] db-01 GET /api/sensors/TRAM084 404 Not Found
+2026-10-30 09:10:37 [ERROR] api-01 Database query TIMEOUT after 30s
+2026-10-30 09:12:38 [ERROR] api-01 GET /api/reports/3358 404 Not Found
+2026-10-30 09:14:13 [ERROR] web-02 Database query TIMEOUT after 30s
+2026-10-30 09:15:28 [CRITICAL] web-01 Disk full on /data, write failed
+2026-10-30 09:23:25 [ERROR] web-02 Database query TIMEOUT after 30s
+2026-10-30 09:28:23 [ERROR] web-01 GET /api/sensors/TRAM062 404 Not Found
+2026-10-30 09:29:57 [ERROR] web-01 Connection TIMEOUT to TRAM013 after 30s
+2026-10-30 09:31:49 [CRITICAL] web-01 Sensor gateway unreachable, 12 stations offline
+2026-10-30 09:35:57 [ERROR] web-01 ERROR 404 resource not found /static/chart-9527.js
+2026-10-30 09:39:48 [ERROR] db-01 Database query TIMEOUT after 30s
+2026-10-30 09:47:45 [ERROR] web-01 Connection TIMEOUT to TRAM029 after 30s
+2026-10-30 09:54:34 [ERROR] web-02 Connection TIMEOUT to TRAM084 after 30s
+2026-10-30 09:56:13 [ERROR] db-01 GET /api/sensors/TRAM059 404 Not Found
+2026-10-30 10:05:46 [ERROR] api-01 Connection TIMEOUT to TRAM002 after 30s
+2026-10-30 10:08:34 [ERROR] web-02 ERROR 404 resource not found /static/chart-4820.js
+2026-10-30 10:09:06 [ERROR] db-01 Connection TIMEOUT to TRAM060 after 30s
+2026-10-30 10:09:16 [ERROR] web-01 Connection TIMEOUT to TRAM031 after 30s
+2026-10-30 10:09:39 [ERROR] web-02 GET /api/reports/6392 404 Not Found
+2026-10-30 10:14:57 [ERROR] db-01 GET /api/sensors/TRAM060 404 Not Found
+2026-10-30 10:30:22 [ERROR] web-01 Database query TIMEOUT after 30s
+2026-10-30 10:32:06 [ERROR] web-01 GET /api/sensors/TRAM075 404 Not Found
+2026-10-30 10:33:54 [ERROR] db-01 GET /api/sensors/TRAM034 404 Not Found
+2026-10-30 10:44:24 [ERROR] api-01 Database query TIMEOUT after 30s
+2026-10-30 10:46:52 [ERROR] web-01 GET /api/sensors/TRAM049 404 Not Found
+2026-10-30 10:49:54 [ERROR] api-01 Connection TIMEOUT to TRAM048 after 30s
+2026-10-30 10:50:56 [ERROR] api-01 GET /api/sensors/TRAM048 404 Not Found
+2026-10-30 10:58:30 [ERROR] db-01 GET /api/reports/2156 404 Not Found
+2026-10-30 10:59:25 [ERROR] api-01 Connection TIMEOUT to TRAM078 after 30s
+2026-10-30 11:00:30 [ERROR] api-01 ERROR 404 resource not found /static/chart-4324.js
+2026-10-30 11:02:19 [ERROR] web-02 GET /api/sensors/TRAM028 404 Not Found
+2026-10-30 11:05:36 [ERROR] web-01 GET /api/reports/1203 404 Not Found
+2026-10-30 11:08:01 [ERROR] web-01 GET /api/sensors/TRAM017 404 Not Found
+2026-10-30 11:15:45 [ERROR] api-01 GET /api/reports/8915 404 Not Found
+2026-10-30 11:19:16 [ERROR] web-02 Database query TIMEOUT after 30s
+2026-10-30 11:19:51 [CRITICAL] api-01 Database connection pool exhausted
+2026-10-30 11:20:06 [ERROR] web-01 GET /api/sensors/TRAM005 404 Not Found
+2026-10-30 11:25:22 [ERROR] web-01 Connection TIMEOUT to TRAM095 after 30s
+2026-10-30 11:28:03 [ERROR] web-02 GET /api/sensors/TRAM092 404 Not Found
+2026-10-30 11:29:05 [ERROR] web-01 Connection TIMEOUT to TRAM045 after 30s
+2026-10-30 11:29:44 [ERROR] db-01 ERROR 404 resource not found /static/chart-5933.js
+2026-10-30 11:35:21 [ERROR] api-01 Database query TIMEOUT after 30s
+2026-10-30 11:40:07 [ERROR] web-02 Database query TIMEOUT after 30s
+2026-10-30 11:43:57 [CRITICAL] web-01 Out of memory, service restarting
+2026-10-30 11:45:30 [ERROR] db-01 Database query TIMEOUT after 30s
+2026-10-30 11:46:16 [CRITICAL] api-01 Sensor gateway unreachable, 12 stations offline
+2026-10-30 11:47:28 [CRITICAL] web-01 Database connection pool exhausted
+2026-10-30 11:50:06 [CRITICAL] db-01 Disk full on /data, write failed
+2026-10-30 11:54:27 [ERROR] web-02 GET /api/reports/6678 404 Not Found
+2026-10-30 11:55:32 [ERROR] web-01 Database query TIMEOUT after 30s
+2026-10-30 11:58:08 [ERROR] web-01 GET /api/reports/3914 404 Not Found
+2026-10-30 11:59:46 [ERROR] api-01 Connection TIMEOUT to TRAM055 after 30s
+2026-10-30 12:03:25 [CRITICAL] db-01 Disk full on /data, write failed
+2026-10-30 12:05:16 [ERROR] db-01 GET /api/reports/8276 404 Not Found
+2026-10-30 12:08:30 [ERROR] api-01 Connection TIMEOUT to TRAM017 after 30s
+2026-10-30 12:14:08 [ERROR] api-01 Connection TIMEOUT to TRAM078 after 30s
+2026-10-30 12:16:13 [ERROR] web-01 GET /api/reports/3834 404 Not Found
+2026-10-30 12:18:49 [ERROR] web-02 GET /api/reports/5257 404 Not Found
+2026-10-30 12:21:13 [ERROR] api-01 ERROR 404 resource not found /static/chart-1738.js
+2026-10-30 12:25:09 [ERROR] web-01 Database query TIMEOUT after 30s
+2026-10-30 12:25:47 [ERROR] web-02 Connection TIMEOUT to TRAM005 after 30s
+2026-10-30 12:26:02 [ERROR] web-01 GET /api/sensors/TRAM092 404 Not Found
+2026-10-30 12:26:56 [ERROR] web-02 Database query TIMEOUT after 30s
+2026-10-30 12:31:05 [ERROR] web-01 Connection TIMEOUT to TRAM052 after 30s
+2026-10-30 12:31:27 [ERROR] web-01 Database query TIMEOUT after 30s
+2026-10-30 12:33:20 [ERROR] web-01 ERROR 404 resource not found /static/chart-9406.js
+2026-10-30 12:33:49 [ERROR] api-01 GET /api/reports/9735 404 Not Found
+2026-10-30 12:42:11 [ERROR] api-01 Database query TIMEOUT after 30s
+2026-10-30 12:44:50 [ERROR] db-01 GET /api/reports/6731 404 Not Found
+2026-10-30 12:49:55 [CRITICAL] db-01 Disk full on /data, write failed
+2026-10-30 12:51:39 [ERROR] web-02 Database query TIMEOUT after 30s
+2026-10-30 12:53:50 [ERROR] api-01 GET /api/sensors/TRAM020 404 Not Found
+2026-10-30 12:56:09 [ERROR] db-01 GET /api/reports/9756 404 Not Found
+2026-10-30 12:59:07 [ERROR] web-02 GET /api/sensors/TRAM079 404 Not Found
+2026-10-30 13:04:57 [CRITICAL] web-02 Disk full on /data, write failed
+2026-10-30 13:17:04 [ERROR] db-01 GET /api/sensors/TRAM037 404 Not Found
+2026-10-30 13:17:54 [ERROR] api-01 GET /api/reports/7734 404 Not Found
+2026-10-30 13:19:11 [ERROR] db-01 GET /api/sensors/TRAM042 404 Not Found
+2026-10-30 13:20:26 [ERROR] db-01 Database query TIMEOUT after 30s
+2026-10-30 13:21:16 [ERROR] web-02 GET /api/sensors/TRAM022 404 Not Found
+2026-10-30 13:21:42 [ERROR] web-02 GET /api/reports/2073 404 Not Found
+2026-10-30 13:36:03 [ERROR] db-01 GET /api/reports/3963 404 Not Found
+2026-10-30 13:43:10 [ERROR] db-01 Connection TIMEOUT to TRAM039 after 30s
+2026-10-30 13:43:23 [ERROR] api-01 ERROR 404 resource not found /static/chart-8008.js
+2026-10-30 14:00:17 [ERROR] db-01 Connection TIMEOUT to TRAM041 after 30s
+2026-10-30 14:08:44 [ERROR] db-01 GET /api/reports/9677 404 Not Found
+2026-10-30 14:10:29 [ERROR] web-02 Database query TIMEOUT after 30s
+2026-10-30 14:11:26 [ERROR] api-01 Connection TIMEOUT to TRAM013 after 30s
+2026-10-30 14:15:01 [ERROR] web-01 GET /api/reports/9064 404 Not Found
+2026-10-30 14:15:55 [ERROR] web-01 ERROR 404 resource not found /static/chart-8588.js
+2026-10-30 14:19:20 [ERROR] db-01 Database query TIMEOUT after 30s
+2026-10-30 14:21:02 [ERROR] web-01 Connection TIMEOUT to TRAM010 after 30s
+2026-10-30 14:21:35 [ERROR] web-01 Connection TIMEOUT to TRAM014 after 30s
+2026-10-30 14:24:51 [ERROR] web-01 GET /api/sensors/TRAM052 404 Not Found
+2026-10-30 14:27:59 [ERROR] db-01 Database query TIMEOUT after 30s
+2026-10-30 14:29:59 [ERROR] api-01 Database query TIMEOUT after 30s
+2026-10-30 14:31:51 [ERROR] db-01 ERROR 404 resource not found /static/chart-9556.js
+2026-10-30 14:33:38 [ERROR] web-02 GET /api/reports/9638 404 Not Found
+2026-10-30 14:35:11 [ERROR] api-01 Connection TIMEOUT to TRAM094 after 30s
+2026-10-30 14:39:20 [ERROR] db-01 GET /api/sensors/TRAM006 404 Not Found
+2026-10-30 14:41:58 [ERROR] web-01 GET /api/sensors/TRAM031 404 Not Found
+2026-10-30 14:45:24 [CRITICAL] api-01 Out of memory, service restarting
+2026-10-30 14:45:54 [ERROR] web-01 GET /api/reports/5467 404 Not Found
+2026-10-30 14:52:38 [ERROR] web-02 Database query TIMEOUT after 30s
+2026-10-30 14:54:54 [ERROR] api-01 Connection TIMEOUT to TRAM010 after 30s
+2026-10-30 14:58:35 [CRITICAL] api-01 Database connection pool exhausted
+2026-10-30 15:04:57 [ERROR] db-01 GET /api/sensors/TRAM010 404 Not Found
+2026-10-30 15:13:07 [ERROR] db-01 ERROR 404 resource not found /static/chart-2199.js
+2026-10-30 15:13:40 [ERROR] api-01 ERROR 404 resource not found /static/chart-6129.js
+2026-10-30 15:16:18 [ERROR] db-01 GET /api/reports/6167 404 Not Found
+2026-10-30 15:20:36 [ERROR] web-01 GET /api/reports/1481 404 Not Found
+2026-10-30 15:23:23 [CRITICAL] api-01 Disk full on /data, write failed
+2026-10-30 15:26:13 [ERROR] web-02 Connection TIMEOUT to TRAM011 after 30s
+2026-10-30 15:28:23 [ERROR] web-02 Database query TIMEOUT after 30s
+2026-10-30 15:29:24 [ERROR] web-01 GET /api/sensors/TRAM003 404 Not Found
+2026-10-30 15:32:04 [ERROR] web-01 Database query TIMEOUT after 30s
+2026-10-30 15:34:09 [ERROR] web-01 GET /api/sensors/TRAM091 404 Not Found
+2026-10-30 15:35:08 [ERROR] api-01 GET /api/reports/7587 404 Not Found
+2026-10-30 15:43:54 [CRITICAL] db-01 Out of memory, service restarting
+2026-10-30 15:44:41 [ERROR] web-02 Connection TIMEOUT to TRAM043 after 30s
+2026-10-30 15:47:17 [ERROR] web-01 GET /api/sensors/TRAM077 404 Not Found
+2026-10-30 15:52:02 [ERROR] web-01 GET /api/sensors/TRAM040 404 Not Found
+2026-10-30 15:52:52 [ERROR] db-01 Connection TIMEOUT to TRAM001 after 30s
+2026-10-30 15:53:03 [ERROR] api-01 GET /api/reports/7173 404 Not Found
+2026-10-30 15:57:56 [ERROR] api-01 GET /api/reports/2473 404 Not Found
+2026-10-30 16:03:25 [CRITICAL] web-01 Disk full on /data, write failed
+2026-10-30 16:10:14 [ERROR] api-01 ERROR 404 resource not found /static/chart-7106.js
+2026-10-30 16:10:51 [ERROR] web-02 ERROR 404 resource not found /static/chart-5103.js
+2026-10-30 16:11:22 [ERROR] web-01 GET /api/sensors/TRAM066 404 Not Found
+2026-10-30 16:15:20 [ERROR] web-02 ERROR 404 resource not found /static/chart-3699.js
+2026-10-30 16:16:12 [ERROR] api-01 Connection TIMEOUT to TRAM080 after 30s
+2026-10-30 16:16:46 [ERROR] db-01 Database query TIMEOUT after 30s
+2026-10-30 16:17:21 [ERROR] web-01 GET /api/sensors/TRAM069 404 Not Found
+2026-10-30 16:18:29 [ERROR] web-02 GET /api/reports/7035 404 Not Found
+2026-10-30 16:18:50 [ERROR] db-01 Database query TIMEOUT after 30s
+2026-10-30 16:31:01 [ERROR] api-01 GET /api/reports/2269 404 Not Found
+2026-10-30 16:34:21 [ERROR] api-01 Connection TIMEOUT to TRAM015 after 30s
+2026-10-30 16:37:12 [ERROR] db-01 ERROR 404 resource not found /static/chart-4652.js
+2026-10-30 16:39:23 [ERROR] db-01 ERROR 404 resource not found /static/chart-2418.js
+2026-10-30 16:39:49 [ERROR] api-01 GET /api/reports/4805 404 Not Found
+2026-10-30 16:48:41 [CRITICAL] api-01 Sensor gateway unreachable, 12 stations offline
+2026-10-30 16:51:37 [ERROR] web-02 GET /api/sensors/TRAM019 404 Not Found
+2026-10-30 16:53:11 [ERROR] web-01 GET /api/reports/7290 404 Not Found
+2026-10-30 16:57:09 [ERROR] db-01 GET /api/sensors/TRAM051 404 Not Found
+2026-10-30 16:57:57 [ERROR] api-01 GET /api/sensors/TRAM026 404 Not Found
+2026-10-30 17:01:53 [CRITICAL] web-02 Disk full on /data, write failed
+2026-10-30 17:08:31 [ERROR] db-01 GET /api/sensors/TRAM048 404 Not Found
+2026-10-30 17:15:29 [ERROR] api-01 Database query TIMEOUT after 30s
+2026-10-30 17:19:41 [ERROR] web-02 ERROR 404 resource not found /static/chart-8707.js
+2026-10-30 17:20:00 [ERROR] db-01 Connection TIMEOUT to TRAM036 after 30s
+2026-10-30 17:21:05 [ERROR] api-01 Connection TIMEOUT to TRAM007 after 30s
+2026-10-30 17:23:25 [ERROR] web-01 Database query TIMEOUT after 30s
+2026-10-30 17:26:43 [CRITICAL] db-01 Sensor gateway unreachable, 12 stations offline
+2026-10-30 17:31:04 [ERROR] web-02 Connection TIMEOUT to TRAM094 after 30s
+2026-10-30 17:32:41 [ERROR] api-01 GET /api/reports/9362 404 Not Found
+2026-10-30 17:37:37 [ERROR] api-01 Database query TIMEOUT after 30s
+2026-10-30 17:39:06 [ERROR] web-02 GET /api/reports/6975 404 Not Found
+2026-10-30 17:42:41 [ERROR] api-01 Connection TIMEOUT to TRAM081 after 30s
+2026-10-30 17:45:28 [ERROR] web-01 Database query TIMEOUT after 30s
+2026-10-30 17:59:44 [ERROR] web-01 Database query TIMEOUT after 30s
+2026-10-30 18:04:20 [ERROR] api-01 GET /api/sensors/TRAM058 404 Not Found
+2026-10-30 18:07:22 [CRITICAL] api-01 Disk full on /data, write failed
+2026-10-30 18:07:28 [ERROR] db-01 ERROR 404 resource not found /static/chart-7539.js
+2026-10-30 18:08:01 [ERROR] api-01 Connection TIMEOUT to TRAM076 after 30s
+2026-10-30 18:10:41 [ERROR] db-01 Database query TIMEOUT after 30s
+2026-10-30 18:12:47 [CRITICAL] web-01 Out of memory, service restarting
+2026-10-30 18:15:15 [ERROR] db-01 ERROR 404 resource not found /static/chart-3847.js
+2026-10-30 18:16:54 [ERROR] db-01 Connection TIMEOUT to TRAM051 after 30s
+2026-10-30 18:17:02 [ERROR] web-02 ERROR 404 resource not found /static/chart-4787.js
+2026-10-30 18:17:21 [ERROR] web-02 Database query TIMEOUT after 30s
+2026-10-30 18:18:14 [CRITICAL] web-02 Disk full on /data, write failed
+2026-10-30 18:18:49 [CRITICAL] web-01 Disk full on /data, write failed
+2026-10-30 18:20:21 [ERROR] db-01 GET /api/reports/2496 404 Not Found
